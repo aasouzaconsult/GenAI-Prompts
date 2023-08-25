@@ -10,13 +10,13 @@ Neste repositório, exploramos diferentes aplicações e técnicas de Inteligên
 
 ## Conteúdo
 
-- [Prompts para Analistas de Dados - Excel, SQL, Python, Power BI...](https://github.com/aasouzaconsult/GEN-IA_NLP_e_IR/blob/master/GEN-AI/Prompts%20para%20Analistas%20de%20Dados.md)
-- [Ajudando um analista de dados em tarefas de modelagem (relacional e dimensional)](https://github.com/aasouzaconsult/GEN-IA_NLP_e_IR/blob/master/GEN-AI/da_gpt.md)
-- [Melhorando rascunhos de Especificações de Requisitos](https://github.com/aasouzaconsult/GEN-IA_NLP_e_IR/blob/master/GEN-AI/requisitos_gpt.md)
-- [KPIs](https://github.com/aasouzaconsult/GEN-IA_NLP_e_IR/blob/master/GEN-AI/kpis.md)
-- [Boas práticas de SQL](https://github.com/aasouzaconsult/GEN-IA_NLP_e_IR/blob/master/GEN-AI/boas_praticas_sql_gpt.md)
-- [Documentação de Consultas SQL - Entendimento](https://github.com/aasouzaconsult/GEN-IA_NLP_e_IR/blob/master/GEN-AI/DocumentacaoDeConsultaSQL.md)
-- [Plano de estudos](https://github.com/aasouzaconsult/GEN-IA_NLP_e_IR/blob/master/GEN-AI/plano%20de%20estudo%20-%20pentaho.md)
+- [Prompts para Analistas de Dados - Excel, SQL, Python, Power BI...](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/Prompts%20para%20Analistas%20de%20Dados.md)
+- [Ajudando um analista de dados em tarefas de modelagem (relacional e dimensional)](https://github.com/aasouzaconsult/GenAI-Prompts/blob/master/GEN-AI/da_gpt.md)
+- [Melhorando rascunhos de Especificações de Requisitos](https://github.com/aasouzaconsult/GenAI-Prompts/blob/master/GEN-AI/requisitos_gpt.md)
+- [KPIs](https://github.com/aasouzaconsult/GenAI-Prompts/blob/master/GEN-AI/kpis.md)
+- [Boas práticas de SQL](https://github.com/aasouzaconsult/GenAI-Prompts/blob/master/GEN-AI/boas_praticas_sql_gpt.md)
+- [Documentação de Consultas SQL - Entendimento](https://github.com/aasouzaconsult/GenAI-Prompts/blob/master/GEN-AI/DocumentacaoDeConsultaSQL.md)
+- [Plano de estudos](https://github.com/aasouzaconsult/GenAI-Prompts/blob/master/GEN-AI/plano%20de%20estudo%20-%20pentaho.md)
 
 ## Contribuição
 
