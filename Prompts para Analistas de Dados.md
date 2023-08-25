@@ -149,7 +149,7 @@ Sistemas
 Enriquecer essa especificação de requisitos e colocar num formato padrão de especificação (gerar em formato .md)
 ```
 
-[mais informações](https://github.com/aasouzaconsult/GEN-IA_NLP_e_IR/blob/master/GEN-AI/requisitos_gpt.md)
+[mais informações](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/requisitos_gpt.md)
 
 
 # KPIS 📊📈🔑
@@ -174,7 +174,7 @@ Você como um grande analista de dados do ramo de rh, monte uma pequena base de 
 
 [mais informações](https://medium.com/blog-do-zouza/decifrando-kpis-a-f%C3%B3rmula-do-sucesso-para-seu-neg%C3%B3cio-d6a34e52ea9)
 
-[exemplo](https://github.com/aasouzaconsult/GEN-IA_NLP_e_IR/blob/master/GEN-AI/kpis.md)
+[exemplo](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/kpis.md)
 
 # SQL 🗃️🔍
 
@@ -315,9 +315,11 @@ ORDER BY
 
 ## Normalização
 
-[Mais informações](https://github.com/aasouzaconsult/GEN-IA_NLP_e_IR/blob/master/GEN-AI/da_gpt.md)
+[Mais informações](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/da_gpt.md)
 
+## Boas Práticas - SQL
 
+[Mais informações](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/boas_praticas_sql_gpt.md)
 
 # Python 🐍
 
@@ -613,40 +615,11 @@ Sou analista de negócios e preciso criar um painel para a alta administração 
 
 # Plano de Estudo 📚🗓️
 
-## 🤓
-Identifique os 20% do que é preciso aprender sobre SQL que vão proporcionar 80% dos resultados e crie um plano de estudo focado nesse objetivo.
+## SQL
+[Mais informações](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/Plano%20de%20Estudo%20-%20sql.md)
 
----
-## 🤓
-Explique o SQL do jeito mais simples possível, como se estivesse ensinando para um completo iniciante. Também identifique lacunas na minha compreensão e sugira recursos para preenchê-las.
-
----
-## 🤓
-Crie um plano de estudos que combine diferentes tópicos sobre SQL para me ajudar a desenvolver um entendimento mais completo e facilitar as conexões no meu raciocínio.
-
----
-## 🤓
-Desenvolva uma agenda de estudos com repetição espaçada para que eu possa revisar [SQL] de um jeito eficiente ao longo do tempo, com o objetivo de lembrar mais facilmente.
-
----
-## 🤓
-Ajude-me a criar modelos mentais ou analogias para entender melhor e lembrar de conceitos-chave sobre SQL.
-
----
-## 🤓
-Sugira várias fontes diferentes (vídeos, livros, podcasts, exercícios práticos) para que eu possa aprender SQL, considerando diferentes estilos de aprendizagem
-
----
-## 🤓
-Faça uma série de perguntas no estilo desafios relacionadas a SQL para testar meus conhecimentos e melhorar minha memória de longo prazo.
-
----
-## 🤓
-Transforme tópicos centrais sobre SQL em histórias ou narrativas interessantes para que eu possa lembrar e entender melhor esse assunto.
-
----
-## 🤓
-Desenvolva uma rotina de tarefas práticas para meus estudos de SQL, de modo a foca em meus pontos fracos e com feedbacks constantes para minha evolução.
+## Pentaho
+[Mais informações](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/Plano%20de%20Estudo%20-%20pentaho.md)
 
 ---
 ## Mais informações
