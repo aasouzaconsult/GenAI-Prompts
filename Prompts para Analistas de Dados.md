@@ -625,3 +625,4 @@ Sou analista de negócios e preciso criar um painel para a alta administração 
 ## Mais informações
 - [Visão Geral - ChatGPT](https://medium.com/blog-do-zouza/chatgpt-vis%C3%A3o-geral-f68ed1d1cf54)
 - [ChatGPT - Criando Medidas DAX com ChatGPT](https://www.youtube.com/watch?v=vo9uo6aFLME)
+- [Imagens - Leonardo AI 📷🖼️](https://github.com/aasouzaconsult/GenAI-Prompts/tree/main/Leonardo%20AI)
