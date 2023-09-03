@@ -151,6 +151,30 @@ Enriquecer essa especificação de requisitos e colocar num formato padrão de e
 
 [mais informações](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/requisitos_gpt.md)
 
+## Comparar artigos (gerar resumo)
+
+[Cohere Playgrourd](https://dashboard.cohere.com/playground/generate) (modelo específico para sumarização de conteúdo)
+
+Nóticias:
+- https://techcrunch.com/2023/08/29/general-motors-to-use-google-ai-chatbot-for-its-onstar-service/
+- https://www.theverge.com/23845856/google-notebooklm-tailwind-ai-notes-research
+
+**Colocar no ChatGPT:**
+
+💻> Irei te enviar o resumo de dois conteúdos em inglês e preciso que você extraia as principais entidades e suas relações de cada um dos resumos. A partir disso crie um diagrama, em português brasileiro, no formato mermaid mostrando a relação entre estas entidades dos dois resumos.
+
+Resumo 1:
+"
+"
+
+Resumo 2:
+"
+"
+
+**Para visualizar**
+- https://mermaid.live/
+    - colar o código e remover os parenteses
+
 
 # KPIS 📊📈🔑
 ```
