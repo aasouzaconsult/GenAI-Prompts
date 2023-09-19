@@ -27,6 +27,10 @@ Character portrait of Albert Einstein, standing on stage, side profile, caricatu
 ```
 Retrato de personagem de Albert Einstein, em pé no palco, perfil lateral, caricatura, chibi, kawaii, renderização em 3D, renderização de octanas, luz volumétrica, moda vitoriana, metálico, rosto simétrico altamente detalhado, olhos detalhados, ultra nítido, mais alta qualidade, arte de Anja Millen e George Cruikshank e Bordalo II, foco suave e nítido, tendências no artforum, behance hd, estilo livro de histórias infantis, cores suaves, estilo aquarela
 
+```
+Retrato de personagem do Steve Jobs, em pé no palco, perfil lateral, caricatura, chibi, kawaii, renderização em 3D, renderização de octanas, luz volumétrica, moda vitoriana, metálico, rosto simétrico altamente detalhado, olhos detalhados, ultra nítido, mais alta qualidade, arte de Anja Millen e George Cruikshank e Bordalo II, foco suave e nítido, tendências no artforum, behance hd, estilo livro de histórias infantis, cores suaves, estilo aquarela
+```
+
 ---
 ```
 samurai, blood moon, night, battle, burning village
