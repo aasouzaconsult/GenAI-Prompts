@@ -636,6 +636,27 @@ Quais são as práticas recomendadas ao usar um gráfico de pizza?
 Sou analista de negócios e preciso criar um painel para a alta administração visualizar os KPIs e monitorar o desempenho geral da empresa. Você pode me dizer como criar um painel que forneça uma visão abrangente das métricas críticas para auxiliar na tomada de decisões estratégicas e impulsionar o crescimento dos negócios?
 ```
 
+## Visual - Dicas de Cores (Paleta de cores)
+```
+Você conseguiria me ajudar a criar uma paleta de cores se eu te contar um pouco sobre o estilo da empresa?
+```
+
+```
+Me faça perguntas específicas que te ajudarão a descobrir o estilo da empresa
+```
+
+*Responda as perguntas, sendo o mais detalhista possível*
+
+```
+Qual seria o código hexadecimal destas cores?
+```
+
+```
+Gere a lista de cores em markdown e inclua a seguinte imagem:
+https://singlecolorimage.com/get/{hex_code}/400x100
+
+Substituindo {hex_code} pelo código hexadecimal da cor, mas não inclua o caracter #
+```
 
 # Plano de Estudo 📚🗓️
 
@@ -651,3 +672,7 @@ Sou analista de negócios e preciso criar um painel para a alta administração 
 - [ChatGPT - Criando Medidas DAX com ChatGPT](https://www.youtube.com/watch?v=vo9uo6aFLME)
 - [Imagens - Leonardo AI 📷🖼️](https://github.com/aasouzaconsult/GenAI-Prompts/tree/main/Leonardo%20AI)
 - [Dicas de Prompt](https://www.promptingguide.ai/pt/introduction/basics)
+
+## Atenção
+- As GenAI são sujeitas a alucinações
+- Sempre revisem o conteúdo, lembrando, vc é o piloto!
