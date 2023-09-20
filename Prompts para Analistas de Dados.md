@@ -149,6 +149,11 @@ Sistemas
 Enriquecer essa especificação de requisitos e colocar num formato padrão de especificação (gerar em formato .md)
 ```
 
+## Pedindo ajuda sobre requisito...
+```
+Preciso elaborar perguntas para uma análise de requisitos para um setor de observatório de saúde (sono, absenteismo). Quais perguntas você faria?
+```
+
 [mais informações](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/requisitos_gpt.md)
 
 ## Comparar artigos (gerar resumo)
