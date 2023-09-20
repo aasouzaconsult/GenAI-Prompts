@@ -164,7 +164,7 @@ Nóticias:
 - https://techcrunch.com/2023/08/29/general-motors-to-use-google-ai-chatbot-for-its-onstar-service/
 - https://www.theverge.com/23845856/google-notebooklm-tailwind-ai-notes-research
 
-**Colocar no ChatGPT:**
+**Colocar o resumo gerado na ferramenta acima no ChatGPT:**
 
 💻> Irei te enviar o resumo de dois conteúdos em inglês e preciso que você extraia as principais entidades e suas relações de cada um dos resumos. A partir disso crie um diagrama, em português brasileiro, no formato mermaid mostrando a relação entre estas entidades dos dois resumos.
 
