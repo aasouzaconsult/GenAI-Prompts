@@ -17,6 +17,7 @@ Neste repositório, exploramos diferentes aplicações e técnicas de Inteligên
 - [Boas práticas de SQL](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/boas_praticas_sql_gpt.md)
 - [Documentação de Consultas SQL - Entendimento](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/DocumentacaoDeConsultaSQL.md)
 - [Plano de estudos Pentaho](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/Plano%20de%20Estudo%20-%20pentaho.md) | [Plano de estudos SQL](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/Plano%20de%20Estudo%20-%20sql.md)
+- [Rascunhos - não publicados](https://www.notion.so/GenAI-Prompts-e-Tools-925016bc433042ab8ce689fc5a3ffc70?pvs=4)
 
 ## Contribuição
 
