@@ -677,6 +677,7 @@ Substituindo {hex_code} pelo código hexadecimal da cor, mas não inclua o carac
 - [ChatGPT - Criando Medidas DAX com ChatGPT](https://www.youtube.com/watch?v=vo9uo6aFLME)
 - [Imagens - Leonardo AI 📷🖼️](https://github.com/aasouzaconsult/GenAI-Prompts/tree/main/Leonardo%20AI)
 - [Dicas de Prompt](https://www.promptingguide.ai/pt/introduction/basics)
+- [Mais dicas de Prompts](https://medium.com/@petrusje/domine-a-arte-de-criar-prompts-eficientes-para-chatgpt-e-outras-ias-uma-base-s%C3%B3lida-b78f3b30fd9a)
 
 ## Atenção
 - As GenAI são sujeitas a alucinações
