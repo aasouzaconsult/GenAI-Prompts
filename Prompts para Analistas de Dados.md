@@ -1,6 +1,32 @@
 # 💻> Prompts para Analista de Dados
 Abaixo, alguns prompts que podem ajudar no dia a dia de um analista de dados.
 
+Esta dividido nas seguintes seções:
+- Excel / Sheets
+- Requisitos de Negócios
+- KPI´s
+- SQL
+- Python
+- Interpretação de Resultados - Machine Learning
+- Power BI | DAX | M
+- Criação de Imagem (Extra)
+
+Espero que gostem! Vamos lá?
+Mas antes, algumas dicas...
+
+# Dica Inicial
+
+## Independente de Modelo ou Plataforma
+Aqui você pode colocar estes prompts no [Bard](https://bard.google.com/), no [ChatGPT](https://chat.openai.com/), [Bing AI](https://www.microsoft.com/en-us/bing?form=MA13FV), ou qualquer outro que irá funcionar, a resposta vai variar dependendo do modelo.
+
+## Sempre uma Conversa Nova
+Sugiro que cada tópico ou assunto que for perguntar para as *generative ai* sejam feitas de forma distinta - sempre abra uma nova conversa, não misturar assuntos!
+
+## Qualidade de Prompts
+Sempre detalhe bem sua necessidade! Costumo dizer que se você desenvolver bons prompts eles irão trazer os resultados que estão buscando.
+
+Agora sim, vamos lá...
+
 
 # No Excel / Sheets 📊📄
 
