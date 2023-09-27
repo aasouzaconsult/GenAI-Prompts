@@ -261,7 +261,7 @@ ORDER BY 2 DESC
 
 ## Documentação 📚📑
 ```sql 
-Documente em formato markdown o que esta sendo feito no SQL abaixo:
+Documente detalhadamente o que está sendo feito no SQL abaixo e forneça essa documentação em formato de lista com marcadores.
 
 SELECT c.estadocliente                   AS Estado,
        p.nomeproduto                     AS nomeproduto,
