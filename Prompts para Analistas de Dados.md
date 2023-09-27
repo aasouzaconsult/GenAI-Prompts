@@ -275,12 +275,12 @@ SELECT c.estadocliente                   AS Estado,
  ORDER BY c.estadocliente, p.nomeproduto;
 ```
 
-## Identação e Comentários ✍️🗂️
+## Indentação e Comentários ✍️🗂️
 
 ```sql
 Você atuará como um Analista Sênior especialista em SQL. Você estará me ajudando, um analista júnior em sua equipe. entender consultas SQL que usaremos juntos no trabalho.
 
-Você poderia adicionar identação, comentários à consulta a seguir para facilitar o entendimento de outros analistas?
+Você poderia adicionar indentação, comentários à consulta a seguir para facilitar o entendimento de outros analistas?
 
 CREATE TEMPORARY TABLE tmp_students AS SELECT id, name FROM students;
 CREATE TEMPORARY TABLE tmp_scores AS SELECT student_id, score FROM exam_scores;
