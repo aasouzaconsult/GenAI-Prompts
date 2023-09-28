@@ -23,6 +23,12 @@ Arte latte de aquarela neon mágica, design intrincado, vapor subindo da xícara
 
 ---
 ```
+A 3D render of a coffee mug placed on a window sill during a stormy day. The storm outside the window is reflected in the coffee, with miniature lightning bolts and turbulent waves seen inside the mug. The room is dimly lit, adding to the dramatic atmosphere.
+```
+Uma renderização 3D de uma caneca de café colocada no parapeito de uma janela durante um dia tempestuoso. A tempestade do lado de fora da janela se reflete no café, com relâmpagos em miniatura e ondas turbulentas vistas dentro da caneca. A sala está mal iluminada, aumentando a atmosfera dramática.
+
+---
+```
 Character portrait of Albert Einstein, standing on stage, side profile, caricature, chibi, kawaii,3d rendering, octane rendering, volumetric light, victorian fashion, metallic, highly-detailed symmetric face, detailed eyes, ultra sharp, highest quality, art by Anja Millen and George Cruikshank and Bordalo II, smooth, sharp focus, trending on artforum, behance hd, kids story book style, muted colors, watercolor style
 ```
 Retrato de personagem de Albert Einstein, em pé no palco, perfil lateral, caricatura, chibi, kawaii, renderização em 3D, renderização de octanas, luz volumétrica, moda vitoriana, metálico, rosto simétrico altamente detalhado, olhos detalhados, ultra nítido, mais alta qualidade, arte de Anja Millen e George Cruikshank e Bordalo II, foco suave e nítido, tendências no artforum, behance hd, estilo livro de histórias infantis, cores suaves, estilo aquarela
