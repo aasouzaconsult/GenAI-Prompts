@@ -18,6 +18,13 @@ Neste repositório, exploramos diferentes aplicações e técnicas de Inteligên
 - [Documentação de Consultas SQL - Entendimento](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/DocumentacaoDeConsultaSQL.md)
 - [Plano de estudos Pentaho](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/Plano%20de%20Estudo%20-%20pentaho.md) | [Plano de estudos SQL](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/Plano%20de%20Estudo%20-%20sql.md)
 - [Rascunhos - não publicados](https://www.notion.so/GenAI-Prompts-e-Tools-925016bc433042ab8ce689fc5a3ffc70?pvs=4)
+- Mais informações
+  - [Engenharia de Prompt](https://medium.com/blog-do-zouza/genai-o-que-%C3%A9-engenharia-de-prompt-6d416afe1323)
+  - [Imagens - Leonardo AI 📷🖼️](https://github.com/aasouzaconsult/GenAI-Prompts/tree/main/Leonardo%20AI)
+  - [Dicas de Prompt](https://www.promptingguide.ai/pt/introduction/basics)
+  - [Mais dicas de Prompts](https://medium.com/@petrusje/domine-a-arte-de-criar-prompts-eficientes-para-chatgpt-e-outras-ias-uma-base-s%C3%B3lida-b78f3b30fd9a)
+  - [Visão Geral - ChatGPT](https://medium.com/blog-do-zouza/chatgpt-vis%C3%A3o-geral-f68ed1d1cf54)
+  - [ChatGPT - Criando Medidas DAX com ChatGPT](https://www.youtube.com/watch?v=vo9uo6aFLME)
 
 ## Contribuição
 
