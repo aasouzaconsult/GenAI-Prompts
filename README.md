@@ -10,6 +10,7 @@ Neste repositório, exploramos diferentes aplicações e técnicas de Inteligên
 
 ## Conteúdo
 
+- [Dicas de Prompt](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/DicasDePrompts.md)
 - [Prompts para Analistas de Dados - Excel, SQL, Python, Power BI...](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/Prompts%20para%20Analistas%20de%20Dados.md)
 - [Ajudando um analista de dados em tarefas de modelagem (relacional e dimensional)](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/da_gpt.md)
 - [Melhorando rascunhos de Especificações de Requisitos](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/requisitos_gpt.md)
@@ -21,8 +22,6 @@ Neste repositório, exploramos diferentes aplicações e técnicas de Inteligên
 - Mais informações
   - [Engenharia de Prompt](https://medium.com/blog-do-zouza/genai-o-que-%C3%A9-engenharia-de-prompt-6d416afe1323)
   - [Imagens - Leonardo AI 📷🖼️](https://github.com/aasouzaconsult/GenAI-Prompts/tree/main/Leonardo%20AI)
-  - [Dicas de Prompt](https://www.promptingguide.ai/pt/introduction/basics)
-  - [Mais dicas de Prompts](https://medium.com/@petrusje/domine-a-arte-de-criar-prompts-eficientes-para-chatgpt-e-outras-ias-uma-base-s%C3%B3lida-b78f3b30fd9a)
   - [Visão Geral - ChatGPT](https://medium.com/blog-do-zouza/chatgpt-vis%C3%A3o-geral-f68ed1d1cf54)
   - [ChatGPT - Criando Medidas DAX com ChatGPT](https://www.youtube.com/watch?v=vo9uo6aFLME)
 
