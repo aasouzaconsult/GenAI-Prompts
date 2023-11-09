@@ -1,4 +1,4 @@
-# Dicas de Prompts 
+# Dicas de Prompts 💻>
 
 ## Tarefa
 Comece sua pergunta com um verbo de ação, como “gerar”, “dar”, “escrever” ou “analisar”, e seja claro sobre qual é o seu objetivo final. 
