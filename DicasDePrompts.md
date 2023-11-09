@@ -11,9 +11,9 @@ O contexto é fundamental para restringir as possibilidades. Forneça informaç�
 **Por exemplo:** Você é um analista de dados e tem um cliente que deseja minimizar custos.
 
 ## Exemplos
-Incluir exemplos na sua pergunta é uma prática recomendada. Exemplos tornam mais fácil para a IA entender o que você deseja. 
-**Por exemplo:**
-Dê um KPI relacionado ao setor financeiro referente a margem bruta por semana e que seja rápido de implementar...
+Incluir exemplos na sua pergunta é uma prática recomendada. Exemplos tornam mais fácil para a IA entender o que você deseja.
+
+**Por exemplo:** Dê um KPI relacionado ao setor financeiro referente a margem bruta por semana e que seja rápido de implementar...
 
 ## Persona
 Pense em quem você quer que a IA seja ao responder. Pode ser um especialista, um recrutador, um profissional de dados ou até mesmo um personagem fictício. 
