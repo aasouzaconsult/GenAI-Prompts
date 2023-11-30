@@ -19,6 +19,8 @@ Neste repositório, exploramos diferentes aplicações e técnicas de Inteligên
 - [Documentação de Consultas SQL - Entendimento](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/DocumentacaoDeConsultaSQL.md)
 - [Plano de estudos Pentaho](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/Plano%20de%20Estudo%20-%20pentaho.md) | [Plano de estudos SQL](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/Plano%20de%20Estudo%20-%20sql.md)
 - [Rascunhos - não publicados](https://www.notion.so/GenAI-Prompts-e-Tools-925016bc433042ab8ce689fc5a3ffc70?pvs=4)
+- Diversos
+  - [Compilar notícias](https://chat.openai.com/share/589c52f2-23c2-4cad-83ad-f6314db8c1f3)
 - Mais informações
   - [Engenharia de Prompt](https://medium.com/blog-do-zouza/genai-o-que-%C3%A9-engenharia-de-prompt-6d416afe1323)
   - [Imagens - Leonardo AI 📷🖼️](https://github.com/aasouzaconsult/GenAI-Prompts/tree/main/Leonardo%20AI)
