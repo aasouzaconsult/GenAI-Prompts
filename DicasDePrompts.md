@@ -33,5 +33,6 @@ O tom da resposta é importante. Você pode pedir um tom formal, casual, entusi�
 
 # Mais informações
 - [Engenharia de Prompts](https://medium.com/blog-do-zouza/genai-o-que-%C3%A9-engenharia-de-prompt-6d416afe1323)
+- [Dicas de Prompt - OpenAI](https://platform.openai.com/docs/guides/prompt-engineering)
 - [Dicas de Prompt](https://www.promptingguide.ai/pt/introduction/basics)
 - [Mais dicas de Prompts](https://medium.com/@petrusje/domine-a-arte-de-criar-prompts-eficientes-para-chatgpt-e-outras-ias-uma-base-s%C3%B3lida-b78f3b30fd9a)
