@@ -1,6 +1,7 @@
-# 💻>Prompts para geração de Imagem no Leonardo AI
+# 💻>Prompts para geração de Imagem (Leonardo AI, Dall-e...)
 
 [Leonardo AI](https://app.leonardo.ai/ai-generations)
+[OpenAI](https://chat.openai.com/)
 
 ---
 
@@ -95,6 +96,12 @@ Castelo mágico
 porta, Cute and adorable darkness baby, glowing smoke neon eyes, hoarfrost metal lace, fantasy, sunlight, sunbeam, intricate detail. 8k, dreamlike, surrealism, super cute, symmetrical, soft lighting, trending on artstation, intricate details, highly detailed, unreal engine, by ross tran, wlop, artgerm and james jean, Brian Froud, art illustration by Miho Hirano, Neimy Kanani, oil on canvas by Aykut Aydoğdu, oil painting, heavy strokes, paint dripping
 ```
 Criança
+
+```
+Crie um Funko Pop de uma Mulher chamada “Lídia”, brasileira, morena clara, cabelo longo castanho, boca, nariz, vestindo uma blazer roxo e camiseta branca, uma calça preta e um sapato de salto alto roxo. O Funk deve ser apresentado dentro e fora de uma caixa azul de “edição ilimitada”. A caixa deve permitir a visualização do funko, tipografia, a renderização deve ser em 3D com o fundo branco.
+
+Crie um Funko Pop de um homem chamado “Zouza”, brasileiro, branco, rosto tipo Portgas D. Ace, cabelo bem curto castanho, boca, nariz, vestindo uma camisa polo preta, uma calça jeans folgada, relógio tradicional e um sapatenis marrom. Segurando um notebook. O Funk deve ser apresentado dentro e fora de uma caixa azul de “edição ilimitada”. A caixa deve permitir a visualização do funko, tipografia, a renderização deve ser em 3D com o fundo branco.
+```
 
 ---
 [Mais opções](https://openaitrend.com/leonardo-ai-prompts/)
