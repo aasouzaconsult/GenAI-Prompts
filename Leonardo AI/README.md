@@ -1,7 +1,7 @@
 # 💻>Prompts para geração de Imagem (Leonardo AI, Dall-e...)
 
-[Leonardo AI](https://app.leonardo.ai/ai-generations)
-[OpenAI](https://chat.openai.com/)
+- [Leonardo AI](https://app.leonardo.ai/ai-generations)
+- [OpenAI](https://chat.openai.com/)
 
 ---
 
