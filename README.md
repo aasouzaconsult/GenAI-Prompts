@@ -14,6 +14,7 @@ Neste repositório, exploramos diferentes aplicações e técnicas de Inteligên
 - [Visão Geral - ChatGPT](https://medium.com/blog-do-zouza/chatgpt-vis%C3%A3o-geral-f68ed1d1cf54)
 - [LLM (Large Language Model)](https://medium.com/blog-do-zouza/tudo-o-que-voc%C3%AA-precisa-saber-sobre-llm-large-language-model-a36be85bbf8f)
 - [Comparando capacidades de LLMs](https://medium.com/blog-do-zouza/comparando-llms-large-language-models-945c9268c52f)
+- [Ética na IA](https://www.notion.so/GenAI-Dicas-Prompts-e-Tools-925016bc433042ab8ce689fc5a3ffc70)
 - [RAG - Retrieval-Augmented Generation](https://medium.com/blog-do-zouza/rag-retrieval-augmented-generation-8238a20e381d)
   - [Materiais sobre RAG](https://www.notion.so/GenAI-Dicas-Prompts-e-Tools-925016bc433042ab8ce689fc5a3ffc70)
  
