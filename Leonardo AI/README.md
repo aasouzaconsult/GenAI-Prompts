@@ -102,6 +102,7 @@ Crie um Funko Pop de uma Mulher chamada “Lídia”, brasileira, morena clara, 
 
 Crie um Funko Pop de um homem chamado “Zouza”, brasileiro, branco, rosto tipo Portgas D. Ace, cabelo bem curto castanho, boca, nariz, vestindo uma camisa polo preta, uma calça jeans folgada, relógio tradicional e um sapatenis marrom. Segurando um notebook. O Funk deve ser apresentado dentro e fora de uma caixa azul de “edição ilimitada”. A caixa deve permitir a visualização do funko, tipografia, a renderização deve ser em 3D com o fundo branco.
 ```
+Funko Pop
 
 ---
 [Mais opções](https://openaitrend.com/leonardo-ai-prompts/)
@@ -116,3 +117,5 @@ Crie um Funko Pop de um homem chamado “Zouza”, brasileiro, branco, rosto tip
 ![](https://blogdozouza.files.wordpress.com/2023/08/leonardo_diffusion_cyberpunk_2077_super_car_blue_in_cyberpunk_2.jpg)
 
 ![](https://blogdozouza.files.wordpress.com/2023/08/3d_animation_style_3d_lion_caricature_wearing_suit_and_glasses_3.jpg)
+
+![](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/Leonardo%20AI/DALLE2~1.PNG)
