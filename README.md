@@ -15,6 +15,17 @@ Neste repositório, exploramos diferentes aplicações e técnicas de Inteligên
 - [LLM (Large Language Model)](https://medium.com/blog-do-zouza/tudo-o-que-voc%C3%AA-precisa-saber-sobre-llm-large-language-model-a36be85bbf8f)
 - [Comparando capacidades de LLMs](https://medium.com/blog-do-zouza/comparando-llms-large-language-models-945c9268c52f)
 - [RAG - Retrieval-Augmented Generation](https://medium.com/blog-do-zouza/rag-retrieval-augmented-generation-8238a20e381d)
+  - [Materiais sobre RAG](https://www.notion.so/GenAI-Dicas-Prompts-e-Tools-925016bc433042ab8ce689fc5a3ffc70)
+ 
+### Aplicação de GenAI
+- Na Análise de Dados
+  - [IA Generativa potencializando a Análise de Dados](https://blog.compass.uol/autores/ia-generativa-potencializando-a-analise-de-dados/)
+  - [Matérias](https://www.notion.so/GenAI-Dicas-Prompts-e-Tools-925016bc433042ab8ce689fc5a3ffc70)
+- Na Educação
+  - [Matérias](https://www.notion.so/GenAI-Dicas-Prompts-e-Tools-925016bc433042ab8ce689fc5a3ffc70)
+
+### Ferramentas
+- [Tools de IA](https://wistful-trust-3c0.notion.site/Ferramentas-usando-GenAI-dfc787c0e6384957b7a9d19ba56c3026?pvs=4)
 
 ### Engenharia de Prompt / Prompts
 - [Engenharia de Prompt](https://medium.com/blog-do-zouza/genai-o-que-%C3%A9-engenharia-de-prompt-6d416afe1323)
