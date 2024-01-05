@@ -4,7 +4,7 @@ Este repositório contém exemplos e recursos relacionados às técnicas de Inte
 
 ## Introdução 🎯
 
-A Inteligência Artificial Generativa é um campo da inteligência artificial que se concentra em criar modelos capazes de gerar conteúdo original e criativo. Esses modelos podem gerar imagens, música, texto e até interações semelhantes às humanas. Ao aproveitar os modelos generativos, podemos criar conteúdo novo e único que não é diretamente copiado de dados existentes.
+A Inteligência Artificial Generativa é um campo da inteligência artificial que se concentra em criar modelos capazes de gerar conteúdo original e criativo. Esses modelos podem gerar imagens, música, texto e até interações semelhantes às humanas (Multimodal). Ao aproveitar os modelos generativos, podemos criar conteúdo novo e único que não é diretamente copiado de dados existentes.
 
 Neste repositório, exploramos diferentes aplicações e técnicas de Inteligência Artificial Generativa.
 
@@ -13,6 +13,7 @@ Neste repositório, exploramos diferentes aplicações e técnicas de Inteligên
 - [Dicas de Prompt](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/DicasDePrompts.md)
 - [Prompts para Analistas de Dados - Excel, SQL, Python, Power BI...](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/Prompts%20para%20Analistas%20de%20Dados.md)
 - [Ajudando um analista de dados em tarefas de modelagem (relacional e dimensional)](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/da_gpt.md)
+- [Explorando uma Imagem de Modelagem Dimensional](https://www.youtube.com/watch?v=yp5ZGJf0-GI)
 - [Melhorando rascunhos de Especificações de Requisitos](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/requisitos_gpt.md)
 - [KPIs](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/kpis.md)
 - [Boas práticas de SQL](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/boas_praticas_sql_gpt.md)
@@ -26,6 +27,9 @@ Neste repositório, exploramos diferentes aplicações e técnicas de Inteligên
   - [Imagens - Dall-E, Leonardo AI 📷🖼️](https://github.com/aasouzaconsult/GenAI-Prompts/tree/main/Leonardo%20AI)
   - [Visão Geral - ChatGPT](https://medium.com/blog-do-zouza/chatgpt-vis%C3%A3o-geral-f68ed1d1cf54)
   - [ChatGPT - Criando Medidas DAX com ChatGPT](https://www.youtube.com/watch?v=vo9uo6aFLME)
+  - [LLM (Large Language Model)](https://medium.com/blog-do-zouza/tudo-o-que-voc%C3%AA-precisa-saber-sobre-llm-large-language-model-a36be85bbf8f)
+  - [Comparando capacidades de LLMs](https://medium.com/blog-do-zouza/comparando-llms-large-language-models-945c9268c52f)
+  - [RAG - Retrieval-Augmented Generation](https://medium.com/blog-do-zouza/rag-retrieval-augmented-generation-8238a20e381d)
 
 ## Contribuição
 
