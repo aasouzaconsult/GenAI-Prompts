@@ -23,7 +23,7 @@ Neste repositório, exploramos diferentes aplicações e técnicas de Inteligên
   - [Compilar notícias](https://chat.openai.com/share/589c52f2-23c2-4cad-83ad-f6314db8c1f3)
 - Mais informações
   - [Engenharia de Prompt](https://medium.com/blog-do-zouza/genai-o-que-%C3%A9-engenharia-de-prompt-6d416afe1323)
-  - [Imagens - Leonardo AI 📷🖼️](https://github.com/aasouzaconsult/GenAI-Prompts/tree/main/Leonardo%20AI)
+  - [Imagens - Dall-E, Leonardo AI 📷🖼️](https://github.com/aasouzaconsult/GenAI-Prompts/tree/main/Leonardo%20AI)
   - [Visão Geral - ChatGPT](https://medium.com/blog-do-zouza/chatgpt-vis%C3%A3o-geral-f68ed1d1cf54)
   - [ChatGPT - Criando Medidas DAX com ChatGPT](https://www.youtube.com/watch?v=vo9uo6aFLME)
 
