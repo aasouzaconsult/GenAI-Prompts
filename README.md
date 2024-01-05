@@ -10,6 +10,14 @@ Neste repositório, exploramos diferentes aplicações e técnicas de Inteligên
 
 ## Conteúdo
 
+### Visão Geral / Conceitos
+- [Visão Geral - ChatGPT](https://medium.com/blog-do-zouza/chatgpt-vis%C3%A3o-geral-f68ed1d1cf54)
+- [LLM (Large Language Model)](https://medium.com/blog-do-zouza/tudo-o-que-voc%C3%AA-precisa-saber-sobre-llm-large-language-model-a36be85bbf8f)
+- [Comparando capacidades de LLMs](https://medium.com/blog-do-zouza/comparando-llms-large-language-models-945c9268c52f)
+- [RAG - Retrieval-Augmented Generation](https://medium.com/blog-do-zouza/rag-retrieval-augmented-generation-8238a20e381d)
+
+### Engenharia de Prompt / Prompts
+- [Engenharia de Prompt](https://medium.com/blog-do-zouza/genai-o-que-%C3%A9-engenharia-de-prompt-6d416afe1323)
 - [Dicas de Prompt](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/DicasDePrompts.md)
 - [Prompts para Analistas de Dados - Excel, SQL, Python, Power BI...](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/Prompts%20para%20Analistas%20de%20Dados.md)
 - [Ajudando um analista de dados em tarefas de modelagem (relacional e dimensional)](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/da_gpt.md)
@@ -19,20 +27,15 @@ Neste repositório, exploramos diferentes aplicações e técnicas de Inteligên
 - [Boas práticas de SQL](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/boas_praticas_sql_gpt.md)
 - [Documentação de Consultas SQL - Entendimento](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/DocumentacaoDeConsultaSQL.md)
 - [Plano de estudos Pentaho](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/Plano%20de%20Estudo%20-%20pentaho.md) | [Plano de estudos SQL](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/Plano%20de%20Estudo%20-%20sql.md)
-- [Rascunhos - não publicados](https://www.notion.so/GenAI-Prompts-e-Tools-925016bc433042ab8ce689fc5a3ffc70?pvs=4)
-- Diversos
-  - [Compilar notícias](https://chat.openai.com/share/589c52f2-23c2-4cad-83ad-f6314db8c1f3)
-- Mais informações
-  - [Engenharia de Prompt](https://medium.com/blog-do-zouza/genai-o-que-%C3%A9-engenharia-de-prompt-6d416afe1323)
-  - [Imagens - Dall-E, Leonardo AI 📷🖼️](https://github.com/aasouzaconsult/GenAI-Prompts/tree/main/Leonardo%20AI)
-  - [Visão Geral - ChatGPT](https://medium.com/blog-do-zouza/chatgpt-vis%C3%A3o-geral-f68ed1d1cf54)
-  - [ChatGPT - Criando Medidas DAX com ChatGPT](https://www.youtube.com/watch?v=vo9uo6aFLME)
-  - [LLM (Large Language Model)](https://medium.com/blog-do-zouza/tudo-o-que-voc%C3%AA-precisa-saber-sobre-llm-large-language-model-a36be85bbf8f)
-  - [Comparando capacidades de LLMs](https://medium.com/blog-do-zouza/comparando-llms-large-language-models-945c9268c52f)
-  - [RAG - Retrieval-Augmented Generation](https://medium.com/blog-do-zouza/rag-retrieval-augmented-generation-8238a20e381d)
-
+- [Compilar notícias](https://chat.openai.com/share/589c52f2-23c2-4cad-83ad-f6314db8c1f3)
+- Trabalhnado com Imagens
+  - [Imagens - Dall-E, Leonardo AI 📷🖼️](https://github.com/aasouzaconsult/GenAI-Prompts/tree/main/Leonardo%20AI) 
+ 
+### Diversos
+- [Rascunhos - não publicados](https://www.notion.so/GenAI-Prompts-e-Tools-925016bc433042ab8ce689fc5a3ffc70?pvs=4)  
+- [ChatGPT - Criando Medidas DAX com ChatGPT](https://www.youtube.com/watch?v=vo9uo6aFLME)
+  
 ## Contribuição
-
 Se você tiver sugestões, melhorias ou exemplos adicionais relacionados à Inteligência Artificial Generativa, sinta-se à vontade para contribuir com este repositório. Basta abrir uma nova solicitação de pull request e descrever suas alterações propostas.
 
 Esperamos que este repositório seja uma fonte valiosa de aprendizado e inspiração para explorar as possibilidades da Inteligência Artificial Generativa. Divirta-se explorando e criando conteúdo único e criativo!
