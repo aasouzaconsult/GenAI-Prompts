@@ -22,7 +22,7 @@ O contexto é fundamental para restringir as possibilidades. Forneça informaç�
 
 **Por exemplo:** Você é um analista de dados e tem um cliente que deseja minimizar custos.
 
-## Exemplos
+## Exemplos (*Few-Shot Prompts*)
 Incluir exemplos na sua pergunta é uma prática recomendada. Exemplos tornam mais fácil para a IA entender o que você deseja.
 
 **Por exemplo:** Dê um KPI relacionado ao setor financeiro referente a margem bruta por semana e que seja rápido de implementar...
@@ -32,6 +32,41 @@ O tom da resposta é importante. Você pode pedir um tom formal, casual, entusi�
 
 **Por exemplo:** Forneça as informações em formato de lista com marcadores, escreva com um tom motivador e entusiasmado!
 
+# Técnicas de Prompts 💻>
+
+## Zero-Shot Prompts
+Quando não é necessário nenhum exemplo, o próprio modelo já pode lhe dar respostas corretas.
+
+**Por exemplo:** When is Christmas in America?
+
+## Few-Shot Prompts
+Quando você dá um contexto, dá exemplos para que a resposta saia ou seja mais precisa
+
+**Por exemplo:** 
+- What is Alex´s favourite type of foods?
+  - Não saberá responder, pois ele não conhece meus gostos!
+- Alex´s favourite type of foods include: Burges, Pizza, Fries, Chocolate
+- What restaurant should I take Alex to in Dubai this weekend? (aqui ele deve escolher restaurantes do meu gosto e indicar)
+
+## Chain-of-Thought (CoT) Prompting
+prompt = """
+The odd numbers in this group add up to an even number: 4,  8, 9,  15, 12, 1.
+A: Adding all the odd numbers (9,15,1). The answer is false.
+
+The odd numbers in this group add up to an even number: 15,32,5,13,82,7,1.
+"""
+
+## Self-Consistency
+## Generate Knowledge Prompting
+## Program-aided Language Model (PAL)
+## ReAct
+
+# Ferramentas
+- Dyno (Prompt Enginnering IDE)
+- Dust
+- LangChain
+- Prompttable
+   
 # Mais informações
 - [Engenharia de Prompts](https://medium.com/blog-do-zouza/genai-o-que-%C3%A9-engenharia-de-prompt-6d416afe1323)
 - [Dicas de Prompt - OpenAI](https://platform.openai.com/docs/guides/prompt-engineering)
