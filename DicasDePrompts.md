@@ -50,12 +50,25 @@ Quando você dá um contexto, dá exemplos para que a resposta saia ou seja mais
 - What restaurant should I take Alex to in Dubai this weekend? (aqui ele deve escolher restaurantes do meu gosto e indicar)
 
 ## Chain-of-Thought (CoT) Prompting
-prompt = """
-The odd numbers in this group add up to an even number: 4,  8, 9,  15, 12, 1.
-A: Adding all the odd numbers (9,15,1). The answer is false.
+Introduzido em Wei et al. (2022), a solicitação de cadeia de pensamento ([CoT](https://www.promptingguide.ai/techniques/cot)) permite recursos de raciocínio complexos por meio de etapas intermediárias de raciocínio. Você pode combiná-lo com solicitações rápidas para obter melhores resultados em tarefas mais complexas que exigem raciocínio antes de responder.
 
-The odd numbers in this group add up to an even number: 15,32,5,13,82,7,1.
-"""
+```
+Os números ímpares neste grupo somam um número par: 4, 8, 9, 15, 12, 2, 1.
+R: Somando todos os números ímpares (9, 15, 1) dá 25. A resposta é falsa.
+
+Os números ímpares neste grupo somam um número par: 17, 10, 19, 4, 8, 12, 24.
+R: Somando todos os números ímpares (17, 19) dá 36. A resposta é Verdadeira.
+
+Os números ímpares neste grupo somam um número par: 16, 11, 14, 4, 8, 13, 24.
+R: Somando todos os números ímpares (11, 13) dá 24. A resposta é Verdadeira.
+
+Os números ímpares neste grupo somam um número par: 17, 9, 10, 12, 13, 4, 2.
+R: Somando todos os números ímpares (17, 9, 13) dá 39. A resposta é falsa.
+
+Os números ímpares neste grupo somam um número par: 15, 32, 5, 13, 82, 7, 1.
+A:
+```
+Result: Adding all the odd numbers (15, 5, 13, 7, 1) gives 41. The answer is False.
 
 ## Self-Consistency
 ## Generate Knowledge Prompting
