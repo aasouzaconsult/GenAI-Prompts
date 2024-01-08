@@ -33,6 +33,7 @@ O tom da resposta é importante. Você pode pedir um tom formal, casual, entusi�
 **Por exemplo:** Forneça as informações em formato de lista com marcadores, escreva com um tom motivador e entusiasmado!
 
 # Técnicas de Prompts 💻>
+[Mais informações e detalhes](https://www.promptingguide.ai/techniques)
 
 ## Zero-Shot Prompts
 Quando não é necessário nenhum exemplo, o próprio modelo já pode lhe dar respostas corretas.
