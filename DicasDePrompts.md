@@ -203,7 +203,8 @@ O primeiro passo é consultar o LLM com ou sem alguns exemplos de CoT. k respost
 ## Program-aided Language Model (PAL)
 [more](https://www.promptingguide.ai/techniques/pal)
 
-### Example
+### Example 
+*Não testei a fundo (deu erro no primeiro trecho)*
 
 ```python
 import openai
