@@ -175,6 +175,27 @@ Ele vira a xícara de cabeça para baixo e vai até o jardim.
 Ele coloca a xícara no jardim e vai até a garagem.
 Onde está a bola?
 ```
+*Answer:* A bola esta no Quarto [more informations](https://chat.openai.com/share/335ce744-8a6d-4885-a9ae-87dae4149b4b)
+
+## RAG - Retrieval Augment Generation (Geração Aumentada de Recuperação)
+RAG combina um componente de recuperação de informação com um modelo gerador de texto. O RAG pode ser ajustado e seu conhecimento interno modificado de forma eficiente e sem a necessidade de retreinamento de todo o modelo. [more informations](https://medium.com/blog-do-zouza/rag-retrieval-augmented-generation-8238a20e381d)
+
+## Automatic Reasoning and Tool-use (ART) - Raciocínio Automático e Uso de Ferramentas
+Combinar sugestões e ferramentas CoT de maneira intercalada mostrou ser uma abordagem forte e robusta para abordar muitas tarefas com LLMs. Essas abordagens normalmente exigem demonstrações específicas de tarefas elaboradas manualmente e intercalação cuidadosamente planejada de gerações de modelos com o uso de ferramentas. Paranjape et al., (2023)propor uma nova estrutura que usa um LLM congelado para gerar automaticamente etapas intermediárias de raciocínio como um programa.
+
+## Automatic Prompt Engineer (APE)
+[Este artigo](https://www.promptingguide.ai/techniques/ape) aborda um tópico importante relacionado à engenharia de prompts, que é a ideia de otimizar prompts automaticamente. Embora não nos aprofundemos neste tópico neste guia, aqui estão alguns artigos importantes se você estiver interessado no tópico:
+- [Prompt-OIRL](https://arxiv.org/abs/2309.06553)- propõe o uso de aprendizagem por reforço inverso offline para gerar prompts dependentes de consulta.
+- [OPRO](https://arxiv.org/abs/2309.03409)- apresenta a ideia de usar LLMs para otimizar prompts: deixe os LLMs "Respirar fundo" melhora o desempenho em problemas matemáticos.
+- [AutoPrompt](https://arxiv.org/abs/2010.15980)- propõe uma abordagem para criar automaticamente prompts para um conjunto diversificado de tarefas com base na pesquisa guiada por gradiente.
+- [Prefix Tuning](https://arxiv.org/abs/2101.00190)- uma alternativa leve ao ajuste fino que precede um prefixo contínuo treinável para tarefas NLG.
+- [Prompt Tuning](https://arxiv.org/abs/2104.08691)- propõe um mecanismo para aprender soft prompts por meio de retropropagação.
+
+## Active Prompt
+Os métodos de cadeia de pensamento (CoT) dependem de um conjunto fixo de exemplares anotados por humanos. O problema com isto é que os exemplares podem não ser os exemplos mais eficazes para as diferentes tarefas. Para resolver isso, Diao et al., (2023)propôs recentemente uma nova abordagem de prompt chamada Active-Prompt para adaptar LLMs a diferentes exemplos de prompts específicos de tarefas (anotados com raciocínio CoT projetado por humanos).
+
+![Veja a Ilustração](https://www.promptingguide.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Factive-prompt.f739657b.png&w=1200&q=75). 
+O primeiro passo é consultar o LLM com ou sem alguns exemplos de CoT. k respostas possíveis são geradas para um conjunto de perguntas de treinamento. Uma métrica de incerteza é calculada com base nas k respostas (discordância utilizada). As questões mais incertas são selecionadas para anotação por humanos. Os novos exemplares anotados são então usados ​​para inferir cada questão.
 
 ## Program-aided Language Model (PAL)
 
