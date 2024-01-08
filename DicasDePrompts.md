@@ -194,13 +194,107 @@ Combinar sugestões e ferramentas CoT de maneira intercalada mostrou ser uma abo
 ## Active Prompt
 Os métodos de cadeia de pensamento (CoT) dependem de um conjunto fixo de exemplares anotados por humanos. O problema com isto é que os exemplares podem não ser os exemplos mais eficazes para as diferentes tarefas. Para resolver isso, Diao et al., (2023)propôs recentemente uma nova abordagem de prompt chamada Active-Prompt para adaptar LLMs a diferentes exemplos de prompts específicos de tarefas (anotados com raciocínio CoT projetado por humanos).
 
-![Veja a Ilustração](https://www.promptingguide.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Factive-prompt.f739657b.png&w=1200&q=75). 
+![Veja a Ilustração](https://www.promptingguide.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Factive-prompt.f739657b.png&w=1200&q=75)
 O primeiro passo é consultar o LLM com ou sem alguns exemplos de CoT. k respostas possíveis são geradas para um conjunto de perguntas de treinamento. Uma métrica de incerteza é calculada com base nas k respostas (discordância utilizada). As questões mais incertas são selecionadas para anotação por humanos. Os novos exemplares anotados são então usados ​​para inferir cada questão.
 
-## Program-aided Language Model (PAL)
+## Directional Stimulus Prompting
+[more](https://www.promptingguide.ai/techniques/dsp)
 
+## Program-aided Language Model (PAL)
+[more](https://www.promptingguide.ai/techniques/pal)
+
+### Example
+
+```python
+import openai
+from datetime import datetime
+from dateutil.relativedelta import relativedelta
+import os
+from langchain.llms import OpenAI
+from dotenv import load_dotenv
+```
+
+```python
+load_dotenv()
+ 
+# API configuration
+openai.api_key = os.getenv("OPENAI_API_KEY")
+ 
+# for LangChain
+os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
+```
+
+```python
+llm = OpenAI(model_name='text-davinci-003', temperature=0)
+```
+
+```python
+question = "Today is 27 February 2023. I was born exactly 25 years ago. What is the date I was born in MM/DD/YYYY?"
+ 
+DATE_UNDERSTANDING_PROMPT = """
+# Q: 2015 is coming in 36 hours. What is the date one week from today in MM/DD/YYYY?
+# If 2015 is coming in 36 hours, then today is 36 hours before.
+today = datetime(2015, 1, 1) - relativedelta(hours=36)
+# One week from today,
+one_week_from_today = today + relativedelta(weeks=1)
+# The answer formatted with %m/%d/%Y is
+one_week_from_today.strftime('%m/%d/%Y')
+# Q: The first day of 2019 is a Tuesday, and today is the first Monday of 2019. What is the date today in MM/DD/YYYY?
+# If the first day of 2019 is a Tuesday, and today is the first Monday of 2019, then today is 6 days later.
+today = datetime(2019, 1, 1) + relativedelta(days=6)
+# The answer formatted with %m/%d/%Y is
+today.strftime('%m/%d/%Y')
+# Q: The concert was scheduled to be on 06/01/1943, but was delayed by one day to today. What is the date 10 days ago in MM/DD/YYYY?
+# If the concert was scheduled to be on 06/01/1943, but was delayed by one day to today, then today is one day later.
+today = datetime(1943, 6, 1) + relativedelta(days=1)
+# 10 days ago,
+ten_days_ago = today - relativedelta(days=10)
+# The answer formatted with %m/%d/%Y is
+ten_days_ago.strftime('%m/%d/%Y')
+# Q: It is 4/19/1969 today. What is the date 24 hours later in MM/DD/YYYY?
+# It is 4/19/1969 today.
+today = datetime(1969, 4, 19)
+# 24 hours later,
+later = today + relativedelta(hours=24)
+# The answer formatted with %m/%d/%Y is
+today.strftime('%m/%d/%Y')
+# Q: Jane thought today is 3/11/2002, but today is in fact Mar 12, which is 1 day later. What is the date 24 hours later in MM/DD/YYYY?
+# If Jane thought today is 3/11/2002, but today is in fact Mar 12, then today is 3/12/2002.
+today = datetime(2002, 3, 12)
+# 24 hours later,
+later = today + relativedelta(hours=24)
+# The answer formatted with %m/%d/%Y is
+later.strftime('%m/%d/%Y')
+# Q: Jane was born on the last day of Feburary in 2001. Today is her 16-year-old birthday. What is the date yesterday in MM/DD/YYYY?
+# If Jane was born on the last day of Feburary in 2001 and today is her 16-year-old birthday, then today is 16 years later.
+today = datetime(2001, 2, 28) + relativedelta(years=16)
+# Yesterday,
+yesterday = today - relativedelta(days=1)
+# The answer formatted with %m/%d/%Y is
+yesterday.strftime('%m/%d/%Y')
+# Q: {question}
+""".strip() + '\n'
+```
+
+```python
+llm_out = llm(DATE_UNDERSTANDING_PROMPT.format(question=question))
+print(llm_out)
+```
+
+```python
+exec(llm_out)
+print(born)
+```
 
 ## ReAct
+[more](https://www.promptingguide.ai/techniques/react)
+
+## Multimodal CoT Prompting
+- [more](https://www.promptingguide.ai/techniques/multimodalcot)
+- [article](https://arxiv.org/abs/2302.00923)
+
+## GraphPrompt
+- [article](https://arxiv.org/abs/2302.08043)
 
 # Ferramentas
 - Dyno (Prompt Enginnering IDE)
