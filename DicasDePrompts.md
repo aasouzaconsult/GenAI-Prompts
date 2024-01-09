@@ -288,7 +288,13 @@ print(born)
 ```
 
 ## ReAct
+![](https://blogdozouza.files.wordpress.com/2024/01/screenshot_14.png)
+
+![](https://blogdozouza.files.wordpress.com/2024/01/screenshot_15.png)
+
 [more](https://www.promptingguide.ai/techniques/react)
+
+
 
 ## Multimodal CoT Prompting
 - [more](https://www.promptingguide.ai/techniques/multimodalcot)
