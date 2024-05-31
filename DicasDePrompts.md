@@ -45,18 +45,6 @@ Quando não é necessário nenhum exemplo, o próprio modelo já pode lhe dar re
 When is Christmas in America?
 ```
 
-----
-Outro exemplo, agora ele erra... (veja o correto em: **Tree of Thoughts (ToT)**)
-```
-Bob está na sala.
-Ele caminha até a cozinha carregando uma xícara.
-Ele coloca uma bola na xícara e leva a xícara para o quarto.
-Ele vira a xícara de cabeça para baixo e vai até o jardim.
-Ele coloca a xícara no jardim e vai até a garagem.
-Onde está a bola?
-```
-A bola está no jardim. (errado)
-
 ## Few-Shot Prompts
 Quando você dá um contexto, dá exemplos para que a resposta saia ou seja mais precisa. [more informations](https://www.promptingguide.ai/techniques/fewshot)
 
@@ -92,21 +80,8 @@ Os números ímpares neste grupo somam um número par: 15, 32, 5, 13, 82, 7, 1.
 A:
 ```
 Result: Adding all the odd numbers (15, 5, 13, 7, 1) gives 41. The answer is False.
-
-----
-Outro exemplo: esse dá errado (veja o correto em: **Tree of Thoughts (ToT)**)
-
 ```
-Bob está na sala.
-Ele caminha até a cozinha carregando uma xícara.
-Ele coloca uma bola na xícara e leva a xícara para o quarto.
-Ele vira a xícara de cabeça para baixo e vai até o jardim.
-Ele coloca a xícara no jardim e vai até a garagem.
-Onde está a bola?
 
-Pense com cuidado e lógica, explicando sua resposta.
-```
-A bola está no jardim. (errado)
 
 ## Self-Consistency
 Talvez uma das técnicas mais avançadas disponíveis para *engenharia de prompt* seja a autoconsistência. Proposto por [Wang et al. (2022)](https://arxiv.org/abs/2203.11171), a autoconsistência visa "substituir a decodificação ingênua e gananciosa usada na estimulação da cadeia de pensamento". A ideia é provar múltiplos e diversos caminhos de raciocínio por meio de CoT de poucas tentativas e usar as gerações para selecionar a resposta mais consistente. Isso ajuda a aumentar o desempenho das solicitações do CoT em tarefas que envolvem raciocínio aritmético e de bom senso.
