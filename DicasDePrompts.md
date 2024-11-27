@@ -1,6 +1,6 @@
 # Dicas de Prompts 💻>
 
-
+![](https://blogdozouza.wordpress.com/wp-content/uploads/2024/11/contexto.png)
 
 ## Persona
 Pense em quem você quer que a IA seja ao responder. Pode ser um especialista, um recrutador, um escritor, um profissional de dados ou até mesmo um personagem fictício. 
