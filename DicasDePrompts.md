@@ -1,5 +1,7 @@
 # Dicas de Prompts 💻>
 
+
+
 ## Persona
 Pense em quem você quer que a IA seja ao responder. Pode ser um especialista, um recrutador, um escritor, um profissional de dados ou até mesmo um personagem fictício. 
 
@@ -46,7 +48,7 @@ When is Christmas in America?
 ```
 
 ## Few-Shot Prompts
-Quando você dá um contexto, dá exemplos para que a resposta saia ou seja mais precisa. [more informations](https://www.promptingguide.ai/techniques/fewshot)
+Quando você dá um contexto, dá exemplos para que a resposta saia ou seja mais precisa. [more informations](https://www.promptingguide.ai/techniques/fewshot) | [artigo](https://arxiv.org/pdf/2005.14165)
 
 **Por exemplo:** 
 ```
@@ -61,7 +63,7 @@ What restaurant should I take Alex to in Dubai this weekend?
 *O prompt acima, provavelmente irá lhe retornar um resultado mais assertivo.*
 
 ## Chain-of-Thought (CoT) Prompting
-Introduzido em Wei et al. (2022), a solicitação de cadeia de pensamento ([CoT](https://www.promptingguide.ai/techniques/cot)) permite recursos de raciocínio complexos por meio de etapas intermediárias de raciocínio. Você pode combiná-lo com solicitações rápidas para obter melhores resultados em tarefas mais complexas que exigem raciocínio antes de responder.
+Introduzido em Wei et al. (2022), a solicitação de cadeia de pensamento ([CoT](https://www.promptingguide.ai/techniques/cot)) permite recursos de raciocínio complexos por meio de etapas intermediárias de raciocínio. Você pode combiná-lo com solicitações rápidas para obter melhores resultados em tarefas mais complexas que exigem raciocínio antes de responder. [artigo](https://arxiv.org/abs/2201.11903)
 
 ```
 Os números ímpares neste grupo somam um número par: 4, 8, 9, 15, 12, 2, 1.
@@ -80,11 +82,10 @@ Os números ímpares neste grupo somam um número par: 15, 32, 5, 13, 82, 7, 1.
 A:
 ```
 Result: Adding all the odd numbers (15, 5, 13, 7, 1) gives 41. The answer is False.
-```
 
 
 ## Self-Consistency
-Talvez uma das técnicas mais avançadas disponíveis para *engenharia de prompt* seja a autoconsistência. Proposto por [Wang et al. (2022)](https://arxiv.org/abs/2203.11171), a autoconsistência visa "substituir a decodificação ingênua e gananciosa usada na estimulação da cadeia de pensamento". A ideia é provar múltiplos e diversos caminhos de raciocínio por meio de CoT de poucas tentativas e usar as gerações para selecionar a resposta mais consistente. Isso ajuda a aumentar o desempenho das solicitações do CoT em tarefas que envolvem raciocínio aritmético e de bom senso.
+Talvez uma das técnicas mais avançadas disponíveis para *engenharia de prompt* seja a autoconsistência. Proposto por [Wang et al. (2022) - artigo](https://arxiv.org/abs/2203.11171), a autoconsistência visa "substituir a decodificação ingênua e gananciosa usada na estimulação da cadeia de pensamento". A ideia é provar múltiplos e diversos caminhos de raciocínio por meio de CoT de poucas tentativas e usar as gerações para selecionar a resposta mais consistente. Isso ajuda a aumentar o desempenho das solicitações do CoT em tarefas que envolvem raciocínio aritmético e de bom senso.
 
 ```
 Quando eu tinha 6 anos, minha irmã tinha metade da minha idade. Agora
@@ -135,7 +136,7 @@ Usar o resultado de um prompt para entrada em outro
 ## Tree of Thoughts (ToT)
 Para tarefas complexas que exigem exploração ou visão estratégica, as técnicas de solicitação tradicionais ou simples são insuficientes. Yao e outros. (2023) e Longo (2023)propôs recentemente a Árvore de Pensamentos (ToT), uma estrutura que generaliza a sugestão de cadeia de pensamentos e incentiva a exploração de pensamentos que servem como etapas intermediárias para a resolução geral de problemas com modelos de linguagem.
 
-ToT mantém uma árvore de pensamentos, onde os pensamentos representam sequências de linguagem coerentes que servem como etapas intermediárias para a resolução de um problema. Esta abordagem permite que um LM autoavalie o progresso que os pensamentos intermediários fazem para resolver um problema através de um processo de raciocínio deliberado. A capacidade do LM de gerar e avaliar pensamentos é então combinada com algoritmos de busca (por exemplo, busca em largura e busca em profundidade) para permitir a exploração sistemática de pensamentos com antecipação e retrocesso.
+ToT mantém uma árvore de pensamentos, onde os pensamentos representam sequências de linguagem coerentes que servem como etapas intermediárias para a resolução de um problema. Esta abordagem permite que um LM autoavalie o progresso que os pensamentos intermediários fazem para resolver um problema através de um processo de raciocínio deliberado. A capacidade do LM de gerar e avaliar pensamentos é então combinada com algoritmos de busca (por exemplo, busca em largura e busca em profundidade) para permitir a exploração sistemática de pensamentos com antecipação e retrocesso. [artigo](https://arxiv.org/abs/2305.10601)
 
 ```
 Imagine que três especialistas diferentes estejam respondendo a essa pergunta.
@@ -152,10 +153,37 @@ Ele vira a xícara de cabeça para baixo e vai até o jardim.
 Ele coloca a xícara no jardim e vai até a garagem.
 Onde está a bola?
 ```
-*Answer:* A bola esta no Quarto [more informations](https://chat.openai.com/share/335ce744-8a6d-4885-a9ae-87dae4149b4b)
+*Answer:* A bola esta no Quarto
 
-## RAG - Retrieval Augment Generation (Geração Aumentada de Recuperação)
-RAG combina um componente de recuperação de informação com um modelo gerador de texto. O RAG pode ser ajustado e seu conhecimento interno modificado de forma eficiente e sem a necessidade de retreinamento de todo o modelo. [more informations](https://medium.com/blog-do-zouza/rag-retrieval-augmented-generation-8238a20e381d)
+ou 
+```
+"Três especialistas estão discutindo onde a bola foi deixada. Cada especialista irá registrar um raciocínio por vez e, em seguida, compartilhará com os outros. Após cada rodada, eles podem ajustar suas respostas com base no que observaram. Se algum especialista perceber que está em um caminho errado, ele abandonará a discussão.
+
+A situação é a seguinte:
+
+Bob está na sala.
+Ele caminha até a cozinha carregando uma xícara.
+Ele coloca uma bola na xícara e leva a xicara para o quarto.
+Ele vira a xícara de cabeça para baixo e vai até o jardim.
+Ele coloca a xícara no jardim e vai até a garagem.
+Onde está a bola? "
+
+Narre o pensamento dos especialistas!
+```
+* [gemini](https://g.co/gemini/share/334eb85f6e7d) | [chagpt](https://chatgpt.com/share/67293253-eb04-800a-b6e7-f80ddd830158)
+
+## Directional Stimulus Prompting
+- [artigo](https://arxiv.org/abs/2302.11520)
+- [more](https://www.promptingguide.ai/techniques/dsp)
+
+## Skeleton of Thought
+- [artigo](https://arxiv.org/abs/2307.15337)
+  
+## Generated Knowledge Prompting
+- [artigo](https://arxiv.org/abs/2110.08387)
+  
+## Maieutic Prompting
+- [artigo](https://arxiv.org/abs/2205.11822)
 
 ## Automatic Reasoning and Tool-use (ART) - Raciocínio Automático e Uso de Ferramentas
 Combinar sugestões e ferramentas CoT de maneira intercalada mostrou ser uma abordagem forte e robusta para abordar muitas tarefas com LLMs. Essas abordagens normalmente exigem demonstrações específicas de tarefas elaboradas manualmente e intercalação cuidadosamente planejada de gerações de modelos com o uso de ferramentas. Paranjape et al., (2023)propor uma nova estrutura que usa um LLM congelado para gerar automaticamente etapas intermediárias de raciocínio como um programa.
@@ -174,11 +202,9 @@ Os métodos de cadeia de pensamento (CoT) dependem de um conjunto fixo de exempl
 ![Veja a Ilustração](https://www.promptingguide.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Factive-prompt.f739657b.png&w=1200&q=75)
 O primeiro passo é consultar o LLM com ou sem alguns exemplos de CoT. k respostas possíveis são geradas para um conjunto de perguntas de treinamento. Uma métrica de incerteza é calculada com base nas k respostas (discordância utilizada). As questões mais incertas são selecionadas para anotação por humanos. Os novos exemplares anotados são então usados ​​para inferir cada questão.
 
-## Directional Stimulus Prompting
-[more](https://www.promptingguide.ai/techniques/dsp)
-
 ## Program-aided Language Model (PAL)
-[more](https://www.promptingguide.ai/techniques/pal)
+- [artigo](https://arxiv.org/abs/2211.10435)
+- [more](https://www.promptingguide.ai/techniques/pal)
 
 ### Example 
 *Não testei a fundo (deu erro no primeiro trecho)*
@@ -265,13 +291,12 @@ print(born)
 ```
 
 ## ReAct
+- [artigo](https://arxiv.org/abs/2210.03629)
+- [more](https://www.promptingguide.ai/techniques/react)
+
 ![](https://blogdozouza.files.wordpress.com/2024/01/screenshot_14.png)
 
 ![](https://blogdozouza.files.wordpress.com/2024/01/screenshot_15.png)
-
-[more](https://www.promptingguide.ai/techniques/react)
-
-
 
 ## Multimodal CoT Prompting
 - [more](https://www.promptingguide.ai/techniques/multimodalcot)
@@ -285,6 +310,13 @@ print(born)
 - Dust
 - LangChain
 - Prompttable
+
+---
+
+## RAG - Retrieval Augment Generation (Geração Aumentada de Recuperação)
+RAG combina um componente de recuperação de informação com um modelo gerador de texto. O RAG pode ser ajustado e seu conhecimento interno modificado de forma eficiente e sem a necessidade de retreinamento de todo o modelo. [more informations](https://medium.com/blog-do-zouza/rag-retrieval-augmented-generation-8238a20e381d)
+
+---
    
 # Mais informações
 - [Engenharia de Prompts](https://medium.com/blog-do-zouza/genai-o-que-%C3%A9-engenharia-de-prompt-6d416afe1323)
