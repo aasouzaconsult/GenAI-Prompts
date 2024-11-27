@@ -87,13 +87,13 @@ Result: Adding all the odd numbers (15, 5, 13, 7, 1) gives 41. The answer is Fal
 ## Self-Consistency
 Talvez uma das técnicas mais avançadas disponíveis para *engenharia de prompt* seja a autoconsistência. Proposto por [Wang et al. (2022) - artigo](https://arxiv.org/abs/2203.11171), a autoconsistência visa "substituir a decodificação ingênua e gananciosa usada na estimulação da cadeia de pensamento". A ideia é provar múltiplos e diversos caminhos de raciocínio por meio de CoT de poucas tentativas e usar as gerações para selecionar a resposta mais consistente. Isso ajuda a aumentar o desempenho das solicitações do CoT em tarefas que envolvem raciocínio aritmético e de bom senso.
 
+Exemplo 1 (Rodar por 3x por exemplo)
 ```
 Quando eu tinha 6 anos, minha irmã tinha metade da minha idade. Agora
 Tenho 70 anos, quantos anos tem minha irmã?
 ```
-Talvez dê uma resposta errada, no meu teste deu certo kkk - GTP 3.5 Turbo
 
-Aqui dando alguns exemplos, a ideia é rodar algumas vezes, e pegar a resposta que mais apareceu (o meu todas as respostas foram iguais)
+Exemplo 2 - aqui dando alguns exemplos, a ideia é rodar algumas vezes (3x), e pegar a resposta que mais apareceu (o meu todas as respostas foram iguais)
 ```
 P: Existem 15 árvores no bosque. Os trabalhadores do bosque plantarão árvores no bosque hoje. Depois de terminarem,
 haverá 21 árvores. Quantas árvores os trabalhadores do bosque plantaram hoje?
@@ -125,6 +125,25 @@ P: Olivia tem $ 23. Ela comprou cinco bagels por US$ 3 cada. Quanto dinheiro ela
 R: Ela comprou 5 bagels por US$ 3 cada. Isso significa que ela gastou US$ 15. Ela ainda tem $ 8.
 P: Quando eu tinha 6 anos, minha irmã tinha metade da minha idade. Agora tenho 70 anos, quantos anos minha irmã tem?
 R:
+```
+
+Exemplo 3 (de forma mais automática)
+```
+Imagine que você está resolvendo este problema em etapas, considerando diferentes abordagens para chegar à resposta. Vou comparar as respostas ao final para escolher a mais comum. Aqui está o problema:
+"Maria é proprietária de uma padaria que produz 40 pães por dia. Todos os dias, ela reserva 10 pães para o café da manhã da equipe e vende o restante. Cada pão vendido gera uma receita de R$ 3,00. Além disso, se os pães não forem vendidos até o final do dia, ela doa metade dos pães restantes para um abrigo e guarda a outra metade para o dia seguinte. Em um dia típico, ela vende 25 pães. Qual é a receita diária média de Maria com as vendas, considerando que ela doa os pães não vendidos todos os dias?"
+
+Instruções para o modelo:
+- Resolva o problema passo a passo, detalhando seu raciocínio em cada etapa.
+- Explique qualquer suposição que esteja fazendo, se aplicável.
+- Explore diferentes abordagens para o cálculo, se houver mais de uma maneira de resolver o problema.
+- Forneça uma resposta final para cada caminho de raciocínio.
+
+Exemplo de Respostas:
+- Caminho 1: [Descreva o cálculo e a resposta, explicando cada etapa e assumindo uma abordagem específica]
+- Caminho 2: [Descreva o cálculo e a resposta, explicando cada etapa com uma abordagem ligeiramente diferente]
+- Caminho 3: [Descreva o cálculo e a resposta, detalhando um terceiro possível caminho]
+
+No final, eu escolherei a resposta mais comum entre as abordagens.
 ```
 
 ## Generate Knowledge Prompting
