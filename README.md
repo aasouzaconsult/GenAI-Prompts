@@ -38,6 +38,17 @@ Neste repositório, exploramos diferentes aplicações e técnicas de Inteligên
 - [Dicas de Prompt](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/DicasDePrompts.md#dicas-de-prompts-)
   - [OpenAI](https://platform.openai.com/docs/guides/prompt-engineering)
 - [Técnicas de Prompt](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/DicasDePrompts.md#t%C3%A9cnicas-de-prompts-)
+  - Zero-Shot Prompts
+  - Few-Show Prompts
+  - Chain-of-Thought (CoT) Prompting
+  - Self-Consistency (Auto consistência)
+  - Árvore de Pensamentos (ToT)
+  - Directional Stimulus Prompting
+  - Skeleton of Thought
+  - Generated Knowledge Prompting
+  - Maieutic Prompting
+  - ReAct
+  - PAL: Program-Aided Language Models
 - Prompts
   - [Prompts para Analistas de Dados - Excel, SQL, Python, Power BI...](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/Prompts%20para%20Analistas%20de%20Dados.md)
   - [Ajudando um analista de dados em tarefas de modelagem (relacional e dimensional)](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/da_gpt.md)
