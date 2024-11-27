@@ -17,7 +17,7 @@ Mas antes, algumas dicas...
 # Dica Inicial
 
 ## Independente de Modelo ou Plataforma
-Aqui você pode colocar estes prompts no [Bard](https://bard.google.com/), no [ChatGPT](https://chat.openai.com/), [Bing AI](https://www.microsoft.com/en-us/bing?form=MA13FV), ou qualquer outro que irá funcionar, a resposta vai variar dependendo do modelo.
+Aqui você pode colocar estes prompts no [Gemini](https://gemini.google.com/), no [ChatGPT](https://chat.openai.com/), [Copilot](https://copilot.cloud.microsoft/), [Claude AI](https://claude.ai/) ou qualquer outro que irá funcionar, a resposta vai variar dependendo do modelo.
 
 ## Sempre uma Conversa Nova
 Sugiro que cada tópico ou assunto que for perguntar para as *generative ai* sejam feitas de forma distinta - sempre abra uma nova conversa, não misturar assuntos!
