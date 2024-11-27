@@ -10,6 +10,9 @@ Neste repositório, exploramos diferentes aplicações e técnicas de Inteligên
 
 ## Conteúdo
 
+### Arquitetura Transformer
+[Arquitetura](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/arquitetura_transformer.md)
+
 ### Visão Geral / Conceitos
 - [Visão Geral - ChatGPT](https://medium.com/blog-do-zouza/chatgpt-vis%C3%A3o-geral-f68ed1d1cf54)
 - [LLM (Large Language Model)](https://medium.com/blog-do-zouza/tudo-o-que-voc%C3%AA-precisa-saber-sobre-llm-large-language-model-a36be85bbf8f)
