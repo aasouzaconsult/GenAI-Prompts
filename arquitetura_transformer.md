@@ -62,6 +62,8 @@ Os vetores ajustados passam por uma rede para refinar as representações. Isso 
 #### **5. Saída do Encoder**
 Após essas etapas, o Encoder gera representações contextuais das palavras da entrada, prontos para serem usados no Decodificador.
 
+---
+
 #### **6. Output Embedding (no Decodificador)**  
 A sequência parcial gerada até agora no Decodificador é deslocada para a direita (**shifted right**), com um token especial de início (**[START]**) sendo adicionado.  
 - **Exemplo:**  
