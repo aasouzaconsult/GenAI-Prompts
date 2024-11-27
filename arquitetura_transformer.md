@@ -1,7 +1,7 @@
 # Arquiterura Transformer 🤖
 
 ## Desenho
-<img src="https://blogdozouza.wordpress.com/wp-content/uploads/2024/11/whatsapp-image-2024-11-27-at-08.35.22.jpeg" alt="Imagem WhatsApp" width="500" height="auto">
+<img src="https://blogdozouza.wordpress.com/wp-content/uploads/2024/11/transformes_alex.jpg" alt="Imagem WhatsApp" width="500" height="auto">
 
 [Fonte](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
 
