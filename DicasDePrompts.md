@@ -325,7 +325,7 @@ Enriquece seus prompts com informações/documentos da sua empresa...
 
 ![](https://blogdozouza.wordpress.com/wp-content/uploads/2024/11/finetunning1.png)
 
-![](https://blogdozouza.wordpress.com/wp-content/uploads/2024/11/finetunning2.png)
+![](https://blogdozouza.wordpress.com/wp-content/uploads/2024/11/finetunning2-1.png)
 
 ---
    
