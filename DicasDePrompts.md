@@ -316,6 +316,17 @@ print(born)
 ## RAG - Retrieval Augment Generation (Geração Aumentada de Recuperação)
 RAG combina um componente de recuperação de informação com um modelo gerador de texto. O RAG pode ser ajustado e seu conhecimento interno modificado de forma eficiente e sem a necessidade de retreinamento de todo o modelo. [more informations](https://medium.com/blog-do-zouza/rag-retrieval-augmented-generation-8238a20e381d)
 
+A técnica de Retrieval-Augmented Generation (RAG) aprimora os resultados de um LLM ao integrar informações específicas e atualizadas, sem a necessidade de alterar o modelo de IA subjacente. 
+Enriquece seus prompts com informações/documentos da sua empresa...
+![](https://blogdozouza.wordpress.com/wp-content/uploads/2024/11/rag.png)
+
+## Fine tunning
+É como dar um "treinamento especial" para que ele se torne especialista em uma tarefa específica. Isso permite que o modelo aprenda a realizar tarefas complexas com mais precisão e criatividade, como escrever textos no estilo de um autor específico ou gerar código de programação para diferentes aplicações.
+
+![](https://blogdozouza.wordpress.com/wp-content/uploads/2024/11/finetunning1.png)
+
+![](https://blogdozouza.wordpress.com/wp-content/uploads/2024/11/finetunning2.png)
+
 ---
    
 # Mais informações
