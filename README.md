@@ -24,12 +24,28 @@ Neste repositório, exploramos diferentes aplicações e técnicas de Inteligên
 - [Fine-tuning](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/DicasDePrompts.md#fine-tunning)
  
 ### Aplicação de GenAI
+- [Brasil lidera uso de IA Generativa entre as grandes economias, aponta pesquisa](https://exame.com/inteligencia-artificial/brasil-lidera-uso-de-ia-generativa-entre-as-grandes-economias-aponta-pesquisa/)
+- [Com auxílio do ChatGPT, mãe descobre síndrome rara do filho](https://exame.com/inteligencia-artificial/com-auxilio-do-chatgpt-mae-descobre-sindrome-rara-do-filho/)
+  - Família consultou 17 médicos ao longo de três anos, mas só descobriu o nome da doença rara com a avaliação da IA generativa
+- [AzulGPT](https://news.microsoft.com/pt-br/azul-lanca-ferramenta-de-inteligencia-artificial-propria-em-colaboracao-com-microsoft-e-avanade/)
+- [Jurídico AI](https://juridico.ai/)
+- [Na Arquitetura](https://www.unite.ai/pt/Projetos-de-IA-generativa-redefinindo-o-futuro-da-arquitetura)
+- [No Recursos Humanos](https://rhpravoce.com.br/colab/o-uso-da-ia-generativa-na-area-de-recursos-humanos/)
+- [Na Educação Física](https://fitscience.com.br/o-impactos-da-inteligencia-artificial-na-educacao-fisica/)
+- [Na nutrição](https://clinicanasnuvens.com.br/blog/ia-para-nutricionista/)
 - Na Análise de Dados
   - [IA Generativa potencializando a Análise de Dados](https://blog.compass.uol/autores/ia-generativa-potencializando-a-analise-de-dados/)
+  - [IA Generativa na Análise de Dados](https://www.hubcount.com.br/artigo/ia-generativa-para-analise-de-dados)
   - [Matérias](https://www.notion.so/GenAI-Dicas-Prompts-e-Tools-925016bc433042ab8ce689fc5a3ffc70)
+- No Jornalismo
+  - [Recursos úteis de inteligência artificial para jornalistas](https://latamjournalismreview.org/pt-br/articles/recursos-uteis-de-inteligencia-artificial-para-jornalistas/)
+  - [Farol lança guia básico de inteligência artificial para jornalistas](https://ajor.org.br/farol-lanca-guia-basico-de-inteligencia-artificial-para-jornalistas/)
 - Na Educação
-  - [Matérias](https://www.notion.so/GenAI-Dicas-Prompts-e-Tools-925016bc433042ab8ce689fc5a3ffc70)
-
+  - [IA generativa na educação: por que é melhor criar do que adaptar?](https://hed.pearson.com.br/blog/higher-education/ia-generativa-na-educacao-por-que-melhor-criar-do-que-adaptar)
+  - [IA Generativa na Educação: Como Fazemos?](https://profuturo.education/pt-br/observatorio/competencias-xxi/ia-generativa-na-educacao-como-fazemos/)
+  - [Materiais Internos](https://www.notion.so/GenAI-Dicas-Prompts-e-Tools-925016bc433042ab8ce689fc5a3ffc70)
+- [Trabalho e trabalhadores (A reinvenção na era da IA generativa)](https://www.accenture.com/br-pt/insights/consulting/gen-ai-talent)
+  
 ### Ferramentas
 - [Tools de IA](https://wistful-trust-3c0.notion.site/Ferramentas-usando-GenAI-dfc787c0e6384957b7a9d19ba56c3026?pvs=4)
 
