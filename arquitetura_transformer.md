@@ -59,6 +59,8 @@ Os vetores ajustados passam por uma rede para refinar as representações. Isso 
 - "gato" → `[1.1, 0.5, -0.3]`  
 - "dorme" → `[-0.6, 1.4, 0.9]`
 
+---
+
 #### **5. Saída do Encoder**
 Após essas etapas, o Encoder gera representações contextuais das palavras da entrada, prontos para serem usados no Decodificador.
 
