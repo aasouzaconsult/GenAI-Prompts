@@ -170,7 +170,7 @@ Onde está a bola? "
 
 Narre o pensamento dos especialistas!
 ```
-* [gemini](https://g.co/gemini/share/334eb85f6e7d) | [chagpt](https://chatgpt.com/share/67293253-eb04-800a-b6e7-f80ddd830158)
+* [Gemini](https://g.co/gemini/share/334eb85f6e7d) | [ChatGPT](https://chatgpt.com/share/67293253-eb04-800a-b6e7-f80ddd830158)
 
 ## Directional Stimulus Prompting
 - [artigo](https://arxiv.org/abs/2302.11520)
