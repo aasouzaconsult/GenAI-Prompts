@@ -325,7 +325,7 @@ Enriquece seus prompts com informações/documentos da sua empresa...
 
 ![](https://blogdozouza.wordpress.com/wp-content/uploads/2024/11/finetunning1.png)
 
-![](https://blogdozouza.wordpress.com/wp-content/uploads/2024/11/finetunning2-1.png)
+![](https://blogdozouza.wordpress.com/wp-content/uploads/2024/11/screenshot_29.png)
 - [link](https://aistudio.google.com/app/tuned_models/new_tuned_model)
 
 --- 
