@@ -20,6 +20,8 @@ Neste repositório, exploramos diferentes aplicações e técnicas de Inteligên
 - [Ética na IA](https://www.notion.so/GenAI-Dicas-Prompts-e-Tools-925016bc433042ab8ce689fc5a3ffc70)
 - [RAG - Retrieval-Augmented Generation](https://medium.com/blog-do-zouza/rag-retrieval-augmented-generation-8238a20e381d)
   - [Materiais sobre RAG](https://www.notion.so/GenAI-Dicas-Prompts-e-Tools-925016bc433042ab8ce689fc5a3ffc70)
+  - [Arquitetura](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/DicasDePrompts.md#rag---retrieval-augment-generation-gera%C3%A7%C3%A3o-aumentada-de-recupera%C3%A7%C3%A3o)
+- [Fine-tuning](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/DicasDePrompts.md#fine-tunning)
  
 ### Aplicação de GenAI
 - Na Análise de Dados
