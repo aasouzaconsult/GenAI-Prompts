@@ -32,7 +32,7 @@ Neste repositório, exploramos diferentes aplicações e técnicas de Inteligên
 - [Na Arquitetura](https://www.unite.ai/pt/Projetos-de-IA-generativa-redefinindo-o-futuro-da-arquitetura)
 - [No Recursos Humanos](https://rhpravoce.com.br/colab/o-uso-da-ia-generativa-na-area-de-recursos-humanos/)
 - [Na Educação Física](https://fitscience.com.br/o-impactos-da-inteligencia-artificial-na-educacao-fisica/)
-- [Na nutrição](https://clinicanasnuvens.com.br/blog/ia-para-nutricionista/)
+- [Na Nutrição](https://clinicanasnuvens.com.br/blog/ia-para-nutricionista/)
 - Na Análise de Dados
   - [IA Generativa potencializando a Análise de Dados](https://blog.compass.uol/autores/ia-generativa-potencializando-a-analise-de-dados/)
   - [IA Generativa na Análise de Dados](https://www.hubcount.com.br/artigo/ia-generativa-para-analise-de-dados)
