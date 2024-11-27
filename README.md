@@ -49,18 +49,25 @@ Neste repositório, exploramos diferentes aplicações e técnicas de Inteligên
   - [Compilar notícias](https://chat.openai.com/share/589c52f2-23c2-4cad-83ad-f6314db8c1f3)
 - Trabalhnado com Imagens
   - [Imagens - Dall-E, Leonardo AI 📷🖼️](https://github.com/aasouzaconsult/GenAI-Prompts/tree/main/Leonardo%20AI) 
+
+### Calibrando o Modelo
+A capacidade de ajustar e calibrar modelos de linguagem é essencial para obter resultados que atendam às necessidades específicas de cada projeto. Parâmetros como Temperature, Max Tokens, Stop Sequences, Top k, Top p, Seed, Frequency Penalty e Presence Penalty desempenham papéis cruciais na forma como um modelo como o ChatGPT gera respostas.
+
+Este artigo abaixo, tem como objetivo explorar detalhadamente cada um desses parâmetros, fornecendo explicações claras e exemplos práticos de como eles influenciam a geração de texto. Ao compreender e manipular esses ajustes, você poderá controlar aspectos como criatividade, coerência, originalidade e extensão das respostas produzidas pelo modelo.
+- [Calibrando o modelo](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/CalibrandoModelo.md)
  
 ### Diversos
 - [Dicas diversas](https://www.notion.so/GenAI-Prompts-e-Tools-925016bc433042ab8ce689fc5a3ffc70?pvs=4)  
 
-  
+---
+
 ## Contribuição
 Se você tiver sugestões, melhorias ou exemplos adicionais relacionados à Inteligência Artificial Generativa, sinta-se à vontade para contribuir com este repositório. Basta abrir uma nova solicitação de pull request e descrever suas alterações propostas.
 
 Esperamos que este repositório seja uma fonte valiosa de aprendizado e inspiração para explorar as possibilidades da Inteligência Artificial Generativa. Divirta-se explorando e criando conteúdo único e criativo!
 
+---
 ## Licença
-
 Este projeto é licenciado sob a [MIT License](LICENSE).
 
 [Emotions para git](https://github.com/ikatyang/emoji-cheat-sheet) :octocat:
