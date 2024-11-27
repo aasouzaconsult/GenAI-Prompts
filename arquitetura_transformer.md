@@ -1,4 +1,4 @@
-# Arquiterura Transformer 🤖
+# Arquitetura Transformer 🤖
 
 ## Desenho
 <img src="https://blogdozouza.wordpress.com/wp-content/uploads/2024/11/transformes_alex.jpg" alt="Imagem WhatsApp" width="500" height="auto">
