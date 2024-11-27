@@ -328,6 +328,15 @@ Enriquece seus prompts com informações/documentos da sua empresa...
 ![](https://blogdozouza.wordpress.com/wp-content/uploads/2024/11/finetunning2-1.png)
 - [link](https://aistudio.google.com/app/tuned_models/new_tuned_model)
 
+--- 
+# Mais dicas (gerais)
+![](https://blogdozouza.wordpress.com/wp-content/uploads/2024/11/screenshot_25.png)
+- [link](https://docs.anthropic.com/pt/docs/build-with-claude/prompt-engineering/use-xml-tags#exemplo-analise-de-contrato-legal)
+
+![](https://blogdozouza.wordpress.com/wp-content/uploads/2024/11/screenshot_26.png)
+
+![](https://blogdozouza.wordpress.com/wp-content/uploads/2024/11/screenshot_27.png)
+
 ---
    
 # Mais informações
