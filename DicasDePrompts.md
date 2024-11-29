@@ -38,7 +38,8 @@ O tom da resposta é importante. Você pode pedir um tom formal, casual, entusi�
 - [mais dicas](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/DicasDePrompts_mais.md)
 
 # Técnicas de Prompts 💻>
-[Mais informações e detalhes](https://www.promptingguide.ai/techniques)
+- [Prompts abaixo no ChatGPT](https://chatgpt.com/share/6749cb1d-0e1c-800a-ad5b-2ae7c7cb366e)
+- [Mais informações e detalhes](https://www.promptingguide.ai/techniques)
 
 ## Zero-Shot Prompts
 Quando não é necessário nenhum exemplo, o próprio modelo já pode lhe dar respostas corretas.
