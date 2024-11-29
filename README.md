@@ -65,6 +65,7 @@ Neste repositório, exploramos diferentes aplicações e técnicas de Inteligên
   - Maieutic Prompting
   - ReAct
   - PAL: Program-Aided Language Models
+- [Lista de Prompts - outras dicas](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/ListaPrompts.md)
 - Prompts
   - [Prompts para Analistas de Dados - Excel, SQL, Python, Power BI...](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/Prompts%20para%20Analistas%20de%20Dados.md)
   - [Ajudando um analista de dados em tarefas de modelagem (relacional e dimensional)](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/da_gpt.md)
