@@ -34,7 +34,8 @@ O tom da resposta é importante. Você pode pedir um tom formal, casual, entusi�
 
 **Por exemplo:** Forneça as informações em formato de lista com marcadores, escreva com um tom motivador e entusiasmado!
 
-[mais dicas](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/DicasDePrompts_mais.md)
+- [exemplo no chatgpt - dicas](https://chatgpt.com/share/6749baa0-8270-800a-89e0-61c59bfe656e)
+- [mais dicas](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/DicasDePrompts_mais.md)
 
 # Técnicas de Prompts 💻>
 [Mais informações e detalhes](https://www.promptingguide.ai/techniques)
