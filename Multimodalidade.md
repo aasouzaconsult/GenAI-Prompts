@@ -101,13 +101,13 @@ Tentem por aqui (dica extra):
 
 ## Análise de Dados
 Fontes de dados de exemplo:
-- Vendas [.csv]() | [.xlsx]()
-- Nutrição [.xlsx]()
-- Bolos [.xlsx]()
-- Rh - Absenteismo [.xlsx]()
-- Arquitetura [.xlsx]()
-- Educação - Desempenho acadêmico [.xlsx]()
-- Jornalismo [.xlsx]()
+- Vendas [.csv](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/files/sales_data.csv) | [.xlsx](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/files/dados_vendas.xlsx)
+- Nutrição [.xlsx](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/files/Vendas_Nutricao.xlsx)
+- Bolos [.xlsx](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/files/vendas_bolos_tortas.xlsx)
+- Rh - Absenteismo [.xlsx](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/files/absenteismo_presenca.xlsx)
+- Arquitetura [.xlsx](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/files/projetos_arquitetura.xlsx)
+- Educação - Desempenho acadêmico [.xlsx](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/files/desempenho_academico.xlsx)
+- Jornalismo [.xlsx](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/files/analise_jornalismo.xlsx)
     - Possíveis insights
         - Tendências de Interesse: Identificar categorias ou temas que geram mais visualizações e engajamento.
         - Produtividade da Equipe: Avaliar a produção individual ou por equipe e correlacionar com o desempenho.
@@ -117,7 +117,7 @@ Fontes de dados de exemplo:
         - Engajamento: Compreender o tipo de conteúdo que gera maior interação com a audiência.
         - Monetização: Avaliar quais matérias estão gerando mais receita e quais podem ser otimizadas.
         - Aprimoramento de Estratégias: Ajustar pautas e alocação de recursos com base em dados de desempenho.
-- Financeiro [.xlsx]()
+- Financeiro [.xlsx](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/files/dre_analise_financeira.xlsx)
     - Insights que podem ser extraídos:
         - Análise de Margem Bruta:Comparar receitas com custos diretos para entender a lucratividade operacional.
         - Controle de Despesas: identificar categorias de despesas que mais impactam o resultado.
