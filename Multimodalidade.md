@@ -159,4 +159,12 @@ Fontes de dados de exemplo:
 - **Receita por Loja:** Determinar quais tipos de lojas são mais lucrativos.
 - **Análise de Margem:** Estimar lucros considerando o preço unitário e quantidade vendida.
 
+---
+Exemplo de prompt para gerar base de dados fictícia:
+```
+Gere um arquivo .xlsx contendo 5000 vendas de uma empresa do ramo de bolos, tortas, salgados, sucos naturais e refrigerantes. Contendo dados desde o ano 2019. Quanto mais colunas para detalhar a venda, melhor!
+```
+
+Nome das colunas em português
+
 Bons estudos!
