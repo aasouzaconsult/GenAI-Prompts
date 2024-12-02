@@ -60,6 +60,10 @@ Resposta algo como:
 Descreva detalhadamente essa imagem
 ```
 
+```
+Nesta imagem tem algo perigoso?
+```
+
 ---
 
 ## Documento Word
@@ -86,7 +90,7 @@ A OpenAI lançou o "Canvas", uma nova interface para escrever e programar com o 
 [OpenAI - Introducing Canvas](https://openai.com/index/introducing-canvas/)
 
 ```
-Gere um manual passo a passo de como instalar uma lâmpada led em uma sala... Que esse manual seja no Microsoft Word (.docx), que tenha um Cabeçalho, tópicos e imagens ilustrativas. No final, tenha uma conclusão e referências bibliográficas.
+Gere um manual passo a passo de como instalar uma lâmpada led em uma sala... que tenha um Cabeçalho, tópicos e imagens ilustrativas. No final, tenha uma conclusão e referências bibliográficas.
 ```
 
 
