@@ -37,6 +37,7 @@ Gere uma descrição para essa imagem de um bolo de cenoura com cobertura de cho
 ```
 
 Resposta algo como:
+
 ![](https://blogdozouza.wordpress.com/wp-content/uploads/2024/12/screenshot_68.png)
 
 
