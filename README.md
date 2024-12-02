@@ -77,7 +77,7 @@ Neste repositório, exploramos diferentes aplicações e técnicas de Inteligên
   - [ChatGPT - Criando Medidas DAX com ChatGPT](https://www.youtube.com/watch?v=vo9uo6aFLME)
   - [Plano de estudos Pentaho](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/Plano%20de%20Estudo%20-%20pentaho.md) | [Plano de estudos SQL](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/Plano%20de%20Estudo%20-%20sql.md)
   - [Compilar notícias](https://chat.openai.com/share/589c52f2-23c2-4cad-83ad-f6314db8c1f3)
-- Trabalhnado com Imagens
+- Trabalhando com Imagens
   - [Imagens - Dall-E, Leonardo AI 📷🖼️](https://github.com/aasouzaconsult/GenAI-Prompts/tree/main/Leonardo%20AI)
  
 ### Multimodalidade
