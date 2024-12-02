@@ -18,6 +18,18 @@ Retrato de personagem de Albert Einstein, em pé no palco, perfil lateral, caric
 Uma renderização 3D de uma caneca de café colocada no parapeito de uma janela durante um dia tempestuoso. A tempestade do lado de fora da janela se reflete no café, com relâmpagos em miniatura e ondas turbulentas vistas dentro da caneca. A sala está mal iluminada, aumentando a atmosfera dramática.
 ```
 
+Outro exemplo:
+
+💡Prompt: 🇺🇸Inglês
+```
+“create an image with a coffee sitting on a table and the steam coming out of it is in the shape of a drinking woman. the steam should take the shape of the woman's body coming our of the cup.”
+```
+
+💡Prompt: 🇧🇷 Português
+```
+“crie uma imagem com uma xícara de café sobre uma mesa, onde o vapor que sai da xícara tem o formato de uma mulher bebendo. O vapor deve formar o contorno do corpo da mulher saindo da xícara.”
+```
+
 ### Samurai
 ```
 samurai, blood moon, night, battle, burning village
