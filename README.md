@@ -78,7 +78,15 @@ Neste repositório, exploramos diferentes aplicações e técnicas de Inteligên
   - [Plano de estudos Pentaho](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/Plano%20de%20Estudo%20-%20pentaho.md) | [Plano de estudos SQL](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/Plano%20de%20Estudo%20-%20sql.md)
   - [Compilar notícias](https://chat.openai.com/share/589c52f2-23c2-4cad-83ad-f6314db8c1f3)
 - Trabalhnado com Imagens
-  - [Imagens - Dall-E, Leonardo AI 📷🖼️](https://github.com/aasouzaconsult/GenAI-Prompts/tree/main/Leonardo%20AI) 
+  - [Imagens - Dall-E, Leonardo AI 📷🖼️](https://github.com/aasouzaconsult/GenAI-Prompts/tree/main/Leonardo%20AI)
+ 
+### Multimodalidade
+A multimodalidade em LLMs (Large Language Models) refere-se à capacidade de processar e integrar diferentes tipos de dados, como texto, imagens, áudio e vídeo, para gerar respostas mais ricas e contextualmente relevantes. Essa abordagem amplia o escopo tradicional dos modelos baseados apenas em texto, permitindo interações mais complexas e úteis. Por exemplo, um modelo multimodal pode analisar uma imagem e responder perguntas sobre ela ou combinar informações textuais e visuais para oferecer insights aprofundados.
+
+Essa capacidade é alcançada através de arquiteturas que combinam processadores especializados, como redes convolucionais para imagens e transformadores para texto, permitindo a fusão das representações de diferentes modalidades em um espaço vetorial compartilhado. Exemplos de aplicações incluem assistentes virtuais que interpretam fotos e textos simultaneamente, diagnósticos médicos baseados em exames visuais e descrições textuais, e sistemas avançados de recomendação.
+
+A multimodalidade é um passo importante para tornar os modelos de IA mais próximos da compreensão humana, que naturalmente integra múltiplos canais de informação para interpretar o mundo. [mais](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/Multimodalidade.md)
+
 
 ### Calibrando o Modelo
 A capacidade de ajustar e calibrar modelos de linguagem é essencial para obter resultados que atendam às necessidades específicas de cada projeto. Parâmetros como Temperature, Max Tokens, Stop Sequences, Top k, Top p, Seed, Frequency Penalty e Presence Penalty desempenham papéis cruciais na forma como um modelo como o ChatGPT gera respostas.
