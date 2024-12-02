@@ -1,0 +1,1001 @@
+﻿Transaction_ID,Date,Customer_ID,Product_Category,Product_Name,Unit_Price,Quantity,Payment_Method,City,State,Store_Type,Salesperson_ID,Total_Sale
+TRX-24592,2022-01-24,CUST-5506,Snacks,Batata Chips,14.81,4,Boleto,Rio de Janeiro,DF,Loja de Conveniência,EMP-132,59.24
+TRX-22280,2012-04-08,CUST-9279,Carnes,Coca-Cola,56.56,18,Pix,Curitiba,CE,Hipermercado,EMP-928,1018.08
+TRX-30926,2012-12-14,CUST-6574,Frios,Batata Chips,22.32,11,Cartão de Crédito,Rio de Janeiro,BA,Supermercado,EMP-467,245.52
+TRX-89131,2017-05-26,CUST-1711,Grãos,Leite Integral,54.09,13,Cartão de Crédito,Manaus,RS,Hipermercado,EMP-691,703.1700000000001
+TRX-19116,2015-01-22,CUST-4733,Doces,Queijo Mussarela,98.54,8,Cartão de Crédito,Salvador,RS,Loja de Conveniência,EMP-750,788.32
+TRX-31319,2017-06-12,CUST-4432,Grãos,Queijo Mussarela,70.48,3,Boleto,Belo Horizonte,AM,Minimercado,EMP-267,211.44
+TRX-59735,2019-05-21,CUST-4598,Grãos,Queijo Mussarela,84.44,2,Cartão de Débito,São Paulo,PE,Loja de Conveniência,EMP-374,168.88
+TRX-37653,2013-10-23,CUST-6155,Snacks,Arroz Branco,50.42,15,Cartão de Débito,Porto Alegre,MG,Minimercado,EMP-862,756.3000000000001
+TRX-80644,2020-05-24,CUST-8019,Carnes,Leite Integral,36.84,5,Boleto,Fortaleza,RJ,Supermercado,EMP-981,184.20000000000002
+TRX-30033,2013-11-06,CUST-7916,Carnes,Coca-Cola,39.09,20,Pix,Manaus,RS,Supermercado,EMP-796,781.8000000000001
+TRX-25014,2023-11-18,CUST-5371,Doces,Arroz Branco,34.68,10,Pix,Belo Horizonte,CE,Supermercado,EMP-839,346.8
+TRX-44522,2023-09-25,CUST-3927,Carnes,Coca-Cola,87.18,10,Boleto,Brasília,PR,Minimercado,EMP-482,871.8000000000001
+TRX-31174,2024-09-25,CUST-9689,Bebidas,Filé de Frango,33.09,1,Cartão de Crédito,Recife,RS,Minimercado,EMP-159,33.09
+TRX-84364,2015-02-03,CUST-8962,Doces,Coca-Cola,97.82,18,Cartão de Débito,Belo Horizonte,CE,Minimercado,EMP-371,1760.7599999999998
+TRX-89507,2020-07-07,CUST-9835,Doces,Arroz Branco,69.3,10,Pix,Recife,CE,Loja de Conveniência,EMP-223,693.0
+TRX-39451,2015-02-11,CUST-1344,Carnes,Filé de Frango,23.78,8,Cartão de Crédito,Rio de Janeiro,SP,Minimercado,EMP-169,190.24
+TRX-53309,2012-02-17,CUST-4899,Frios,Arroz Branco,49.06,18,Cartão de Débito,Brasília,DF,Loja de Conveniência,EMP-348,883.08
+TRX-71993,2024-07-07,CUST-2545,Bebidas,Arroz Branco,43.67,14,Pix,Fortaleza,SP,Supermercado,EMP-162,611.38
+TRX-54473,2018-02-08,CUST-4139,Snacks,Filé de Frango,45.41,14,Cartão de Débito,Porto Alegre,CE,Minimercado,EMP-995,635.74
+TRX-68082,2013-09-04,CUST-1828,Grãos,Filé de Frango,83.77,3,Cartão de Débito,Belo Horizonte,BA,Loja de Conveniência,EMP-592,251.31
+TRX-62565,2015-01-06,CUST-7209,Bebidas,Leite Integral,27.26,15,Dinheiro,Salvador,AM,Loja de Conveniência,EMP-258,408.90000000000003
+TRX-48890,2015-04-02,CUST-9883,Bebidas,Arroz Branco,32.05,2,Boleto,Fortaleza,AM,Minimercado,EMP-158,64.1
+TRX-20500,2020-03-03,CUST-2113,Grãos,Chocolate,24.29,4,Boleto,Curitiba,DF,Supermercado,EMP-734,97.16
+TRX-64948,2013-11-19,CUST-9565,Frios,Queijo Mussarela,21.22,11,Cartão de Débito,Porto Alegre,BA,Minimercado,EMP-787,233.42
+TRX-49321,2022-08-11,CUST-2188,Bebidas,Leite Integral,62.49,19,Cartão de Crédito,Rio de Janeiro,AM,Minimercado,EMP-618,1187.31
+TRX-27361,2016-06-03,CUST-5002,Frios,Queijo Mussarela,16.62,18,Dinheiro,Brasília,AM,Supermercado,EMP-783,299.16
+TRX-49240,2020-11-04,CUST-3200,Frios,Coca-Cola,89.08,18,Cartão de Débito,Porto Alegre,RS,Minimercado,EMP-834,1603.44
+TRX-36685,2017-11-21,CUST-5325,Carnes,Leite Integral,25.86,2,Cartão de Crédito,Salvador,RS,Supermercado,EMP-103,51.72
+TRX-27146,2017-11-09,CUST-3647,Grãos,Leite Integral,55.62,14,Boleto,São Paulo,RJ,Supermercado,EMP-807,778.68
+TRX-81511,2014-01-27,CUST-7049,Carnes,Filé de Frango,15.66,5,Cartão de Crédito,Porto Alegre,PE,Supermercado,EMP-466,78.3
+TRX-99399,2015-04-22,CUST-2684,Frios,Chocolate,56.43,14,Boleto,Belo Horizonte,PR,Minimercado,EMP-919,790.02
+TRX-33206,2024-07-01,CUST-3938,Grãos,Queijo Mussarela,78.46,14,Cartão de Débito,Porto Alegre,MG,Supermercado,EMP-491,1098.4399999999998
+TRX-71694,2012-04-07,CUST-8541,Frios,Queijo Mussarela,82.23,8,Cartão de Débito,São Paulo,PR,Loja de Conveniência,EMP-436,657.84
+TRX-19099,2016-05-12,CUST-9346,Laticínios,Arroz Branco,98.13,18,Dinheiro,São Paulo,RJ,Hipermercado,EMP-282,1766.34
+TRX-44795,2021-01-04,CUST-8119,Frios,Arroz Branco,78.86,14,Boleto,Manaus,RJ,Loja de Conveniência,EMP-690,1104.04
+TRX-43386,2015-01-23,CUST-8144,Bebidas,Filé de Frango,92.63,18,Cartão de Débito,Recife,BA,Supermercado,EMP-780,1667.34
+TRX-91678,2017-06-22,CUST-3041,Grãos,Queijo Mussarela,51.21,14,Dinheiro,Salvador,RS,Minimercado,EMP-296,716.94
+TRX-97153,2018-07-22,CUST-3851,Carnes,Filé de Frango,30.79,18,Cartão de Crédito,Porto Alegre,RS,Minimercado,EMP-540,554.22
+TRX-86019,2024-10-21,CUST-6279,Laticínios,Leite Integral,44.77,7,Boleto,Fortaleza,MG,Supermercado,EMP-390,313.39000000000004
+TRX-97012,2020-11-20,CUST-6491,Bebidas,Chocolate,95.25,8,Dinheiro,Curitiba,PR,Minimercado,EMP-125,762.0
+TRX-42092,2012-08-20,CUST-2193,Laticínios,Leite Integral,88.73,19,Cartão de Débito,Salvador,CE,Loja de Conveniência,EMP-349,1685.8700000000001
+TRX-95990,2014-12-01,CUST-2746,Doces,Leite Integral,22.67,17,Pix,São Paulo,AM,Minimercado,EMP-968,385.39000000000004
+TRX-69829,2013-03-26,CUST-8612,Grãos,Filé de Frango,98.8,20,Dinheiro,Fortaleza,DF,Loja de Conveniência,EMP-950,1976.0
+TRX-68446,2020-03-24,CUST-8777,Laticínios,Queijo Mussarela,75.43,9,Boleto,Fortaleza,PR,Hipermercado,EMP-550,678.8700000000001
+TRX-47450,2013-04-09,CUST-6502,Frios,Filé de Frango,8.98,5,Cartão de Débito,Salvador,MG,Minimercado,EMP-165,44.900000000000006
+TRX-63424,2018-06-18,CUST-8633,Laticínios,Coca-Cola,21.48,14,Pix,Brasília,SP,Loja de Conveniência,EMP-588,300.72
+TRX-56105,2012-05-25,CUST-7389,Doces,Chocolate,42.48,18,Boleto,Curitiba,CE,Minimercado,EMP-379,764.64
+TRX-73654,2018-01-13,CUST-6507,Grãos,Arroz Branco,80.02,6,Pix,Belo Horizonte,DF,Supermercado,EMP-503,480.12
+TRX-83975,2021-11-01,CUST-2375,Grãos,Leite Integral,14.43,15,Cartão de Débito,São Paulo,RS,Loja de Conveniência,EMP-435,216.45
+TRX-69598,2015-06-11,CUST-7211,Frios,Chocolate,95.17,14,Dinheiro,Rio de Janeiro,CE,Supermercado,EMP-867,1332.38
+TRX-16826,2020-06-08,CUST-2124,Doces,Arroz Branco,4.99,1,Cartão de Débito,Curitiba,SP,Minimercado,EMP-344,4.99
+TRX-72070,2014-11-04,CUST-4571,Laticínios,Arroz Branco,26.37,12,Cartão de Débito,Brasília,DF,Supermercado,EMP-896,316.44
+TRX-50768,2014-02-19,CUST-1420,Frios,Filé de Frango,68.06,13,Pix,Curitiba,RJ,Minimercado,EMP-204,884.78
+TRX-49529,2023-11-20,CUST-2983,Doces,Filé de Frango,78.48,12,Boleto,Salvador,PE,Supermercado,EMP-618,941.76
+TRX-54725,2022-01-28,CUST-7882,Doces,Leite Integral,11.45,12,Pix,Belo Horizonte,BA,Minimercado,EMP-851,137.39999999999998
+TRX-95256,2020-05-20,CUST-9817,Doces,Leite Integral,47.02,19,Dinheiro,Recife,PR,Supermercado,EMP-385,893.3800000000001
+TRX-41963,2019-08-19,CUST-7209,Frios,Coca-Cola,49.94,11,Cartão de Débito,Fortaleza,PR,Hipermercado,EMP-916,549.3399999999999
+TRX-54608,2016-05-20,CUST-5526,Carnes,Coca-Cola,52.15,7,Cartão de Crédito,Curitiba,BA,Loja de Conveniência,EMP-668,365.05
+TRX-41499,2024-12-16,CUST-9041,Laticínios,Chocolate,2.71,10,Cartão de Débito,Salvador,PR,Hipermercado,EMP-779,27.1
+TRX-58368,2021-08-18,CUST-9698,Frios,Leite Integral,99.67,18,Dinheiro,Recife,CE,Hipermercado,EMP-413,1794.06
+TRX-40217,2016-02-24,CUST-4155,Frios,Coca-Cola,74.55,6,Cartão de Débito,Curitiba,CE,Hipermercado,EMP-841,447.29999999999995
+TRX-78765,2021-10-10,CUST-2647,Doces,Batata Chips,30.33,12,Cartão de Débito,Porto Alegre,SP,Minimercado,EMP-380,363.96
+TRX-17146,2012-09-10,CUST-3068,Grãos,Chocolate,75.53,4,Cartão de Crédito,Brasília,RS,Loja de Conveniência,EMP-590,302.12
+TRX-54657,2019-03-02,CUST-5136,Doces,Leite Integral,12.29,3,Pix,Fortaleza,RJ,Supermercado,EMP-255,36.87
+TRX-83772,2014-05-03,CUST-5066,Bebidas,Filé de Frango,76.68,20,Boleto,Brasília,PR,Loja de Conveniência,EMP-561,1533.6000000000001
+TRX-48974,2019-10-14,CUST-6003,Carnes,Filé de Frango,6.96,4,Cartão de Débito,Curitiba,RS,Supermercado,EMP-260,27.84
+TRX-32782,2015-09-03,CUST-3564,Bebidas,Leite Integral,45.6,20,Pix,Porto Alegre,SP,Minimercado,EMP-395,912.0
+TRX-47056,2023-12-28,CUST-8438,Bebidas,Arroz Branco,24.11,9,Boleto,Curitiba,BA,Supermercado,EMP-657,216.99
+TRX-94886,2015-03-09,CUST-3330,Bebidas,Coca-Cola,17.43,10,Boleto,Brasília,RS,Loja de Conveniência,EMP-227,174.3
+TRX-49857,2019-12-13,CUST-5460,Carnes,Filé de Frango,49.89,3,Boleto,São Paulo,BA,Hipermercado,EMP-718,149.67000000000002
+TRX-13390,2016-02-08,CUST-1339,Doces,Arroz Branco,82.32,19,Cartão de Crédito,Belo Horizonte,CE,Loja de Conveniência,EMP-384,1564.08
+TRX-86720,2014-07-21,CUST-9056,Bebidas,Leite Integral,35.45,11,Dinheiro,Rio de Janeiro,MG,Hipermercado,EMP-521,389.95000000000005
+TRX-74942,2023-05-22,CUST-7561,Doces,Chocolate,55.46,15,Cartão de Crédito,Recife,RS,Hipermercado,EMP-218,831.9
+TRX-62976,2024-09-27,CUST-1018,Grãos,Chocolate,54.72,14,Cartão de Crédito,Curitiba,AM,Hipermercado,EMP-737,766.0799999999999
+TRX-75338,2024-11-15,CUST-1845,Snacks,Queijo Mussarela,55.37,10,Pix,Fortaleza,RJ,Supermercado,EMP-745,553.6999999999999
+TRX-41365,2021-12-06,CUST-6091,Carnes,Coca-Cola,55.67,3,Cartão de Débito,Rio de Janeiro,CE,Supermercado,EMP-763,167.01
+TRX-75323,2014-12-10,CUST-9337,Grãos,Queijo Mussarela,42.13,16,Pix,Curitiba,CE,Minimercado,EMP-492,674.08
+TRX-88561,2015-09-24,CUST-3236,Doces,Coca-Cola,28.35,14,Dinheiro,Manaus,RS,Supermercado,EMP-389,396.90000000000003
+TRX-49132,2023-10-19,CUST-9022,Doces,Batata Chips,45.21,16,Dinheiro,Recife,AM,Loja de Conveniência,EMP-566,723.36
+TRX-34727,2017-12-08,CUST-7274,Snacks,Chocolate,77.78,2,Dinheiro,Fortaleza,BA,Loja de Conveniência,EMP-779,155.56
+TRX-95461,2024-03-16,CUST-1606,Snacks,Filé de Frango,96.57,11,Cartão de Crédito,Fortaleza,RJ,Loja de Conveniência,EMP-115,1062.27
+TRX-28894,2023-07-28,CUST-3529,Bebidas,Leite Integral,78.37,9,Dinheiro,Brasília,BA,Supermercado,EMP-972,705.33
+TRX-98389,2017-09-13,CUST-6188,Grãos,Arroz Branco,88.86,16,Boleto,São Paulo,DF,Supermercado,EMP-340,1421.76
+TRX-99705,2022-05-08,CUST-2480,Laticínios,Coca-Cola,76.28,4,Pix,Belo Horizonte,RS,Supermercado,EMP-147,305.12
+TRX-17355,2017-05-12,CUST-7141,Laticínios,Batata Chips,25.18,14,Boleto,Belo Horizonte,MG,Minimercado,EMP-180,352.52
+TRX-60140,2021-10-22,CUST-4945,Laticínios,Filé de Frango,15.17,15,Dinheiro,Fortaleza,RS,Supermercado,EMP-923,227.55
+TRX-47700,2019-11-18,CUST-3588,Bebidas,Leite Integral,94.58,19,Dinheiro,Salvador,RS,Loja de Conveniência,EMP-965,1797.02
+TRX-36111,2016-07-28,CUST-8916,Bebidas,Batata Chips,38.76,12,Boleto,Porto Alegre,RS,Supermercado,EMP-949,465.12
+TRX-61879,2022-05-01,CUST-1803,Carnes,Arroz Branco,50.18,10,Cartão de Débito,Brasília,PE,Minimercado,EMP-751,501.8
+TRX-91381,2015-05-22,CUST-3240,Grãos,Coca-Cola,90.44,2,Dinheiro,Fortaleza,SP,Hipermercado,EMP-849,180.88
+TRX-21813,2014-05-11,CUST-7807,Snacks,Batata Chips,14.08,18,Dinheiro,Manaus,AM,Hipermercado,EMP-950,253.44
+TRX-43681,2014-08-26,CUST-5835,Grãos,Chocolate,34.53,4,Pix,Rio de Janeiro,MG,Minimercado,EMP-980,138.12
+TRX-98395,2022-07-28,CUST-6992,Bebidas,Chocolate,40.06,9,Boleto,Rio de Janeiro,CE,Hipermercado,EMP-788,360.54
+TRX-98125,2023-05-19,CUST-7242,Doces,Arroz Branco,94.09,4,Cartão de Débito,Fortaleza,SP,Hipermercado,EMP-724,376.36
+TRX-94889,2015-02-21,CUST-8606,Grãos,Queijo Mussarela,65.27,4,Cartão de Débito,São Paulo,SP,Hipermercado,EMP-604,261.08
+TRX-22739,2013-04-18,CUST-3222,Laticínios,Leite Integral,37.73,18,Pix,Brasília,MG,Loja de Conveniência,EMP-770,679.14
+TRX-74139,2013-10-14,CUST-5583,Bebidas,Arroz Branco,37.68,15,Pix,Curitiba,PE,Supermercado,EMP-802,565.2
+TRX-81364,2017-11-12,CUST-1992,Laticínios,Queijo Mussarela,19.79,4,Pix,Rio de Janeiro,PR,Supermercado,EMP-151,79.16
+TRX-53713,2024-04-05,CUST-4362,Bebidas,Chocolate,76.75,7,Boleto,Curitiba,PR,Hipermercado,EMP-892,537.25
+TRX-88116,2014-01-09,CUST-3370,Snacks,Filé de Frango,25.81,6,Cartão de Crédito,São Paulo,MG,Supermercado,EMP-466,154.85999999999999
+TRX-41186,2024-10-11,CUST-1258,Snacks,Queijo Mussarela,6.19,14,Boleto,Rio de Janeiro,RJ,Loja de Conveniência,EMP-559,86.66000000000001
+TRX-57453,2024-09-19,CUST-2786,Laticínios,Filé de Frango,22.93,20,Cartão de Crédito,Manaus,RS,Loja de Conveniência,EMP-758,458.6
+TRX-17972,2012-08-28,CUST-7580,Laticínios,Arroz Branco,11.69,15,Cartão de Crédito,Rio de Janeiro,PE,Minimercado,EMP-167,175.35
+TRX-46046,2014-10-21,CUST-9984,Grãos,Queijo Mussarela,38.71,20,Boleto,Porto Alegre,CE,Loja de Conveniência,EMP-201,774.2
+TRX-24996,2024-11-21,CUST-4522,Laticínios,Leite Integral,88.92,14,Dinheiro,Fortaleza,BA,Loja de Conveniência,EMP-847,1244.88
+TRX-50966,2013-07-11,CUST-5176,Frios,Batata Chips,69.0,16,Cartão de Crédito,Rio de Janeiro,RJ,Supermercado,EMP-542,1104.0
+TRX-58843,2013-03-18,CUST-1982,Carnes,Filé de Frango,56.61,4,Pix,Recife,BA,Supermercado,EMP-394,226.44
+TRX-50953,2021-06-04,CUST-9313,Snacks,Batata Chips,66.02,8,Cartão de Crédito,Recife,AM,Hipermercado,EMP-217,528.16
+TRX-46512,2024-10-08,CUST-8030,Doces,Filé de Frango,97.48,20,Boleto,Manaus,SP,Hipermercado,EMP-129,1949.6000000000001
+TRX-45818,2014-12-25,CUST-6062,Frios,Queijo Mussarela,1.6,5,Boleto,Salvador,RJ,Minimercado,EMP-858,8.0
+TRX-14018,2022-02-24,CUST-9691,Snacks,Leite Integral,42.56,11,Cartão de Débito,Recife,RS,Hipermercado,EMP-895,468.16
+TRX-88148,2021-02-02,CUST-3549,Snacks,Chocolate,62.17,3,Dinheiro,Fortaleza,BA,Loja de Conveniência,EMP-721,186.51
+TRX-64287,2019-05-07,CUST-9394,Bebidas,Queijo Mussarela,43.56,10,Boleto,Fortaleza,AM,Hipermercado,EMP-146,435.6
+TRX-61807,2015-10-02,CUST-1125,Snacks,Queijo Mussarela,94.59,5,Dinheiro,Porto Alegre,PE,Supermercado,EMP-107,472.95000000000005
+TRX-66446,2019-03-05,CUST-7229,Carnes,Arroz Branco,23.78,18,Dinheiro,Rio de Janeiro,BA,Supermercado,EMP-546,428.04
+TRX-70260,2012-02-28,CUST-6129,Carnes,Leite Integral,57.77,14,Dinheiro,Rio de Janeiro,BA,Supermercado,EMP-432,808.7800000000001
+TRX-91018,2014-08-27,CUST-6928,Bebidas,Leite Integral,84.6,8,Pix,Brasília,BA,Supermercado,EMP-505,676.8
+TRX-54500,2016-04-11,CUST-3754,Bebidas,Filé de Frango,63.69,17,Boleto,Curitiba,PE,Hipermercado,EMP-844,1082.73
+TRX-29358,2022-04-04,CUST-3399,Frios,Batata Chips,18.18,5,Cartão de Crédito,Belo Horizonte,CE,Loja de Conveniência,EMP-872,90.9
+TRX-85952,2021-08-22,CUST-6295,Doces,Arroz Branco,32.3,15,Cartão de Crédito,Fortaleza,CE,Hipermercado,EMP-915,484.49999999999994
+TRX-87518,2016-01-12,CUST-9312,Bebidas,Queijo Mussarela,46.71,2,Cartão de Crédito,Recife,RS,Supermercado,EMP-760,93.42
+TRX-90610,2013-10-17,CUST-7299,Laticínios,Filé de Frango,55.88,2,Pix,Brasília,PR,Hipermercado,EMP-719,111.76
+TRX-75715,2019-03-02,CUST-8381,Bebidas,Chocolate,90.01,11,Cartão de Crédito,Manaus,MG,Supermercado,EMP-353,990.11
+TRX-67377,2023-08-17,CUST-9564,Carnes,Batata Chips,37.03,10,Pix,Salvador,PE,Supermercado,EMP-908,370.3
+TRX-94843,2022-06-03,CUST-6401,Bebidas,Filé de Frango,68.16,10,Dinheiro,Brasília,MG,Hipermercado,EMP-183,681.5999999999999
+TRX-96980,2021-03-12,CUST-6082,Grãos,Arroz Branco,66.55,5,Boleto,Rio de Janeiro,RS,Loja de Conveniência,EMP-758,332.75
+TRX-53054,2024-03-22,CUST-9624,Bebidas,Arroz Branco,67.38,17,Dinheiro,São Paulo,PE,Hipermercado,EMP-284,1145.46
+TRX-54791,2015-08-07,CUST-4711,Snacks,Batata Chips,8.64,4,Boleto,Manaus,AM,Supermercado,EMP-777,34.56
+TRX-91006,2017-03-20,CUST-7172,Snacks,Batata Chips,18.9,20,Cartão de Débito,Fortaleza,SP,Loja de Conveniência,EMP-473,378.0
+TRX-41133,2022-08-20,CUST-5668,Doces,Arroz Branco,78.6,8,Boleto,Curitiba,RS,Loja de Conveniência,EMP-955,628.8
+TRX-58213,2015-11-19,CUST-8218,Laticínios,Chocolate,28.9,13,Boleto,Manaus,BA,Minimercado,EMP-936,375.7
+TRX-89254,2015-03-28,CUST-5096,Bebidas,Arroz Branco,48.58,12,Boleto,Rio de Janeiro,AM,Supermercado,EMP-391,582.96
+TRX-31012,2013-05-15,CUST-9410,Snacks,Chocolate,44.31,8,Pix,Recife,SP,Loja de Conveniência,EMP-154,354.48
+TRX-75799,2018-06-08,CUST-7326,Bebidas,Queijo Mussarela,23.23,11,Cartão de Crédito,Recife,MG,Minimercado,EMP-139,255.53
+TRX-71925,2016-12-27,CUST-3273,Doces,Arroz Branco,47.44,20,Cartão de Crédito,Rio de Janeiro,SP,Hipermercado,EMP-320,948.8
+TRX-81932,2014-12-20,CUST-9647,Laticínios,Coca-Cola,77.84,8,Dinheiro,Rio de Janeiro,SP,Minimercado,EMP-529,622.72
+TRX-91633,2022-08-03,CUST-2816,Doces,Leite Integral,60.08,1,Boleto,Brasília,PR,Minimercado,EMP-398,60.08
+TRX-10205,2018-10-12,CUST-4941,Carnes,Leite Integral,19.54,3,Boleto,Recife,RJ,Supermercado,EMP-499,58.62
+TRX-15706,2019-11-13,CUST-7116,Frios,Arroz Branco,2.61,3,Dinheiro,Curitiba,RJ,Hipermercado,EMP-236,7.83
+TRX-56176,2012-09-11,CUST-3868,Doces,Chocolate,68.78,16,Cartão de Débito,Belo Horizonte,RJ,Loja de Conveniência,EMP-137,1100.48
+TRX-36422,2016-01-26,CUST-4268,Bebidas,Queijo Mussarela,93.4,17,Pix,Manaus,CE,Hipermercado,EMP-137,1587.8000000000002
+TRX-94790,2024-04-10,CUST-6848,Doces,Chocolate,5.73,11,Dinheiro,Rio de Janeiro,PE,Loja de Conveniência,EMP-509,63.03
+TRX-67637,2023-07-11,CUST-4060,Laticínios,Arroz Branco,50.25,17,Dinheiro,Rio de Janeiro,BA,Supermercado,EMP-540,854.25
+TRX-33652,2021-09-10,CUST-6262,Bebidas,Coca-Cola,33.46,10,Dinheiro,Fortaleza,DF,Loja de Conveniência,EMP-270,334.6
+TRX-68183,2023-06-15,CUST-1693,Grãos,Chocolate,91.25,20,Pix,Porto Alegre,SP,Supermercado,EMP-787,1825.0
+TRX-63242,2022-06-17,CUST-3621,Bebidas,Batata Chips,85.02,15,Cartão de Crédito,Belo Horizonte,RJ,Minimercado,EMP-897,1275.3
+TRX-58015,2022-06-13,CUST-1530,Carnes,Batata Chips,68.23,12,Dinheiro,Fortaleza,RJ,Minimercado,EMP-642,818.76
+TRX-62171,2017-06-21,CUST-5566,Snacks,Coca-Cola,3.57,6,Pix,Manaus,BA,Supermercado,EMP-368,21.419999999999998
+TRX-44116,2024-12-15,CUST-4515,Carnes,Queijo Mussarela,69.7,16,Cartão de Débito,Rio de Janeiro,MG,Supermercado,EMP-562,1115.2
+TRX-68341,2014-02-26,CUST-6236,Grãos,Queijo Mussarela,71.24,18,Boleto,Porto Alegre,RS,Minimercado,EMP-828,1282.32
+TRX-93584,2023-03-26,CUST-6922,Carnes,Batata Chips,13.01,7,Cartão de Débito,Curitiba,CE,Supermercado,EMP-469,91.07
+TRX-85009,2020-06-15,CUST-3126,Carnes,Coca-Cola,7.51,13,Pix,Manaus,BA,Loja de Conveniência,EMP-943,97.63
+TRX-19666,2021-03-11,CUST-2215,Laticínios,Leite Integral,68.33,12,Cartão de Débito,Manaus,DF,Minimercado,EMP-886,819.96
+TRX-66704,2014-09-28,CUST-1907,Doces,Coca-Cola,52.29,10,Cartão de Débito,Belo Horizonte,PE,Minimercado,EMP-454,522.9
+TRX-47230,2020-02-09,CUST-4216,Grãos,Filé de Frango,28.17,10,Boleto,Manaus,RJ,Minimercado,EMP-706,281.70000000000005
+TRX-30210,2021-03-22,CUST-6531,Doces,Filé de Frango,5.08,1,Cartão de Crédito,São Paulo,DF,Hipermercado,EMP-766,5.08
+TRX-84991,2015-07-20,CUST-1496,Laticínios,Arroz Branco,55.01,10,Pix,Curitiba,BA,Hipermercado,EMP-564,550.1
+TRX-17852,2013-03-15,CUST-7809,Laticínios,Leite Integral,21.2,20,Cartão de Débito,Recife,PE,Hipermercado,EMP-508,424.0
+TRX-58567,2014-09-18,CUST-2739,Frios,Batata Chips,47.18,9,Pix,Curitiba,MG,Supermercado,EMP-151,424.62
+TRX-60351,2016-10-14,CUST-5067,Doces,Batata Chips,81.53,19,Dinheiro,Curitiba,MG,Loja de Conveniência,EMP-627,1549.07
+TRX-75373,2019-05-16,CUST-1379,Bebidas,Leite Integral,51.04,8,Cartão de Débito,Brasília,PE,Supermercado,EMP-151,408.32
+TRX-74866,2016-10-27,CUST-8710,Frios,Filé de Frango,1.81,4,Pix,Belo Horizonte,RS,Hipermercado,EMP-882,7.24
+TRX-57964,2018-01-13,CUST-1838,Carnes,Filé de Frango,20.27,18,Dinheiro,Rio de Janeiro,BA,Loja de Conveniência,EMP-882,364.86
+TRX-46663,2020-10-22,CUST-2946,Snacks,Coca-Cola,40.0,11,Boleto,Recife,MG,Minimercado,EMP-716,440.0
+TRX-62610,2020-09-02,CUST-1742,Bebidas,Batata Chips,71.65,16,Boleto,Fortaleza,MG,Minimercado,EMP-435,1146.4
+TRX-51750,2021-03-13,CUST-5902,Carnes,Queijo Mussarela,51.22,17,Boleto,Fortaleza,DF,Hipermercado,EMP-586,870.74
+TRX-58281,2012-06-22,CUST-2795,Laticínios,Filé de Frango,31.46,1,Boleto,Fortaleza,RS,Minimercado,EMP-838,31.46
+TRX-86483,2012-08-06,CUST-9589,Grãos,Arroz Branco,62.35,13,Cartão de Débito,Curitiba,SP,Supermercado,EMP-295,810.5500000000001
+TRX-67807,2012-06-14,CUST-3481,Laticínios,Arroz Branco,21.19,17,Boleto,Fortaleza,SP,Minimercado,EMP-631,360.23
+TRX-83516,2015-06-22,CUST-8837,Carnes,Leite Integral,32.06,6,Pix,Manaus,PE,Hipermercado,EMP-792,192.36
+TRX-99226,2024-11-26,CUST-5331,Carnes,Leite Integral,20.03,8,Dinheiro,Manaus,RS,Minimercado,EMP-404,160.24
+TRX-47880,2024-12-07,CUST-9011,Frios,Leite Integral,35.53,9,Dinheiro,Rio de Janeiro,DF,Loja de Conveniência,EMP-504,319.77
+TRX-29198,2017-05-02,CUST-5712,Grãos,Coca-Cola,35.29,15,Dinheiro,Fortaleza,PR,Minimercado,EMP-947,529.35
+TRX-45537,2020-09-23,CUST-5450,Snacks,Coca-Cola,61.95,19,Cartão de Débito,Curitiba,SP,Minimercado,EMP-753,1177.05
+TRX-16880,2015-02-14,CUST-6411,Grãos,Leite Integral,10.95,5,Cartão de Crédito,Manaus,MG,Loja de Conveniência,EMP-768,54.75
+TRX-72580,2019-11-07,CUST-5706,Frios,Queijo Mussarela,64.94,3,Boleto,Curitiba,AM,Supermercado,EMP-279,194.82
+TRX-33040,2018-01-27,CUST-7504,Doces,Leite Integral,19.44,10,Cartão de Crédito,São Paulo,RS,Supermercado,EMP-443,194.4
+TRX-69552,2016-11-18,CUST-9590,Laticínios,Batata Chips,85.25,15,Dinheiro,Curitiba,RJ,Hipermercado,EMP-266,1278.75
+TRX-70150,2023-11-09,CUST-4050,Bebidas,Arroz Branco,34.37,10,Boleto,Curitiba,MG,Loja de Conveniência,EMP-946,343.7
+TRX-77538,2018-06-03,CUST-7567,Grãos,Coca-Cola,19.29,5,Pix,Recife,PR,Supermercado,EMP-367,96.44999999999999
+TRX-40870,2018-08-25,CUST-5374,Frios,Queijo Mussarela,58.66,19,Cartão de Crédito,Porto Alegre,PE,Minimercado,EMP-163,1114.54
+TRX-25495,2022-08-10,CUST-3616,Laticínios,Arroz Branco,50.75,10,Cartão de Crédito,Porto Alegre,PE,Minimercado,EMP-324,507.5
+TRX-72676,2014-03-15,CUST-7121,Laticínios,Arroz Branco,55.37,16,Boleto,Curitiba,PR,Supermercado,EMP-638,885.92
+TRX-79228,2019-12-12,CUST-2279,Carnes,Coca-Cola,7.11,18,Boleto,Curitiba,DF,Minimercado,EMP-268,127.98
+TRX-78202,2017-08-04,CUST-4365,Grãos,Filé de Frango,49.39,17,Pix,São Paulo,CE,Minimercado,EMP-625,839.63
+TRX-69873,2018-10-02,CUST-8575,Grãos,Chocolate,31.51,1,Pix,Porto Alegre,SP,Minimercado,EMP-692,31.51
+TRX-15936,2013-07-12,CUST-2044,Carnes,Coca-Cola,93.52,3,Pix,São Paulo,RS,Loja de Conveniência,EMP-284,280.56
+TRX-27750,2024-11-24,CUST-7887,Frios,Leite Integral,45.41,13,Pix,Rio de Janeiro,AM,Minimercado,EMP-769,590.3299999999999
+TRX-25549,2017-03-18,CUST-7439,Carnes,Batata Chips,73.06,8,Cartão de Crédito,São Paulo,RS,Loja de Conveniência,EMP-789,584.48
+TRX-81361,2023-07-18,CUST-7214,Doces,Batata Chips,25.5,12,Cartão de Débito,Porto Alegre,PR,Supermercado,EMP-132,306.0
+TRX-96533,2024-07-20,CUST-1256,Snacks,Batata Chips,7.66,20,Cartão de Crédito,Fortaleza,DF,Supermercado,EMP-350,153.2
+TRX-15798,2023-07-15,CUST-4839,Carnes,Batata Chips,75.68,2,Cartão de Débito,Manaus,RS,Minimercado,EMP-935,151.36
+TRX-85511,2023-06-19,CUST-6253,Snacks,Queijo Mussarela,87.75,17,Cartão de Débito,Salvador,RS,Hipermercado,EMP-162,1491.75
+TRX-87550,2020-12-06,CUST-7999,Carnes,Leite Integral,5.64,12,Pix,Manaus,PE,Loja de Conveniência,EMP-518,67.67999999999999
+TRX-49306,2014-07-06,CUST-9813,Laticínios,Batata Chips,85.08,10,Cartão de Débito,Fortaleza,SP,Loja de Conveniência,EMP-526,850.8
+TRX-79467,2020-03-13,CUST-4978,Frios,Batata Chips,33.7,3,Pix,Recife,RJ,Minimercado,EMP-152,101.10000000000001
+TRX-59436,2016-11-20,CUST-1647,Doces,Coca-Cola,19.63,19,Boleto,Curitiba,CE,Minimercado,EMP-990,372.96999999999997
+TRX-49739,2017-01-07,CUST-4113,Grãos,Coca-Cola,74.94,16,Cartão de Débito,Brasília,PR,Loja de Conveniência,EMP-345,1199.04
+TRX-52154,2020-05-13,CUST-8639,Carnes,Arroz Branco,36.57,9,Dinheiro,Manaus,CE,Loja de Conveniência,EMP-200,329.13
+TRX-71537,2024-06-07,CUST-7073,Frios,Leite Integral,5.53,8,Cartão de Débito,São Paulo,RS,Loja de Conveniência,EMP-402,44.24
+TRX-35715,2014-06-08,CUST-7223,Carnes,Chocolate,25.33,18,Dinheiro,Porto Alegre,CE,Loja de Conveniência,EMP-571,455.93999999999994
+TRX-56160,2014-03-05,CUST-9954,Laticínios,Batata Chips,91.77,18,Cartão de Crédito,Manaus,SP,Supermercado,EMP-937,1651.86
+TRX-16358,2022-01-14,CUST-3252,Doces,Arroz Branco,23.91,5,Cartão de Crédito,Curitiba,AM,Loja de Conveniência,EMP-482,119.55
+TRX-90980,2012-11-22,CUST-8916,Grãos,Leite Integral,2.56,18,Boleto,Salvador,SP,Supermercado,EMP-642,46.08
+TRX-46010,2023-09-10,CUST-1280,Carnes,Chocolate,70.09,14,Cartão de Débito,Rio de Janeiro,RJ,Minimercado,EMP-346,981.26
+TRX-91235,2015-09-09,CUST-6807,Frios,Chocolate,40.29,12,Pix,Fortaleza,DF,Minimercado,EMP-813,483.48
+TRX-49318,2015-11-27,CUST-2320,Grãos,Chocolate,65.34,2,Cartão de Crédito,Salvador,BA,Loja de Conveniência,EMP-665,130.68
+TRX-17355,2019-11-01,CUST-3807,Bebidas,Leite Integral,84.69,11,Boleto,Rio de Janeiro,AM,Supermercado,EMP-335,931.5899999999999
+TRX-84289,2015-08-09,CUST-1762,Bebidas,Arroz Branco,92.63,18,Boleto,São Paulo,MG,Hipermercado,EMP-116,1667.34
+TRX-86943,2015-03-25,CUST-7525,Bebidas,Queijo Mussarela,17.08,8,Boleto,Salvador,AM,Hipermercado,EMP-493,136.64
+TRX-28343,2024-12-24,CUST-2284,Carnes,Arroz Branco,97.46,2,Cartão de Crédito,Salvador,PR,Supermercado,EMP-448,194.92
+TRX-90460,2021-10-13,CUST-6347,Bebidas,Arroz Branco,28.06,15,Pix,Curitiba,PE,Loja de Conveniência,EMP-542,420.9
+TRX-99088,2014-10-22,CUST-7227,Bebidas,Chocolate,62.24,8,Cartão de Crédito,Rio de Janeiro,RS,Minimercado,EMP-489,497.92
+TRX-93086,2023-03-24,CUST-7383,Frios,Queijo Mussarela,11.55,1,Dinheiro,Fortaleza,PE,Hipermercado,EMP-204,11.55
+TRX-21442,2014-03-14,CUST-8353,Carnes,Filé de Frango,51.73,4,Cartão de Crédito,Rio de Janeiro,PE,Supermercado,EMP-711,206.92
+TRX-52523,2021-07-01,CUST-5781,Laticínios,Leite Integral,78.14,18,Cartão de Débito,Brasília,AM,Minimercado,EMP-801,1406.52
+TRX-32216,2018-03-09,CUST-5933,Frios,Leite Integral,15.45,6,Pix,Porto Alegre,BA,Hipermercado,EMP-595,92.69999999999999
+TRX-20082,2024-06-09,CUST-5040,Grãos,Arroz Branco,50.08,20,Cartão de Débito,Fortaleza,RJ,Minimercado,EMP-411,1001.5999999999999
+TRX-61864,2012-06-27,CUST-7224,Doces,Chocolate,33.62,11,Pix,Brasília,MG,Hipermercado,EMP-428,369.82
+TRX-36326,2021-08-11,CUST-3910,Laticínios,Queijo Mussarela,29.85,16,Boleto,Curitiba,PE,Loja de Conveniência,EMP-387,477.6
+TRX-61502,2024-06-04,CUST-4273,Carnes,Filé de Frango,18.81,18,Cartão de Crédito,Fortaleza,PR,Loja de Conveniência,EMP-916,338.58
+TRX-19064,2016-07-22,CUST-9180,Snacks,Arroz Branco,30.98,9,Cartão de Débito,Salvador,BA,Supermercado,EMP-559,278.82
+TRX-72814,2021-10-13,CUST-9755,Carnes,Chocolate,69.48,18,Cartão de Crédito,Recife,AM,Supermercado,EMP-211,1250.64
+TRX-42536,2024-11-22,CUST-6816,Snacks,Arroz Branco,61.66,19,Pix,Recife,BA,Supermercado,EMP-110,1171.54
+TRX-43913,2013-04-17,CUST-9499,Carnes,Filé de Frango,69.08,8,Pix,Recife,BA,Loja de Conveniência,EMP-890,552.64
+TRX-87147,2022-12-17,CUST-3469,Frios,Coca-Cola,48.79,10,Pix,Rio de Janeiro,RJ,Minimercado,EMP-456,487.9
+TRX-54966,2016-08-26,CUST-4389,Carnes,Leite Integral,35.48,4,Pix,Fortaleza,PE,Supermercado,EMP-407,141.92
+TRX-25084,2012-01-28,CUST-6620,Grãos,Coca-Cola,68.04,6,Cartão de Débito,Manaus,MG,Minimercado,EMP-438,408.24
+TRX-65885,2020-08-08,CUST-7636,Grãos,Batata Chips,19.45,14,Pix,São Paulo,DF,Minimercado,EMP-560,272.3
+TRX-66302,2021-07-01,CUST-4519,Snacks,Queijo Mussarela,75.48,3,Boleto,Rio de Janeiro,AM,Minimercado,EMP-474,226.44
+TRX-35830,2017-08-04,CUST-5298,Grãos,Chocolate,49.46,11,Boleto,Salvador,DF,Loja de Conveniência,EMP-701,544.0600000000001
+TRX-55603,2013-06-28,CUST-8501,Carnes,Batata Chips,81.56,10,Boleto,Brasília,RJ,Minimercado,EMP-420,815.6
+TRX-41270,2013-05-04,CUST-3999,Frios,Arroz Branco,14.99,13,Pix,Brasília,MG,Loja de Conveniência,EMP-533,194.87
+TRX-73788,2014-11-18,CUST-3838,Carnes,Batata Chips,49.47,5,Cartão de Débito,Recife,CE,Supermercado,EMP-986,247.35
+TRX-11256,2017-08-05,CUST-4196,Doces,Leite Integral,96.42,17,Pix,Salvador,CE,Loja de Conveniência,EMP-827,1639.14
+TRX-74054,2019-03-03,CUST-1505,Doces,Chocolate,22.83,2,Dinheiro,Curitiba,AM,Hipermercado,EMP-272,45.66
+TRX-69942,2024-10-24,CUST-9115,Carnes,Filé de Frango,12.21,4,Dinheiro,Manaus,PE,Supermercado,EMP-878,48.84
+TRX-67850,2023-09-07,CUST-7965,Bebidas,Arroz Branco,83.18,8,Dinheiro,São Paulo,CE,Hipermercado,EMP-456,665.44
+TRX-67549,2013-02-25,CUST-4882,Snacks,Chocolate,74.02,12,Boleto,Salvador,MG,Minimercado,EMP-903,888.24
+TRX-37124,2015-01-19,CUST-6747,Carnes,Queijo Mussarela,60.09,6,Dinheiro,Porto Alegre,RS,Hipermercado,EMP-978,360.54
+TRX-99037,2020-02-05,CUST-7743,Bebidas,Queijo Mussarela,86.84,5,Cartão de Débito,Curitiba,MG,Hipermercado,EMP-948,434.20000000000005
+TRX-98635,2015-07-16,CUST-3329,Carnes,Arroz Branco,27.6,14,Pix,Fortaleza,RJ,Supermercado,EMP-512,386.40000000000003
+TRX-46467,2020-12-12,CUST-8449,Laticínios,Queijo Mussarela,58.61,3,Pix,Recife,RJ,Loja de Conveniência,EMP-323,175.82999999999998
+TRX-37767,2018-08-09,CUST-6289,Doces,Queijo Mussarela,34.44,19,Cartão de Débito,Brasília,CE,Hipermercado,EMP-798,654.3599999999999
+TRX-16345,2024-01-04,CUST-8529,Bebidas,Coca-Cola,93.01,6,Pix,Fortaleza,SP,Loja de Conveniência,EMP-307,558.0600000000001
+TRX-27290,2023-11-10,CUST-3604,Doces,Queijo Mussarela,10.24,12,Dinheiro,Rio de Janeiro,PE,Minimercado,EMP-153,122.88
+TRX-91999,2018-05-24,CUST-4836,Laticínios,Arroz Branco,10.03,4,Cartão de Crédito,Curitiba,CE,Supermercado,EMP-235,40.12
+TRX-39647,2021-09-22,CUST-8291,Bebidas,Coca-Cola,69.86,4,Pix,Belo Horizonte,CE,Supermercado,EMP-334,279.44
+TRX-21708,2018-12-26,CUST-2678,Bebidas,Queijo Mussarela,37.39,10,Cartão de Débito,Salvador,MG,Minimercado,EMP-170,373.9
+TRX-83831,2020-01-20,CUST-3688,Laticínios,Queijo Mussarela,72.52,5,Pix,Brasília,CE,Minimercado,EMP-188,362.59999999999997
+TRX-28351,2013-02-19,CUST-7291,Frios,Leite Integral,32.14,5,Cartão de Débito,Porto Alegre,RJ,Minimercado,EMP-666,160.7
+TRX-88644,2021-12-20,CUST-5668,Doces,Arroz Branco,3.66,10,Cartão de Débito,Manaus,DF,Minimercado,EMP-865,36.6
+TRX-48737,2018-11-02,CUST-4921,Laticínios,Leite Integral,12.16,16,Boleto,Rio de Janeiro,AM,Supermercado,EMP-469,194.56
+TRX-27299,2017-07-28,CUST-7895,Frios,Filé de Frango,68.61,16,Cartão de Crédito,São Paulo,DF,Supermercado,EMP-114,1097.76
+TRX-38277,2016-01-02,CUST-7520,Carnes,Queijo Mussarela,63.23,17,Pix,Salvador,BA,Supermercado,EMP-755,1074.9099999999999
+TRX-80471,2020-10-05,CUST-5546,Bebidas,Queijo Mussarela,8.82,7,Cartão de Débito,Manaus,PE,Loja de Conveniência,EMP-700,61.74
+TRX-95175,2022-11-21,CUST-2083,Frios,Arroz Branco,44.31,8,Cartão de Crédito,Curitiba,RJ,Loja de Conveniência,EMP-218,354.48
+TRX-90254,2019-10-02,CUST-6067,Grãos,Arroz Branco,66.15,6,Cartão de Crédito,São Paulo,MG,Supermercado,EMP-267,396.90000000000003
+TRX-55443,2019-09-17,CUST-5247,Snacks,Queijo Mussarela,13.57,9,Cartão de Crédito,São Paulo,PE,Loja de Conveniência,EMP-378,122.13
+TRX-18371,2020-05-23,CUST-2262,Laticínios,Leite Integral,51.57,2,Pix,Brasília,MG,Hipermercado,EMP-261,103.14
+TRX-23487,2016-10-22,CUST-2889,Snacks,Arroz Branco,51.37,2,Cartão de Crédito,Curitiba,SP,Loja de Conveniência,EMP-472,102.74
+TRX-29671,2018-03-28,CUST-1579,Carnes,Chocolate,91.48,14,Cartão de Débito,Recife,PR,Loja de Conveniência,EMP-837,1280.72
+TRX-45554,2017-02-19,CUST-7108,Bebidas,Filé de Frango,67.66,2,Cartão de Débito,Curitiba,AM,Supermercado,EMP-510,135.32
+TRX-70960,2013-05-25,CUST-6090,Frios,Coca-Cola,55.76,1,Dinheiro,Curitiba,RS,Hipermercado,EMP-857,55.76
+TRX-41795,2021-08-12,CUST-9083,Doces,Chocolate,20.35,18,Cartão de Débito,Belo Horizonte,SP,Loja de Conveniência,EMP-124,366.3
+TRX-80981,2015-06-21,CUST-1157,Frios,Coca-Cola,76.13,13,Dinheiro,Rio de Janeiro,PR,Minimercado,EMP-529,989.6899999999999
+TRX-17850,2019-03-23,CUST-5584,Bebidas,Coca-Cola,92.21,17,Pix,Recife,CE,Supermercado,EMP-694,1567.57
+TRX-76247,2013-03-21,CUST-7461,Bebidas,Filé de Frango,57.21,14,Cartão de Débito,Curitiba,RS,Hipermercado,EMP-971,800.94
+TRX-61505,2017-12-27,CUST-6345,Frios,Leite Integral,27.92,3,Cartão de Débito,Belo Horizonte,DF,Supermercado,EMP-259,83.76
+TRX-31544,2013-08-15,CUST-6145,Laticínios,Coca-Cola,54.06,7,Pix,Porto Alegre,CE,Hipermercado,EMP-972,378.42
+TRX-21851,2013-03-26,CUST-5984,Doces,Arroz Branco,69.99,2,Cartão de Débito,Recife,MG,Supermercado,EMP-828,139.98
+TRX-56627,2015-07-17,CUST-1802,Grãos,Queijo Mussarela,26.76,6,Cartão de Crédito,Salvador,CE,Minimercado,EMP-196,160.56
+TRX-23357,2019-03-04,CUST-1195,Bebidas,Chocolate,78.32,8,Cartão de Débito,Curitiba,BA,Hipermercado,EMP-802,626.56
+TRX-94500,2022-02-19,CUST-5240,Doces,Coca-Cola,3.16,3,Cartão de Débito,Fortaleza,MG,Supermercado,EMP-967,9.48
+TRX-53456,2024-02-02,CUST-8552,Bebidas,Batata Chips,92.49,14,Pix,Fortaleza,SP,Loja de Conveniência,EMP-799,1294.86
+TRX-32650,2018-06-07,CUST-4066,Frios,Queijo Mussarela,45.16,5,Cartão de Crédito,Brasília,DF,Minimercado,EMP-762,225.79999999999998
+TRX-75390,2016-07-18,CUST-8848,Bebidas,Coca-Cola,28.7,5,Pix,Curitiba,AM,Minimercado,EMP-745,143.5
+TRX-81258,2024-01-13,CUST-6883,Laticínios,Filé de Frango,78.36,12,Boleto,Manaus,PE,Loja de Conveniência,EMP-376,940.3199999999999
+TRX-13416,2014-06-20,CUST-4588,Bebidas,Chocolate,78.08,2,Pix,Manaus,PE,Minimercado,EMP-263,156.16
+TRX-42487,2013-11-08,CUST-5366,Carnes,Chocolate,79.33,2,Cartão de Débito,Brasília,BA,Hipermercado,EMP-959,158.66
+TRX-33081,2014-04-19,CUST-6210,Doces,Arroz Branco,70.07,19,Cartão de Crédito,Recife,DF,Minimercado,EMP-676,1331.33
+TRX-74517,2015-09-10,CUST-3876,Laticínios,Coca-Cola,9.94,8,Boleto,Curitiba,SP,Loja de Conveniência,EMP-100,79.52
+TRX-90495,2017-04-26,CUST-3137,Frios,Arroz Branco,18.57,11,Cartão de Crédito,São Paulo,MG,Minimercado,EMP-892,204.27
+TRX-78982,2013-06-03,CUST-7120,Grãos,Arroz Branco,40.16,4,Dinheiro,Porto Alegre,PE,Minimercado,EMP-261,160.64
+TRX-67261,2023-11-16,CUST-6198,Snacks,Arroz Branco,96.91,20,Dinheiro,Curitiba,DF,Minimercado,EMP-487,1938.1999999999998
+TRX-48602,2016-03-06,CUST-1029,Grãos,Filé de Frango,39.77,19,Cartão de Crédito,Belo Horizonte,DF,Hipermercado,EMP-928,755.6300000000001
+TRX-38953,2021-11-19,CUST-2705,Laticínios,Batata Chips,33.79,3,Cartão de Débito,Recife,PE,Minimercado,EMP-751,101.37
+TRX-97821,2013-11-24,CUST-6500,Laticínios,Coca-Cola,27.26,8,Cartão de Crédito,Recife,RS,Supermercado,EMP-837,218.08
+TRX-16310,2012-07-15,CUST-7875,Snacks,Leite Integral,49.82,13,Dinheiro,Manaus,BA,Supermercado,EMP-948,647.66
+TRX-85766,2019-11-25,CUST-4695,Snacks,Leite Integral,8.3,2,Dinheiro,São Paulo,PE,Hipermercado,EMP-207,16.6
+TRX-54801,2013-03-13,CUST-3636,Grãos,Coca-Cola,55.16,3,Dinheiro,Brasília,DF,Loja de Conveniência,EMP-821,165.48
+TRX-66534,2012-11-06,CUST-8113,Snacks,Coca-Cola,11.02,7,Cartão de Débito,Salvador,AM,Hipermercado,EMP-776,77.14
+TRX-48980,2016-04-04,CUST-1813,Laticínios,Filé de Frango,55.42,16,Cartão de Débito,São Paulo,PE,Supermercado,EMP-537,886.72
+TRX-48607,2013-11-21,CUST-8869,Snacks,Coca-Cola,3.55,6,Dinheiro,Rio de Janeiro,CE,Supermercado,EMP-415,21.299999999999997
+TRX-62096,2024-08-16,CUST-5341,Bebidas,Arroz Branco,54.87,6,Dinheiro,Salvador,PE,Minimercado,EMP-556,329.21999999999997
+TRX-44510,2012-08-15,CUST-5315,Snacks,Chocolate,27.59,2,Cartão de Débito,Rio de Janeiro,RJ,Hipermercado,EMP-927,55.18
+TRX-64262,2020-10-08,CUST-1999,Doces,Leite Integral,82.02,14,Boleto,Fortaleza,DF,Minimercado,EMP-587,1148.28
+TRX-20348,2016-07-28,CUST-1568,Carnes,Filé de Frango,90.15,19,Boleto,Belo Horizonte,RJ,Loja de Conveniência,EMP-277,1712.8500000000001
+TRX-37772,2014-04-05,CUST-1699,Laticínios,Coca-Cola,98.84,14,Cartão de Débito,Belo Horizonte,DF,Hipermercado,EMP-427,1383.76
+TRX-18783,2023-02-13,CUST-7510,Carnes,Queijo Mussarela,85.81,17,Pix,São Paulo,DF,Loja de Conveniência,EMP-215,1458.77
+TRX-29613,2018-03-19,CUST-2641,Bebidas,Filé de Frango,78.17,10,Boleto,Recife,BA,Hipermercado,EMP-492,781.7
+TRX-73646,2022-10-20,CUST-8750,Bebidas,Batata Chips,28.27,5,Boleto,Brasília,BA,Supermercado,EMP-505,141.35
+TRX-41139,2017-01-24,CUST-8785,Frios,Queijo Mussarela,3.0,10,Dinheiro,Porto Alegre,CE,Supermercado,EMP-989,30.0
+TRX-27614,2015-05-24,CUST-8259,Doces,Chocolate,32.77,14,Boleto,Rio de Janeiro,PR,Loja de Conveniência,EMP-316,458.78000000000003
+TRX-73499,2018-09-28,CUST-7126,Doces,Coca-Cola,52.01,6,Cartão de Crédito,Porto Alegre,AM,Loja de Conveniência,EMP-238,312.06
+TRX-78719,2024-10-01,CUST-3846,Snacks,Chocolate,20.87,2,Cartão de Débito,São Paulo,CE,Supermercado,EMP-469,41.74
+TRX-36097,2023-05-12,CUST-8605,Carnes,Leite Integral,63.91,4,Cartão de Crédito,Curitiba,PE,Loja de Conveniência,EMP-708,255.64
+TRX-33276,2019-08-19,CUST-6730,Frios,Batata Chips,83.93,9,Cartão de Crédito,Porto Alegre,SP,Loja de Conveniência,EMP-150,755.3700000000001
+TRX-85007,2014-04-28,CUST-4626,Grãos,Batata Chips,68.09,9,Pix,Manaus,SP,Supermercado,EMP-585,612.8100000000001
+TRX-94852,2014-03-20,CUST-1138,Snacks,Queijo Mussarela,61.23,10,Dinheiro,Salvador,BA,Hipermercado,EMP-570,612.3
+TRX-38601,2016-08-10,CUST-9530,Doces,Filé de Frango,40.32,4,Cartão de Crédito,Manaus,PE,Hipermercado,EMP-405,161.28
+TRX-24169,2022-08-03,CUST-6509,Frios,Arroz Branco,33.19,9,Dinheiro,Porto Alegre,PR,Minimercado,EMP-629,298.71
+TRX-41496,2024-01-26,CUST-7620,Grãos,Queijo Mussarela,68.39,1,Pix,Porto Alegre,RS,Loja de Conveniência,EMP-514,68.39
+TRX-14629,2018-10-23,CUST-4111,Frios,Arroz Branco,71.62,18,Pix,Recife,AM,Hipermercado,EMP-965,1289.16
+TRX-96194,2014-09-06,CUST-5813,Bebidas,Leite Integral,13.67,9,Boleto,Belo Horizonte,PE,Supermercado,EMP-327,123.03
+TRX-39272,2017-12-28,CUST-6031,Laticínios,Chocolate,88.8,12,Dinheiro,Brasília,RS,Loja de Conveniência,EMP-971,1065.6
+TRX-71674,2013-01-28,CUST-2166,Laticínios,Batata Chips,50.55,13,Boleto,Porto Alegre,BA,Supermercado,EMP-991,657.15
+TRX-28004,2014-04-11,CUST-7704,Carnes,Leite Integral,15.18,6,Cartão de Crédito,Fortaleza,PE,Minimercado,EMP-420,91.08
+TRX-17603,2022-01-15,CUST-5481,Snacks,Chocolate,77.58,19,Cartão de Débito,Fortaleza,RJ,Minimercado,EMP-729,1474.02
+TRX-93032,2018-07-13,CUST-8029,Laticínios,Leite Integral,1.46,18,Cartão de Débito,Recife,SP,Hipermercado,EMP-875,26.28
+TRX-34979,2020-01-22,CUST-1067,Grãos,Arroz Branco,25.63,12,Dinheiro,Belo Horizonte,RJ,Loja de Conveniência,EMP-615,307.56
+TRX-50123,2021-03-03,CUST-1749,Frios,Queijo Mussarela,46.14,17,Boleto,Manaus,PE,Loja de Conveniência,EMP-803,784.38
+TRX-54922,2014-08-12,CUST-4087,Snacks,Chocolate,40.94,8,Cartão de Débito,Belo Horizonte,PR,Supermercado,EMP-703,327.52
+TRX-32149,2020-02-12,CUST-1612,Laticínios,Arroz Branco,26.32,18,Boleto,São Paulo,DF,Supermercado,EMP-777,473.76
+TRX-95664,2013-01-02,CUST-2897,Laticínios,Leite Integral,38.65,18,Dinheiro,Fortaleza,MG,Minimercado,EMP-811,695.6999999999999
+TRX-92616,2022-01-10,CUST-7895,Grãos,Coca-Cola,66.59,9,Boleto,Brasília,MG,Loja de Conveniência,EMP-950,599.3100000000001
+TRX-77054,2013-12-20,CUST-2928,Frios,Coca-Cola,78.69,16,Cartão de Débito,Brasília,PR,Hipermercado,EMP-951,1259.04
+TRX-36433,2020-06-23,CUST-7713,Frios,Batata Chips,4.9,16,Cartão de Débito,Fortaleza,PE,Minimercado,EMP-102,78.4
+TRX-98032,2012-02-04,CUST-9095,Snacks,Coca-Cola,78.17,3,Cartão de Crédito,Porto Alegre,PR,Loja de Conveniência,EMP-403,234.51
+TRX-70853,2016-01-04,CUST-3862,Doces,Coca-Cola,85.37,12,Dinheiro,Salvador,RJ,Supermercado,EMP-971,1024.44
+TRX-16014,2024-01-28,CUST-3267,Grãos,Arroz Branco,17.88,12,Pix,Brasília,RS,Supermercado,EMP-481,214.56
+TRX-33969,2017-02-13,CUST-7557,Laticínios,Queijo Mussarela,83.74,16,Pix,Belo Horizonte,RJ,Minimercado,EMP-812,1339.84
+TRX-17686,2023-03-04,CUST-7816,Carnes,Leite Integral,80.42,15,Cartão de Débito,Brasília,BA,Hipermercado,EMP-726,1206.3
+TRX-99714,2012-12-05,CUST-8914,Laticínios,Coca-Cola,88.87,15,Cartão de Crédito,Rio de Janeiro,RS,Hipermercado,EMP-112,1333.0500000000002
+TRX-98857,2023-09-25,CUST-4669,Grãos,Chocolate,34.49,17,Boleto,Rio de Janeiro,BA,Minimercado,EMP-593,586.33
+TRX-96993,2017-11-21,CUST-7305,Snacks,Chocolate,82.82,20,Cartão de Crédito,São Paulo,MG,Loja de Conveniência,EMP-972,1656.3999999999999
+TRX-31679,2019-02-25,CUST-9055,Frios,Batata Chips,33.76,9,Cartão de Crédito,Manaus,PR,Loja de Conveniência,EMP-512,303.84
+TRX-20332,2015-08-15,CUST-8341,Bebidas,Chocolate,50.35,11,Cartão de Crédito,Fortaleza,SP,Supermercado,EMP-513,553.85
+TRX-14696,2018-09-18,CUST-1002,Doces,Coca-Cola,79.39,20,Dinheiro,Manaus,AM,Minimercado,EMP-770,1587.8
+TRX-69796,2022-06-12,CUST-1889,Doces,Batata Chips,84.59,11,Boleto,Brasília,DF,Loja de Conveniência,EMP-833,930.49
+TRX-57617,2022-12-15,CUST-2868,Bebidas,Chocolate,66.23,1,Dinheiro,Recife,RS,Hipermercado,EMP-818,66.23
+TRX-16000,2013-03-16,CUST-3301,Doces,Arroz Branco,74.51,14,Cartão de Crédito,Porto Alegre,DF,Minimercado,EMP-292,1043.14
+TRX-61497,2013-04-15,CUST-4122,Grãos,Queijo Mussarela,11.67,14,Cartão de Crédito,Brasília,RJ,Loja de Conveniência,EMP-568,163.38
+TRX-87242,2022-09-05,CUST-9172,Bebidas,Filé de Frango,73.89,18,Pix,Brasília,CE,Minimercado,EMP-808,1330.02
+TRX-32760,2021-12-27,CUST-3103,Bebidas,Leite Integral,66.09,20,Dinheiro,Manaus,BA,Loja de Conveniência,EMP-723,1321.8000000000002
+TRX-42537,2023-05-13,CUST-6617,Frios,Leite Integral,80.67,5,Pix,Brasília,AM,Hipermercado,EMP-963,403.35
+TRX-81802,2023-06-23,CUST-4560,Snacks,Batata Chips,62.79,10,Dinheiro,Belo Horizonte,MG,Hipermercado,EMP-827,627.9
+TRX-56168,2013-09-16,CUST-7839,Grãos,Arroz Branco,89.49,18,Dinheiro,Salvador,SP,Supermercado,EMP-125,1610.82
+TRX-29048,2018-01-22,CUST-1927,Snacks,Queijo Mussarela,75.27,6,Dinheiro,Porto Alegre,MG,Supermercado,EMP-807,451.62
+TRX-48684,2024-04-25,CUST-9866,Bebidas,Queijo Mussarela,81.59,4,Boleto,Manaus,PR,Loja de Conveniência,EMP-343,326.36
+TRX-47701,2020-12-22,CUST-1769,Laticínios,Leite Integral,42.24,11,Boleto,São Paulo,SP,Hipermercado,EMP-307,464.64000000000004
+TRX-68073,2021-04-21,CUST-7025,Doces,Filé de Frango,55.11,20,Cartão de Débito,Curitiba,RS,Loja de Conveniência,EMP-281,1102.2
+TRX-19760,2022-03-06,CUST-9418,Bebidas,Leite Integral,5.02,9,Boleto,Porto Alegre,MG,Minimercado,EMP-698,45.17999999999999
+TRX-10739,2016-06-15,CUST-3536,Bebidas,Batata Chips,92.93,20,Cartão de Crédito,Brasília,RS,Loja de Conveniência,EMP-908,1858.6000000000001
+TRX-82110,2021-06-03,CUST-6207,Carnes,Batata Chips,95.74,17,Cartão de Crédito,Manaus,MG,Loja de Conveniência,EMP-656,1627.58
+TRX-62876,2020-02-12,CUST-4624,Snacks,Arroz Branco,33.86,12,Dinheiro,Curitiba,DF,Loja de Conveniência,EMP-674,406.32
+TRX-95105,2024-01-04,CUST-6668,Laticínios,Batata Chips,90.55,20,Boleto,Curitiba,SP,Hipermercado,EMP-490,1811.0
+TRX-24860,2024-07-09,CUST-9851,Grãos,Queijo Mussarela,3.45,17,Dinheiro,Manaus,AM,Loja de Conveniência,EMP-598,58.650000000000006
+TRX-48854,2012-11-07,CUST-6248,Carnes,Coca-Cola,94.87,6,Boleto,Manaus,SP,Supermercado,EMP-315,569.22
+TRX-92511,2022-04-28,CUST-7950,Doces,Coca-Cola,21.35,14,Cartão de Crédito,Belo Horizonte,SP,Loja de Conveniência,EMP-834,298.90000000000003
+TRX-14965,2017-02-03,CUST-1889,Snacks,Chocolate,25.94,3,Boleto,Curitiba,RS,Loja de Conveniência,EMP-497,77.82000000000001
+TRX-92603,2019-07-14,CUST-6183,Bebidas,Leite Integral,67.66,18,Cartão de Crédito,Brasília,RJ,Supermercado,EMP-817,1217.8799999999999
+TRX-56884,2013-09-04,CUST-5748,Doces,Arroz Branco,30.83,3,Dinheiro,Fortaleza,BA,Loja de Conveniência,EMP-941,92.49
+TRX-14039,2022-08-06,CUST-9740,Snacks,Batata Chips,74.93,18,Dinheiro,Belo Horizonte,RS,Hipermercado,EMP-111,1348.7400000000002
+TRX-82754,2020-03-04,CUST-1684,Bebidas,Filé de Frango,60.07,18,Boleto,Rio de Janeiro,RS,Minimercado,EMP-866,1081.26
+TRX-55069,2023-04-14,CUST-9397,Snacks,Batata Chips,19.22,20,Dinheiro,Curitiba,RJ,Minimercado,EMP-787,384.4
+TRX-84356,2024-01-28,CUST-9992,Laticínios,Arroz Branco,55.42,10,Cartão de Crédito,Porto Alegre,RJ,Minimercado,EMP-843,554.2
+TRX-73857,2021-06-12,CUST-3100,Grãos,Arroz Branco,24.22,10,Boleto,Rio de Janeiro,PR,Hipermercado,EMP-597,242.2
+TRX-53036,2019-10-22,CUST-6008,Grãos,Filé de Frango,16.09,19,Dinheiro,Recife,BA,Minimercado,EMP-104,305.71
+TRX-42266,2017-04-23,CUST-8145,Frios,Chocolate,36.59,11,Pix,Fortaleza,CE,Hipermercado,EMP-893,402.49
+TRX-73828,2016-09-04,CUST-3879,Grãos,Filé de Frango,9.12,9,Cartão de Débito,Manaus,PR,Hipermercado,EMP-851,82.08
+TRX-20022,2022-12-03,CUST-1305,Doces,Filé de Frango,63.53,19,Boleto,Salvador,DF,Minimercado,EMP-137,1207.07
+TRX-44159,2020-09-18,CUST-8734,Grãos,Chocolate,15.71,13,Cartão de Débito,Brasília,RS,Minimercado,EMP-575,204.23000000000002
+TRX-76900,2020-02-13,CUST-6961,Carnes,Coca-Cola,66.61,20,Cartão de Débito,Manaus,MG,Loja de Conveniência,EMP-263,1332.2
+TRX-84233,2014-10-22,CUST-3395,Grãos,Arroz Branco,48.87,12,Cartão de Crédito,Curitiba,CE,Minimercado,EMP-164,586.4399999999999
+TRX-58422,2016-04-02,CUST-4387,Carnes,Chocolate,36.76,16,Pix,São Paulo,SP,Hipermercado,EMP-205,588.16
+TRX-78337,2023-11-27,CUST-5480,Doces,Arroz Branco,27.07,18,Boleto,Belo Horizonte,BA,Loja de Conveniência,EMP-474,487.26
+TRX-95634,2021-02-17,CUST-5121,Laticínios,Batata Chips,52.12,12,Dinheiro,Fortaleza,CE,Supermercado,EMP-613,625.4399999999999
+TRX-67658,2014-03-08,CUST-2263,Carnes,Arroz Branco,28.8,5,Cartão de Débito,Belo Horizonte,PE,Supermercado,EMP-776,144.0
+TRX-64344,2015-06-24,CUST-2856,Laticínios,Arroz Branco,48.4,7,Boleto,Belo Horizonte,BA,Supermercado,EMP-349,338.8
+TRX-26762,2012-10-19,CUST-3639,Snacks,Arroz Branco,51.75,19,Cartão de Débito,São Paulo,MG,Hipermercado,EMP-284,983.25
+TRX-63143,2020-10-19,CUST-1305,Grãos,Arroz Branco,66.51,10,Cartão de Crédito,Curitiba,CE,Loja de Conveniência,EMP-988,665.1
+TRX-32356,2019-04-27,CUST-7730,Carnes,Batata Chips,79.67,6,Boleto,Manaus,RS,Minimercado,EMP-841,478.02
+TRX-54914,2022-08-20,CUST-2127,Snacks,Leite Integral,39.16,4,Cartão de Crédito,Curitiba,AM,Loja de Conveniência,EMP-946,156.64
+TRX-89365,2014-02-06,CUST-8796,Carnes,Filé de Frango,4.86,18,Boleto,Rio de Janeiro,RJ,Loja de Conveniência,EMP-775,87.48
+TRX-89098,2014-09-27,CUST-1019,Doces,Arroz Branco,65.27,17,Pix,Recife,SP,Loja de Conveniência,EMP-334,1109.59
+TRX-73192,2024-07-12,CUST-2600,Laticínios,Batata Chips,26.2,8,Cartão de Crédito,Porto Alegre,DF,Loja de Conveniência,EMP-363,209.6
+TRX-10716,2015-12-24,CUST-1116,Carnes,Filé de Frango,12.67,1,Pix,Curitiba,PE,Loja de Conveniência,EMP-470,12.67
+TRX-30287,2013-07-21,CUST-5155,Frios,Chocolate,54.07,19,Dinheiro,Brasília,RS,Loja de Conveniência,EMP-873,1027.33
+TRX-64162,2015-09-26,CUST-8904,Snacks,Queijo Mussarela,56.35,16,Dinheiro,Porto Alegre,DF,Hipermercado,EMP-892,901.6
+TRX-62183,2023-12-05,CUST-2951,Grãos,Batata Chips,45.21,6,Cartão de Crédito,Curitiba,AM,Loja de Conveniência,EMP-904,271.26
+TRX-82165,2017-10-23,CUST-1852,Snacks,Leite Integral,96.49,1,Cartão de Crédito,Belo Horizonte,CE,Loja de Conveniência,EMP-190,96.49
+TRX-44483,2013-04-12,CUST-2311,Carnes,Coca-Cola,72.72,13,Boleto,Manaus,RS,Supermercado,EMP-892,945.36
+TRX-93924,2014-08-15,CUST-1175,Snacks,Chocolate,66.03,17,Dinheiro,Curitiba,SP,Minimercado,EMP-729,1122.51
+TRX-98345,2014-01-12,CUST-4919,Grãos,Coca-Cola,97.59,3,Dinheiro,Salvador,PE,Loja de Conveniência,EMP-515,292.77
+TRX-36255,2021-09-01,CUST-2124,Bebidas,Filé de Frango,29.16,18,Boleto,Recife,PE,Hipermercado,EMP-331,524.88
+TRX-35496,2021-08-13,CUST-1076,Frios,Batata Chips,41.31,4,Boleto,Rio de Janeiro,AM,Hipermercado,EMP-448,165.24
+TRX-77277,2013-05-18,CUST-5098,Grãos,Leite Integral,96.64,19,Pix,Curitiba,PE,Loja de Conveniência,EMP-797,1836.16
+TRX-86916,2019-01-16,CUST-2904,Frios,Coca-Cola,38.88,8,Cartão de Débito,Recife,BA,Hipermercado,EMP-628,311.04
+TRX-11274,2020-12-27,CUST-5314,Snacks,Queijo Mussarela,10.21,11,Cartão de Crédito,Manaus,MG,Loja de Conveniência,EMP-421,112.31
+TRX-38647,2017-10-09,CUST-3994,Grãos,Arroz Branco,93.1,7,Pix,Curitiba,PR,Minimercado,EMP-993,651.6999999999999
+TRX-37102,2016-04-07,CUST-5091,Doces,Filé de Frango,36.25,4,Cartão de Crédito,Rio de Janeiro,CE,Supermercado,EMP-882,145.0
+TRX-15539,2020-08-12,CUST-6167,Laticínios,Filé de Frango,87.01,16,Cartão de Débito,Manaus,RS,Loja de Conveniência,EMP-327,1392.16
+TRX-85584,2024-03-02,CUST-9613,Doces,Leite Integral,48.35,18,Cartão de Crédito,Manaus,PE,Loja de Conveniência,EMP-981,870.3000000000001
+TRX-32911,2022-08-04,CUST-9490,Laticínios,Queijo Mussarela,69.23,1,Cartão de Débito,Salvador,DF,Supermercado,EMP-433,69.23
+TRX-90318,2017-05-06,CUST-9987,Frios,Batata Chips,27.67,20,Dinheiro,Recife,MG,Loja de Conveniência,EMP-534,553.4000000000001
+TRX-64931,2015-12-25,CUST-7099,Frios,Chocolate,40.66,15,Cartão de Débito,Brasília,MG,Minimercado,EMP-933,609.9
+TRX-45382,2013-04-18,CUST-8081,Doces,Leite Integral,20.41,5,Pix,São Paulo,MG,Loja de Conveniência,EMP-611,102.05
+TRX-92660,2014-09-18,CUST-6172,Doces,Leite Integral,30.7,18,Boleto,São Paulo,BA,Supermercado,EMP-807,552.6
+TRX-17869,2014-04-27,CUST-5166,Laticínios,Chocolate,63.36,15,Dinheiro,Porto Alegre,PE,Hipermercado,EMP-673,950.4
+TRX-43779,2020-06-01,CUST-7746,Bebidas,Queijo Mussarela,86.87,20,Cartão de Débito,Brasília,DF,Minimercado,EMP-899,1737.4
+TRX-56544,2016-06-22,CUST-9363,Laticínios,Chocolate,73.92,3,Pix,Brasília,RS,Loja de Conveniência,EMP-746,221.76
+TRX-31964,2014-11-26,CUST-6527,Laticínios,Arroz Branco,61.62,13,Cartão de Crédito,Rio de Janeiro,MG,Hipermercado,EMP-333,801.06
+TRX-51533,2017-11-10,CUST-5382,Carnes,Arroz Branco,40.15,15,Dinheiro,Brasília,AM,Loja de Conveniência,EMP-523,602.25
+TRX-34102,2014-01-05,CUST-4844,Grãos,Queijo Mussarela,94.1,3,Cartão de Débito,Belo Horizonte,BA,Supermercado,EMP-197,282.29999999999995
+TRX-72021,2013-09-02,CUST-1431,Doces,Leite Integral,52.87,3,Cartão de Crédito,Porto Alegre,DF,Minimercado,EMP-186,158.60999999999999
+TRX-61097,2022-05-08,CUST-5053,Grãos,Queijo Mussarela,44.87,5,Cartão de Débito,Manaus,MG,Supermercado,EMP-135,224.35
+TRX-56771,2022-06-28,CUST-8801,Laticínios,Chocolate,54.52,9,Boleto,Fortaleza,MG,Minimercado,EMP-705,490.68
+TRX-69840,2021-11-24,CUST-8126,Carnes,Arroz Branco,64.31,10,Dinheiro,Fortaleza,AM,Minimercado,EMP-924,643.1
+TRX-67915,2013-05-12,CUST-7753,Frios,Batata Chips,31.05,1,Boleto,Belo Horizonte,PE,Hipermercado,EMP-580,31.05
+TRX-11090,2020-12-16,CUST-8816,Frios,Coca-Cola,76.82,10,Boleto,Curitiba,SP,Hipermercado,EMP-293,768.1999999999999
+TRX-83472,2018-07-13,CUST-5094,Snacks,Arroz Branco,73.97,13,Pix,Curitiba,RS,Supermercado,EMP-532,961.61
+TRX-41399,2022-09-25,CUST-5454,Frios,Arroz Branco,74.55,9,Pix,Curitiba,RJ,Minimercado,EMP-239,670.9499999999999
+TRX-24464,2016-11-15,CUST-8418,Frios,Arroz Branco,62.65,7,Dinheiro,São Paulo,MG,Supermercado,EMP-647,438.55
+TRX-34371,2012-02-10,CUST-5410,Snacks,Arroz Branco,44.4,1,Cartão de Débito,Rio de Janeiro,MG,Supermercado,EMP-605,44.4
+TRX-54815,2015-07-10,CUST-9165,Frios,Leite Integral,70.0,2,Dinheiro,Rio de Janeiro,MG,Supermercado,EMP-372,140.0
+TRX-61435,2024-02-18,CUST-8702,Snacks,Batata Chips,89.67,9,Pix,São Paulo,RJ,Minimercado,EMP-494,807.03
+TRX-68059,2024-04-24,CUST-1549,Snacks,Leite Integral,73.8,4,Boleto,Curitiba,CE,Loja de Conveniência,EMP-797,295.2
+TRX-52344,2016-03-21,CUST-1691,Grãos,Filé de Frango,52.57,9,Pix,Porto Alegre,PR,Hipermercado,EMP-153,473.13
+TRX-38545,2022-02-08,CUST-8113,Frios,Coca-Cola,17.57,9,Boleto,Rio de Janeiro,BA,Minimercado,EMP-109,158.13
+TRX-86162,2012-12-16,CUST-3539,Frios,Chocolate,9.86,6,Pix,Rio de Janeiro,DF,Hipermercado,EMP-877,59.16
+TRX-17871,2022-01-12,CUST-3521,Grãos,Filé de Frango,79.36,5,Pix,Curitiba,PE,Hipermercado,EMP-924,396.8
+TRX-35292,2019-01-23,CUST-7189,Frios,Arroz Branco,14.34,2,Pix,Fortaleza,AM,Hipermercado,EMP-655,28.68
+TRX-74237,2023-04-19,CUST-4057,Carnes,Queijo Mussarela,33.04,15,Dinheiro,Brasília,AM,Minimercado,EMP-170,495.59999999999997
+TRX-30319,2020-08-10,CUST-5314,Carnes,Queijo Mussarela,45.95,17,Pix,Belo Horizonte,SP,Hipermercado,EMP-894,781.1500000000001
+TRX-41298,2021-06-24,CUST-2037,Grãos,Filé de Frango,82.09,7,Boleto,Fortaleza,AM,Minimercado,EMP-727,574.63
+TRX-52283,2016-07-21,CUST-6276,Bebidas,Coca-Cola,52.8,3,Cartão de Crédito,Belo Horizonte,MG,Supermercado,EMP-306,158.39999999999998
+TRX-73618,2013-04-04,CUST-1521,Carnes,Arroz Branco,83.79,16,Boleto,Brasília,DF,Hipermercado,EMP-150,1340.64
+TRX-38930,2017-10-23,CUST-2161,Bebidas,Batata Chips,65.92,3,Pix,São Paulo,PE,Loja de Conveniência,EMP-941,197.76
+TRX-17641,2017-10-09,CUST-9667,Bebidas,Arroz Branco,7.97,10,Cartão de Crédito,Curitiba,AM,Supermercado,EMP-203,79.7
+TRX-40279,2023-09-13,CUST-4104,Snacks,Filé de Frango,66.03,19,Cartão de Débito,Manaus,AM,Loja de Conveniência,EMP-864,1254.57
+TRX-93705,2013-10-12,CUST-8515,Grãos,Arroz Branco,43.28,4,Cartão de Débito,Belo Horizonte,AM,Loja de Conveniência,EMP-616,173.12
+TRX-96184,2017-03-18,CUST-8258,Frios,Queijo Mussarela,55.46,11,Dinheiro,Salvador,BA,Hipermercado,EMP-723,610.0600000000001
+TRX-83812,2015-09-07,CUST-7145,Doces,Filé de Frango,92.69,9,Dinheiro,Fortaleza,CE,Loja de Conveniência,EMP-100,834.21
+TRX-14543,2023-05-20,CUST-1267,Carnes,Batata Chips,99.35,10,Cartão de Crédito,Porto Alegre,PR,Minimercado,EMP-976,993.5
+TRX-12844,2017-12-27,CUST-5521,Carnes,Filé de Frango,56.08,19,Cartão de Débito,Rio de Janeiro,SP,Loja de Conveniência,EMP-464,1065.52
+TRX-28141,2014-05-12,CUST-5093,Snacks,Queijo Mussarela,81.3,3,Boleto,Salvador,DF,Minimercado,EMP-851,243.89999999999998
+TRX-52558,2013-08-06,CUST-8999,Doces,Arroz Branco,70.58,4,Boleto,Porto Alegre,SP,Loja de Conveniência,EMP-180,282.32
+TRX-17329,2024-06-12,CUST-8115,Laticínios,Chocolate,12.93,8,Boleto,São Paulo,BA,Supermercado,EMP-412,103.44
+TRX-15397,2020-06-18,CUST-3450,Frios,Filé de Frango,70.08,5,Cartão de Crédito,Salvador,CE,Supermercado,EMP-327,350.4
+TRX-47982,2018-07-05,CUST-3165,Frios,Coca-Cola,48.11,2,Boleto,Salvador,RS,Supermercado,EMP-508,96.22
+TRX-66949,2020-12-05,CUST-3209,Laticínios,Filé de Frango,20.61,13,Boleto,Curitiba,AM,Minimercado,EMP-348,267.93
+TRX-44898,2013-07-11,CUST-2467,Bebidas,Arroz Branco,41.94,12,Dinheiro,Curitiba,PE,Hipermercado,EMP-708,503.28
+TRX-13172,2022-05-06,CUST-6729,Carnes,Chocolate,99.03,15,Boleto,Belo Horizonte,CE,Supermercado,EMP-937,1485.45
+TRX-36173,2015-11-12,CUST-3555,Doces,Arroz Branco,85.42,4,Cartão de Crédito,Curitiba,DF,Minimercado,EMP-989,341.68
+TRX-11800,2016-06-23,CUST-2823,Frios,Leite Integral,47.65,11,Cartão de Débito,Manaus,PR,Minimercado,EMP-659,524.15
+TRX-43902,2020-09-16,CUST-3315,Grãos,Arroz Branco,67.16,13,Boleto,Manaus,SP,Hipermercado,EMP-274,873.0799999999999
+TRX-47226,2012-04-26,CUST-5444,Bebidas,Leite Integral,65.82,1,Cartão de Crédito,Salvador,RS,Hipermercado,EMP-985,65.82
+TRX-12500,2013-05-28,CUST-7332,Snacks,Leite Integral,51.35,4,Dinheiro,Fortaleza,DF,Supermercado,EMP-290,205.4
+TRX-75621,2015-08-18,CUST-1352,Bebidas,Batata Chips,92.3,10,Dinheiro,Fortaleza,BA,Minimercado,EMP-118,923.0
+TRX-99694,2017-06-12,CUST-5953,Snacks,Filé de Frango,28.31,2,Dinheiro,Salvador,SP,Hipermercado,EMP-330,56.62
+TRX-54798,2014-07-22,CUST-3248,Bebidas,Arroz Branco,38.84,20,Cartão de Débito,Salvador,PR,Minimercado,EMP-536,776.8000000000001
+TRX-89346,2016-06-15,CUST-9883,Snacks,Batata Chips,65.59,19,Boleto,Curitiba,MG,Hipermercado,EMP-805,1246.21
+TRX-78656,2023-03-14,CUST-3378,Grãos,Filé de Frango,91.79,11,Cartão de Crédito,Manaus,AM,Supermercado,EMP-288,1009.69
+TRX-29073,2017-12-01,CUST-6221,Laticínios,Leite Integral,31.03,9,Cartão de Débito,Curitiba,RJ,Minimercado,EMP-289,279.27
+TRX-90213,2012-10-09,CUST-4783,Carnes,Batata Chips,23.86,1,Dinheiro,Rio de Janeiro,CE,Minimercado,EMP-614,23.86
+TRX-71441,2021-12-21,CUST-7126,Snacks,Chocolate,39.36,16,Cartão de Débito,Belo Horizonte,PR,Minimercado,EMP-133,629.76
+TRX-11967,2018-05-14,CUST-4646,Grãos,Arroz Branco,98.84,7,Cartão de Crédito,Belo Horizonte,CE,Loja de Conveniência,EMP-804,691.88
+TRX-69971,2017-04-14,CUST-7633,Doces,Coca-Cola,61.19,13,Dinheiro,Salvador,DF,Supermercado,EMP-633,795.47
+TRX-69193,2013-08-27,CUST-1694,Snacks,Filé de Frango,54.25,2,Boleto,Salvador,AM,Supermercado,EMP-294,108.5
+TRX-67613,2016-07-10,CUST-5684,Laticínios,Batata Chips,42.82,20,Cartão de Crédito,Manaus,MG,Loja de Conveniência,EMP-949,856.4
+TRX-69204,2022-02-24,CUST-9202,Bebidas,Batata Chips,78.09,18,Cartão de Débito,Salvador,BA,Hipermercado,EMP-561,1405.6200000000001
+TRX-33445,2012-08-19,CUST-4308,Laticínios,Coca-Cola,25.76,6,Cartão de Crédito,Rio de Janeiro,RJ,Loja de Conveniência,EMP-749,154.56
+TRX-21181,2017-09-23,CUST-7292,Grãos,Chocolate,97.54,20,Cartão de Débito,Salvador,AM,Loja de Conveniência,EMP-144,1950.8000000000002
+TRX-32398,2024-06-19,CUST-3459,Snacks,Chocolate,15.32,2,Pix,Porto Alegre,RS,Loja de Conveniência,EMP-395,30.64
+TRX-33684,2022-02-05,CUST-4323,Bebidas,Filé de Frango,76.77,1,Pix,Fortaleza,CE,Supermercado,EMP-722,76.77
+TRX-41179,2019-04-19,CUST-8794,Laticínios,Leite Integral,44.75,20,Boleto,São Paulo,PR,Hipermercado,EMP-734,895.0
+TRX-83079,2022-04-02,CUST-4028,Snacks,Coca-Cola,65.67,2,Cartão de Débito,São Paulo,DF,Hipermercado,EMP-439,131.34
+TRX-16426,2013-02-14,CUST-3920,Snacks,Arroz Branco,29.15,20,Boleto,Manaus,MG,Loja de Conveniência,EMP-867,583.0
+TRX-57210,2021-01-03,CUST-5903,Frios,Queijo Mussarela,89.86,3,Pix,Manaus,RJ,Hipermercado,EMP-582,269.58
+TRX-25993,2014-12-28,CUST-5496,Frios,Filé de Frango,41.96,7,Cartão de Débito,Brasília,SP,Supermercado,EMP-685,293.72
+TRX-92441,2023-09-03,CUST-8924,Grãos,Arroz Branco,60.87,10,Pix,Brasília,PE,Hipermercado,EMP-638,608.6999999999999
+TRX-91689,2021-06-05,CUST-9132,Carnes,Arroz Branco,63.55,16,Cartão de Débito,Brasília,PR,Hipermercado,EMP-298,1016.8
+TRX-25493,2012-01-15,CUST-2932,Grãos,Chocolate,21.53,20,Pix,Salvador,SP,Hipermercado,EMP-458,430.6
+TRX-93558,2020-04-01,CUST-4296,Grãos,Queijo Mussarela,26.19,3,Dinheiro,Porto Alegre,AM,Hipermercado,EMP-885,78.57000000000001
+TRX-24920,2012-11-11,CUST-6592,Laticínios,Arroz Branco,57.32,1,Cartão de Débito,Curitiba,PE,Hipermercado,EMP-788,57.32
+TRX-72193,2019-01-21,CUST-3224,Laticínios,Batata Chips,63.09,18,Dinheiro,Fortaleza,BA,Supermercado,EMP-955,1135.6200000000001
+TRX-49235,2020-10-24,CUST-6169,Carnes,Filé de Frango,2.85,19,Dinheiro,Recife,RJ,Minimercado,EMP-387,54.15
+TRX-54453,2012-07-21,CUST-9753,Doces,Batata Chips,57.53,13,Cartão de Débito,Brasília,RJ,Hipermercado,EMP-822,747.89
+TRX-14145,2017-05-14,CUST-2422,Laticínios,Batata Chips,37.79,10,Cartão de Débito,Manaus,RS,Minimercado,EMP-214,377.9
+TRX-14901,2017-04-03,CUST-8270,Carnes,Coca-Cola,80.1,17,Cartão de Débito,Curitiba,PE,Loja de Conveniência,EMP-850,1361.6999999999998
+TRX-50679,2020-06-05,CUST-2609,Doces,Filé de Frango,68.0,5,Cartão de Débito,São Paulo,CE,Loja de Conveniência,EMP-830,340.0
+TRX-25182,2020-01-10,CUST-1721,Grãos,Chocolate,59.83,3,Dinheiro,Fortaleza,SP,Supermercado,EMP-633,179.49
+TRX-96374,2024-12-10,CUST-1368,Carnes,Chocolate,31.9,7,Dinheiro,Curitiba,PR,Hipermercado,EMP-383,223.29999999999998
+TRX-51831,2020-08-22,CUST-2927,Frios,Batata Chips,16.59,4,Cartão de Crédito,Brasília,AM,Supermercado,EMP-311,66.36
+TRX-55916,2020-09-11,CUST-5440,Snacks,Arroz Branco,80.6,19,Cartão de Débito,Belo Horizonte,RJ,Hipermercado,EMP-727,1531.3999999999999
+TRX-80854,2017-08-02,CUST-3131,Bebidas,Leite Integral,90.43,2,Cartão de Crédito,Salvador,SP,Supermercado,EMP-536,180.86
+TRX-33459,2018-12-20,CUST-8304,Carnes,Queijo Mussarela,31.93,7,Boleto,Rio de Janeiro,CE,Minimercado,EMP-195,223.51
+TRX-71377,2024-02-15,CUST-6085,Grãos,Arroz Branco,71.31,15,Pix,Curitiba,PR,Minimercado,EMP-981,1069.65
+TRX-43823,2021-06-13,CUST-4004,Grãos,Arroz Branco,33.7,11,Pix,Fortaleza,SP,Supermercado,EMP-586,370.70000000000005
+TRX-56064,2013-08-15,CUST-3798,Frios,Chocolate,35.51,19,Cartão de Débito,Manaus,RJ,Loja de Conveniência,EMP-937,674.6899999999999
+TRX-24022,2023-06-18,CUST-2162,Doces,Queijo Mussarela,53.74,13,Boleto,Salvador,PR,Minimercado,EMP-661,698.62
+TRX-73225,2014-07-03,CUST-6582,Snacks,Chocolate,69.71,14,Pix,Brasília,PE,Minimercado,EMP-277,975.9399999999999
+TRX-97766,2022-02-24,CUST-8972,Bebidas,Filé de Frango,60.01,11,Boleto,Rio de Janeiro,CE,Minimercado,EMP-415,660.11
+TRX-19123,2018-10-04,CUST-7208,Frios,Leite Integral,64.85,2,Cartão de Crédito,Curitiba,MG,Supermercado,EMP-875,129.7
+TRX-96623,2014-03-15,CUST-9704,Frios,Leite Integral,61.94,15,Cartão de Débito,Curitiba,PE,Hipermercado,EMP-683,929.0999999999999
+TRX-99071,2024-05-14,CUST-6640,Bebidas,Filé de Frango,1.8,17,Pix,Belo Horizonte,RS,Supermercado,EMP-478,30.6
+TRX-16963,2020-01-23,CUST-6885,Bebidas,Chocolate,28.94,1,Cartão de Débito,Salvador,DF,Loja de Conveniência,EMP-740,28.94
+TRX-60173,2017-07-13,CUST-8130,Carnes,Batata Chips,66.59,16,Cartão de Débito,Curitiba,AM,Loja de Conveniência,EMP-963,1065.44
+TRX-64687,2017-03-10,CUST-3056,Snacks,Coca-Cola,8.1,1,Cartão de Débito,Fortaleza,BA,Minimercado,EMP-186,8.1
+TRX-94180,2014-07-28,CUST-8471,Doces,Arroz Branco,60.84,14,Boleto,Belo Horizonte,CE,Loja de Conveniência,EMP-665,851.76
+TRX-60425,2019-06-08,CUST-4044,Laticínios,Filé de Frango,1.74,16,Cartão de Débito,Manaus,RS,Loja de Conveniência,EMP-659,27.84
+TRX-58099,2021-01-02,CUST-8917,Grãos,Queijo Mussarela,12.2,16,Cartão de Crédito,Belo Horizonte,AM,Hipermercado,EMP-576,195.2
+TRX-20254,2020-09-20,CUST-2449,Snacks,Leite Integral,63.44,3,Boleto,Brasília,RS,Supermercado,EMP-451,190.32
+TRX-11413,2020-08-15,CUST-9399,Laticínios,Filé de Frango,73.65,14,Dinheiro,Porto Alegre,RS,Minimercado,EMP-136,1031.1000000000001
+TRX-88333,2023-12-10,CUST-5267,Bebidas,Arroz Branco,47.84,6,Boleto,São Paulo,RS,Supermercado,EMP-393,287.04
+TRX-20814,2019-03-17,CUST-2259,Doces,Chocolate,28.51,5,Boleto,Porto Alegre,RS,Hipermercado,EMP-114,142.55
+TRX-24621,2023-10-06,CUST-3476,Grãos,Leite Integral,37.61,6,Dinheiro,Curitiba,CE,Minimercado,EMP-918,225.66
+TRX-14337,2020-06-03,CUST-3376,Carnes,Chocolate,16.26,16,Pix,Salvador,PR,Loja de Conveniência,EMP-843,260.16
+TRX-31926,2022-04-19,CUST-6653,Bebidas,Arroz Branco,27.18,4,Cartão de Crédito,Belo Horizonte,CE,Loja de Conveniência,EMP-587,108.72
+TRX-72425,2016-12-25,CUST-9724,Snacks,Leite Integral,68.67,13,Pix,Porto Alegre,MG,Loja de Conveniência,EMP-112,892.71
+TRX-68827,2016-07-22,CUST-6172,Carnes,Arroz Branco,95.63,4,Boleto,Recife,BA,Hipermercado,EMP-443,382.52
+TRX-45007,2016-02-09,CUST-7408,Laticínios,Chocolate,67.85,8,Boleto,Curitiba,AM,Hipermercado,EMP-793,542.8
+TRX-33582,2023-06-18,CUST-1173,Grãos,Coca-Cola,83.34,1,Pix,Rio de Janeiro,AM,Supermercado,EMP-801,83.34
+TRX-56073,2019-04-24,CUST-5641,Frios,Batata Chips,4.37,20,Cartão de Crédito,São Paulo,DF,Minimercado,EMP-713,87.4
+TRX-25963,2022-12-04,CUST-2415,Doces,Filé de Frango,13.86,19,Cartão de Débito,Rio de Janeiro,MG,Hipermercado,EMP-401,263.34
+TRX-96570,2019-02-21,CUST-8429,Frios,Chocolate,43.27,11,Dinheiro,Belo Horizonte,RJ,Hipermercado,EMP-895,475.97
+TRX-60174,2012-07-11,CUST-1984,Frios,Chocolate,27.2,15,Cartão de Crédito,Fortaleza,PR,Loja de Conveniência,EMP-282,408.0
+TRX-74494,2022-02-05,CUST-9857,Doces,Leite Integral,22.62,4,Pix,Porto Alegre,RJ,Supermercado,EMP-174,90.48
+TRX-84887,2013-12-09,CUST-8305,Bebidas,Leite Integral,15.74,1,Cartão de Crédito,Salvador,RS,Minimercado,EMP-816,15.74
+TRX-61292,2017-10-01,CUST-9444,Grãos,Chocolate,49.58,14,Pix,Rio de Janeiro,AM,Minimercado,EMP-103,694.12
+TRX-73185,2018-02-19,CUST-9770,Frios,Queijo Mussarela,68.5,13,Cartão de Crédito,Rio de Janeiro,PE,Hipermercado,EMP-182,890.5
+TRX-48005,2019-11-07,CUST-3893,Carnes,Coca-Cola,96.78,7,Dinheiro,Salvador,RJ,Hipermercado,EMP-598,677.46
+TRX-92941,2013-08-24,CUST-4104,Snacks,Coca-Cola,20.12,19,Cartão de Débito,Fortaleza,BA,Supermercado,EMP-911,382.28000000000003
+TRX-94332,2020-05-16,CUST-9748,Doces,Chocolate,45.48,1,Cartão de Crédito,Recife,SP,Hipermercado,EMP-906,45.48
+TRX-15611,2023-07-04,CUST-4468,Doces,Arroz Branco,67.06,15,Boleto,Belo Horizonte,DF,Minimercado,EMP-173,1005.9000000000001
+TRX-28558,2012-08-21,CUST-1312,Laticínios,Filé de Frango,5.53,5,Cartão de Crédito,Belo Horizonte,SP,Hipermercado,EMP-940,27.650000000000002
+TRX-22752,2024-08-20,CUST-3796,Doces,Filé de Frango,7.33,4,Cartão de Crédito,Fortaleza,DF,Minimercado,EMP-164,29.32
+TRX-36560,2024-07-11,CUST-7586,Frios,Coca-Cola,97.61,19,Boleto,Belo Horizonte,PE,Minimercado,EMP-882,1854.59
+TRX-87736,2012-03-11,CUST-2035,Bebidas,Queijo Mussarela,14.98,14,Cartão de Débito,Recife,AM,Minimercado,EMP-549,209.72
+TRX-86282,2015-01-05,CUST-2637,Doces,Chocolate,63.59,13,Cartão de Débito,São Paulo,CE,Supermercado,EMP-106,826.6700000000001
+TRX-33516,2012-02-23,CUST-5648,Laticínios,Arroz Branco,80.93,16,Cartão de Débito,Curitiba,MG,Hipermercado,EMP-635,1294.88
+TRX-64005,2019-04-06,CUST-1616,Carnes,Batata Chips,72.0,20,Cartão de Crédito,Porto Alegre,PE,Loja de Conveniência,EMP-104,1440.0
+TRX-40885,2020-04-04,CUST-9686,Bebidas,Filé de Frango,36.83,18,Boleto,Curitiba,CE,Minimercado,EMP-383,662.9399999999999
+TRX-35391,2012-02-26,CUST-3444,Grãos,Chocolate,96.89,16,Pix,Belo Horizonte,MG,Supermercado,EMP-155,1550.24
+TRX-57735,2022-05-07,CUST-8121,Frios,Queijo Mussarela,62.07,15,Cartão de Crédito,Rio de Janeiro,SP,Minimercado,EMP-261,931.05
+TRX-13809,2024-08-17,CUST-2901,Bebidas,Batata Chips,72.42,19,Boleto,Recife,BA,Minimercado,EMP-865,1375.98
+TRX-52688,2022-04-25,CUST-2804,Frios,Batata Chips,10.71,14,Cartão de Débito,Salvador,PR,Supermercado,EMP-582,149.94
+TRX-73492,2021-01-14,CUST-3374,Snacks,Filé de Frango,46.04,13,Dinheiro,Belo Horizonte,CE,Minimercado,EMP-747,598.52
+TRX-45349,2017-04-11,CUST-3084,Bebidas,Arroz Branco,57.3,9,Cartão de Débito,Rio de Janeiro,CE,Loja de Conveniência,EMP-528,515.6999999999999
+TRX-55033,2014-04-10,CUST-3568,Doces,Chocolate,64.16,20,Cartão de Débito,Brasília,AM,Minimercado,EMP-188,1283.1999999999998
+TRX-78389,2018-08-28,CUST-4546,Carnes,Leite Integral,83.86,9,Cartão de Crédito,Salvador,PR,Minimercado,EMP-435,754.74
+TRX-85951,2018-04-19,CUST-3440,Carnes,Coca-Cola,42.36,2,Cartão de Crédito,Fortaleza,AM,Supermercado,EMP-535,84.72
+TRX-61684,2020-08-26,CUST-2605,Laticínios,Leite Integral,24.81,18,Cartão de Crédito,Salvador,PR,Minimercado,EMP-467,446.58
+TRX-41334,2016-11-03,CUST-1260,Laticínios,Arroz Branco,31.18,15,Boleto,Brasília,SP,Loja de Conveniência,EMP-574,467.7
+TRX-28169,2024-12-13,CUST-4030,Doces,Chocolate,37.67,15,Cartão de Crédito,Rio de Janeiro,BA,Hipermercado,EMP-643,565.0500000000001
+TRX-48874,2012-07-25,CUST-5420,Grãos,Filé de Frango,54.7,7,Cartão de Crédito,Brasília,PE,Supermercado,EMP-627,382.90000000000003
+TRX-57708,2022-01-04,CUST-7274,Frios,Leite Integral,62.29,12,Dinheiro,Belo Horizonte,AM,Supermercado,EMP-674,747.48
+TRX-36832,2023-03-11,CUST-4909,Carnes,Coca-Cola,65.25,19,Cartão de Débito,Curitiba,PE,Hipermercado,EMP-373,1239.75
+TRX-99158,2020-07-09,CUST-1892,Bebidas,Queijo Mussarela,35.18,16,Boleto,Manaus,RJ,Loja de Conveniência,EMP-826,562.88
+TRX-98907,2020-09-10,CUST-8405,Carnes,Queijo Mussarela,80.19,3,Cartão de Débito,Fortaleza,RJ,Supermercado,EMP-500,240.57
+TRX-47797,2014-02-04,CUST-3699,Frios,Coca-Cola,70.01,16,Cartão de Débito,Curitiba,AM,Supermercado,EMP-400,1120.16
+TRX-99443,2018-09-05,CUST-8764,Frios,Leite Integral,44.94,1,Dinheiro,Curitiba,RJ,Supermercado,EMP-992,44.94
+TRX-40451,2024-09-21,CUST-6503,Laticínios,Filé de Frango,34.94,11,Pix,Brasília,AM,Loja de Conveniência,EMP-568,384.34
+TRX-84350,2016-03-26,CUST-6021,Snacks,Chocolate,26.74,16,Dinheiro,Porto Alegre,SP,Minimercado,EMP-461,427.84
+TRX-69759,2016-03-20,CUST-3634,Grãos,Filé de Frango,29.24,6,Cartão de Débito,Belo Horizonte,PR,Supermercado,EMP-142,175.44
+TRX-85304,2017-03-15,CUST-5266,Frios,Batata Chips,21.31,2,Dinheiro,Recife,MG,Hipermercado,EMP-559,42.62
+TRX-31311,2020-09-10,CUST-2990,Bebidas,Leite Integral,93.18,5,Pix,Recife,MG,Supermercado,EMP-856,465.90000000000003
+TRX-76507,2020-06-21,CUST-5842,Laticínios,Queijo Mussarela,96.99,19,Cartão de Débito,Brasília,CE,Hipermercado,EMP-805,1842.81
+TRX-72781,2013-01-05,CUST-2914,Frios,Coca-Cola,40.76,8,Pix,Recife,RJ,Hipermercado,EMP-156,326.08
+TRX-94058,2021-04-19,CUST-9625,Snacks,Chocolate,93.63,9,Cartão de Débito,São Paulo,RJ,Loja de Conveniência,EMP-793,842.67
+TRX-21452,2022-09-13,CUST-4185,Laticínios,Queijo Mussarela,60.71,17,Cartão de Crédito,Recife,BA,Minimercado,EMP-833,1032.07
+TRX-58448,2018-07-12,CUST-1199,Frios,Queijo Mussarela,35.78,15,Boleto,Rio de Janeiro,PR,Loja de Conveniência,EMP-859,536.7
+TRX-67999,2018-05-06,CUST-7944,Grãos,Leite Integral,14.82,19,Boleto,Rio de Janeiro,MG,Minimercado,EMP-410,281.58
+TRX-78852,2019-06-03,CUST-7156,Bebidas,Coca-Cola,41.54,9,Pix,Belo Horizonte,AM,Loja de Conveniência,EMP-827,373.86
+TRX-27947,2021-04-06,CUST-7254,Frios,Filé de Frango,49.57,10,Boleto,Porto Alegre,CE,Loja de Conveniência,EMP-329,495.7
+TRX-10320,2012-03-09,CUST-5917,Grãos,Chocolate,64.02,4,Dinheiro,Salvador,MG,Loja de Conveniência,EMP-804,256.08
+TRX-42079,2022-01-04,CUST-5541,Laticínios,Coca-Cola,60.29,12,Boleto,Fortaleza,DF,Loja de Conveniência,EMP-989,723.48
+TRX-92312,2016-11-16,CUST-2959,Frios,Filé de Frango,73.56,1,Dinheiro,Belo Horizonte,DF,Supermercado,EMP-249,73.56
+TRX-70429,2017-12-05,CUST-6855,Snacks,Coca-Cola,27.99,14,Dinheiro,São Paulo,RS,Hipermercado,EMP-642,391.85999999999996
+TRX-20069,2022-09-07,CUST-4002,Doces,Coca-Cola,60.28,6,Boleto,Recife,PE,Hipermercado,EMP-377,361.68
+TRX-57516,2022-02-18,CUST-6761,Doces,Batata Chips,2.28,17,Dinheiro,Recife,CE,Loja de Conveniência,EMP-448,38.76
+TRX-23424,2014-04-05,CUST-9247,Snacks,Chocolate,19.65,18,Boleto,Manaus,AM,Supermercado,EMP-527,353.7
+TRX-20013,2019-02-27,CUST-3150,Bebidas,Leite Integral,35.47,12,Cartão de Débito,Fortaleza,DF,Hipermercado,EMP-276,425.64
+TRX-49935,2023-01-24,CUST-2943,Snacks,Batata Chips,85.82,5,Cartão de Débito,Porto Alegre,MG,Minimercado,EMP-233,429.09999999999997
+TRX-65680,2013-12-25,CUST-2830,Bebidas,Coca-Cola,77.69,14,Cartão de Crédito,Curitiba,RJ,Supermercado,EMP-912,1087.6599999999999
+TRX-77302,2022-10-02,CUST-8685,Bebidas,Queijo Mussarela,5.28,10,Cartão de Crédito,Rio de Janeiro,RJ,Minimercado,EMP-701,52.800000000000004
+TRX-34219,2015-11-12,CUST-1479,Bebidas,Batata Chips,84.74,9,Boleto,Recife,PE,Minimercado,EMP-975,762.66
+TRX-90341,2020-04-17,CUST-2119,Bebidas,Chocolate,58.24,1,Boleto,Curitiba,PR,Hipermercado,EMP-275,58.24
+TRX-80402,2024-01-24,CUST-2616,Snacks,Filé de Frango,85.28,16,Dinheiro,Brasília,MG,Loja de Conveniência,EMP-789,1364.48
+TRX-33704,2013-06-13,CUST-7948,Snacks,Filé de Frango,23.53,4,Dinheiro,Rio de Janeiro,CE,Supermercado,EMP-632,94.12
+TRX-74987,2014-06-23,CUST-5723,Carnes,Arroz Branco,5.02,11,Pix,Rio de Janeiro,BA,Hipermercado,EMP-567,55.22
+TRX-50895,2021-11-27,CUST-8273,Snacks,Filé de Frango,41.32,14,Cartão de Débito,Rio de Janeiro,CE,Hipermercado,EMP-283,578.48
+TRX-98363,2012-08-22,CUST-2723,Laticínios,Leite Integral,52.74,3,Cartão de Crédito,Belo Horizonte,BA,Loja de Conveniência,EMP-811,158.22
+TRX-23332,2021-12-06,CUST-2060,Frios,Batata Chips,34.52,20,Pix,Rio de Janeiro,PR,Loja de Conveniência,EMP-842,690.4000000000001
+TRX-46505,2019-12-25,CUST-5472,Doces,Chocolate,80.3,13,Dinheiro,Fortaleza,DF,Loja de Conveniência,EMP-596,1043.8999999999999
+TRX-46554,2020-03-25,CUST-8448,Bebidas,Coca-Cola,25.82,16,Cartão de Débito,Belo Horizonte,SP,Supermercado,EMP-855,413.12
+TRX-18942,2012-08-22,CUST-1438,Snacks,Leite Integral,60.85,11,Cartão de Débito,Porto Alegre,DF,Supermercado,EMP-878,669.35
+TRX-96649,2013-09-25,CUST-9064,Doces,Leite Integral,20.99,16,Pix,Manaus,RS,Hipermercado,EMP-928,335.84
+TRX-81646,2020-01-25,CUST-1517,Laticínios,Coca-Cola,38.98,11,Pix,Fortaleza,CE,Supermercado,EMP-133,428.78
+TRX-82963,2014-11-28,CUST-5965,Grãos,Batata Chips,49.66,5,Dinheiro,Salvador,CE,Supermercado,EMP-682,248.29999999999998
+TRX-74297,2022-11-18,CUST-9837,Carnes,Leite Integral,48.12,6,Boleto,São Paulo,BA,Hipermercado,EMP-606,288.71999999999997
+TRX-59518,2021-10-22,CUST-6779,Doces,Queijo Mussarela,32.73,1,Boleto,São Paulo,MG,Hipermercado,EMP-457,32.73
+TRX-86541,2024-01-25,CUST-6591,Laticínios,Coca-Cola,43.39,12,Pix,Recife,SP,Minimercado,EMP-353,520.6800000000001
+TRX-94945,2015-05-19,CUST-2391,Grãos,Coca-Cola,87.03,4,Dinheiro,Belo Horizonte,SP,Hipermercado,EMP-138,348.12
+TRX-96214,2019-07-19,CUST-9433,Laticínios,Queijo Mussarela,3.02,16,Boleto,São Paulo,PE,Loja de Conveniência,EMP-684,48.32
+TRX-52260,2018-10-04,CUST-9001,Bebidas,Arroz Branco,67.84,11,Pix,Manaus,PE,Minimercado,EMP-729,746.24
+TRX-57622,2016-07-07,CUST-9142,Grãos,Chocolate,97.44,3,Boleto,Curitiba,RS,Hipermercado,EMP-148,292.32
+TRX-85172,2016-07-26,CUST-4700,Carnes,Arroz Branco,95.84,19,Cartão de Crédito,Brasília,PE,Hipermercado,EMP-168,1820.96
+TRX-79607,2021-08-14,CUST-4436,Frios,Chocolate,8.59,10,Boleto,Porto Alegre,BA,Hipermercado,EMP-304,85.9
+TRX-62730,2018-05-20,CUST-9443,Laticínios,Arroz Branco,76.58,6,Cartão de Crédito,Manaus,MG,Loja de Conveniência,EMP-318,459.48
+TRX-71249,2022-05-21,CUST-9728,Doces,Filé de Frango,85.42,14,Boleto,São Paulo,AM,Minimercado,EMP-473,1195.88
+TRX-29365,2019-04-05,CUST-5919,Doces,Leite Integral,41.62,3,Cartão de Débito,Salvador,RS,Hipermercado,EMP-761,124.85999999999999
+TRX-43612,2014-11-20,CUST-4868,Laticínios,Batata Chips,12.24,7,Cartão de Crédito,Curitiba,RS,Loja de Conveniência,EMP-597,85.68
+TRX-67164,2020-07-21,CUST-1606,Snacks,Batata Chips,28.0,1,Dinheiro,Porto Alegre,AM,Minimercado,EMP-759,28.0
+TRX-73680,2012-01-02,CUST-2375,Frios,Filé de Frango,30.5,3,Pix,Recife,RJ,Loja de Conveniência,EMP-959,91.5
+TRX-28423,2023-04-04,CUST-9196,Bebidas,Filé de Frango,66.76,19,Boleto,Porto Alegre,CE,Supermercado,EMP-343,1268.44
+TRX-26027,2021-06-11,CUST-7388,Doces,Arroz Branco,74.65,14,Cartão de Débito,Belo Horizonte,RJ,Minimercado,EMP-319,1045.1000000000001
+TRX-67602,2016-07-09,CUST-1916,Laticínios,Filé de Frango,38.1,4,Dinheiro,Manaus,BA,Loja de Conveniência,EMP-799,152.4
+TRX-46403,2015-03-12,CUST-8786,Grãos,Queijo Mussarela,82.32,1,Boleto,São Paulo,SP,Minimercado,EMP-359,82.32
+TRX-60422,2020-05-21,CUST-6945,Doces,Arroz Branco,13.08,8,Pix,Salvador,SP,Loja de Conveniência,EMP-361,104.64
+TRX-21829,2016-04-10,CUST-4446,Doces,Batata Chips,91.67,11,Pix,São Paulo,RS,Supermercado,EMP-942,1008.37
+TRX-74447,2024-08-24,CUST-7765,Doces,Queijo Mussarela,72.02,4,Cartão de Débito,Porto Alegre,AM,Supermercado,EMP-460,288.08
+TRX-88920,2018-12-27,CUST-9973,Grãos,Queijo Mussarela,45.87,1,Cartão de Crédito,Belo Horizonte,CE,Minimercado,EMP-103,45.87
+TRX-36224,2018-11-10,CUST-6140,Carnes,Coca-Cola,11.97,8,Boleto,Belo Horizonte,DF,Loja de Conveniência,EMP-911,95.76
+TRX-69177,2017-08-28,CUST-3187,Frios,Batata Chips,69.06,11,Dinheiro,Curitiba,RJ,Loja de Conveniência,EMP-476,759.6600000000001
+TRX-61576,2014-07-27,CUST-4677,Bebidas,Coca-Cola,92.39,20,Cartão de Débito,Rio de Janeiro,CE,Minimercado,EMP-368,1847.8
+TRX-32119,2023-01-13,CUST-8027,Carnes,Queijo Mussarela,15.78,12,Cartão de Débito,Brasília,RJ,Supermercado,EMP-835,189.35999999999999
+TRX-67037,2020-08-27,CUST-9096,Bebidas,Batata Chips,71.64,7,Dinheiro,Porto Alegre,CE,Loja de Conveniência,EMP-233,501.48
+TRX-37080,2018-10-07,CUST-5636,Grãos,Arroz Branco,19.75,6,Pix,Belo Horizonte,SP,Hipermercado,EMP-368,118.5
+TRX-90960,2015-08-08,CUST-7056,Carnes,Arroz Branco,65.08,3,Cartão de Crédito,Fortaleza,MG,Hipermercado,EMP-809,195.24
+TRX-37815,2018-12-13,CUST-7935,Grãos,Filé de Frango,26.37,4,Boleto,São Paulo,SP,Hipermercado,EMP-340,105.48
+TRX-56439,2019-10-22,CUST-1745,Bebidas,Queijo Mussarela,50.95,13,Dinheiro,Salvador,PE,Minimercado,EMP-672,662.35
+TRX-86085,2012-03-09,CUST-3783,Carnes,Leite Integral,93.1,15,Cartão de Débito,Rio de Janeiro,PE,Loja de Conveniência,EMP-245,1396.5
+TRX-25314,2016-06-02,CUST-3095,Laticínios,Chocolate,97.36,9,Dinheiro,Salvador,RS,Hipermercado,EMP-727,876.24
+TRX-44571,2024-09-11,CUST-8139,Snacks,Queijo Mussarela,73.95,16,Cartão de Débito,Manaus,CE,Supermercado,EMP-293,1183.2
+TRX-17152,2014-04-06,CUST-1587,Laticínios,Queijo Mussarela,17.19,15,Pix,Rio de Janeiro,CE,Supermercado,EMP-552,257.85
+TRX-83512,2017-08-15,CUST-9077,Bebidas,Chocolate,72.26,5,Cartão de Crédito,Recife,RJ,Minimercado,EMP-989,361.3
+TRX-33678,2016-03-24,CUST-9335,Doces,Queijo Mussarela,56.76,19,Cartão de Débito,Brasília,SP,Minimercado,EMP-526,1078.44
+TRX-42264,2013-08-22,CUST-2545,Frios,Coca-Cola,29.14,4,Pix,Recife,DF,Supermercado,EMP-957,116.56
+TRX-30155,2017-01-03,CUST-8540,Doces,Arroz Branco,66.29,15,Dinheiro,Brasília,SP,Hipermercado,EMP-144,994.3500000000001
+TRX-91574,2022-08-11,CUST-3118,Snacks,Chocolate,5.82,10,Dinheiro,São Paulo,RJ,Loja de Conveniência,EMP-194,58.2
+TRX-43444,2018-03-08,CUST-7535,Bebidas,Coca-Cola,85.38,6,Pix,Salvador,RS,Minimercado,EMP-223,512.28
+TRX-74336,2016-07-24,CUST-6080,Grãos,Filé de Frango,14.0,4,Dinheiro,Manaus,PR,Loja de Conveniência,EMP-556,56.0
+TRX-72447,2018-05-19,CUST-7931,Bebidas,Chocolate,42.83,12,Boleto,Belo Horizonte,BA,Loja de Conveniência,EMP-195,513.96
+TRX-77284,2012-06-15,CUST-4673,Grãos,Arroz Branco,71.65,16,Boleto,Manaus,RJ,Hipermercado,EMP-579,1146.4
+TRX-20378,2018-08-10,CUST-3434,Snacks,Arroz Branco,90.39,8,Boleto,Salvador,RS,Supermercado,EMP-664,723.12
+TRX-15910,2013-09-04,CUST-9366,Laticínios,Leite Integral,10.35,19,Dinheiro,Recife,RS,Supermercado,EMP-887,196.65
+TRX-12132,2020-02-24,CUST-8583,Snacks,Chocolate,19.04,13,Cartão de Crédito,Rio de Janeiro,BA,Hipermercado,EMP-421,247.51999999999998
+TRX-69637,2021-11-15,CUST-5342,Frios,Chocolate,81.19,7,Cartão de Débito,Rio de Janeiro,DF,Hipermercado,EMP-992,568.3299999999999
+TRX-23936,2022-07-18,CUST-1293,Bebidas,Leite Integral,12.55,6,Pix,Fortaleza,BA,Loja de Conveniência,EMP-410,75.30000000000001
+TRX-90837,2021-06-23,CUST-7471,Doces,Queijo Mussarela,9.68,5,Cartão de Crédito,Curitiba,RJ,Supermercado,EMP-812,48.4
+TRX-13514,2015-04-16,CUST-3378,Grãos,Batata Chips,44.14,18,Cartão de Débito,Rio de Janeiro,RS,Loja de Conveniência,EMP-251,794.52
+TRX-65296,2019-01-04,CUST-3721,Snacks,Arroz Branco,70.56,16,Pix,São Paulo,CE,Minimercado,EMP-306,1128.96
+TRX-84636,2016-07-02,CUST-6469,Bebidas,Coca-Cola,63.41,14,Pix,Fortaleza,DF,Hipermercado,EMP-137,887.74
+TRX-62386,2019-08-17,CUST-8993,Snacks,Arroz Branco,7.01,1,Pix,Brasília,PE,Supermercado,EMP-374,7.01
+TRX-64675,2022-08-04,CUST-9106,Carnes,Arroz Branco,35.33,14,Cartão de Crédito,Belo Horizonte,RS,Minimercado,EMP-580,494.62
+TRX-67424,2017-04-17,CUST-4599,Carnes,Arroz Branco,34.58,20,Pix,Belo Horizonte,RS,Loja de Conveniência,EMP-526,691.5999999999999
+TRX-95524,2022-12-12,CUST-8738,Doces,Chocolate,17.04,7,Dinheiro,Rio de Janeiro,CE,Minimercado,EMP-277,119.28
+TRX-30488,2015-10-16,CUST-2653,Doces,Leite Integral,94.36,16,Dinheiro,Curitiba,PR,Supermercado,EMP-118,1509.76
+TRX-44184,2017-06-22,CUST-3598,Snacks,Chocolate,86.09,17,Cartão de Crédito,Rio de Janeiro,PE,Loja de Conveniência,EMP-216,1463.53
+TRX-39712,2021-02-18,CUST-4671,Laticínios,Queijo Mussarela,99.37,12,Cartão de Crédito,Manaus,RS,Minimercado,EMP-973,1192.44
+TRX-77552,2023-10-22,CUST-2706,Grãos,Coca-Cola,92.74,15,Pix,Rio de Janeiro,RJ,Supermercado,EMP-943,1391.1
+TRX-15501,2020-09-04,CUST-3736,Grãos,Coca-Cola,87.22,12,Cartão de Débito,Porto Alegre,CE,Loja de Conveniência,EMP-850,1046.6399999999999
+TRX-30223,2013-11-12,CUST-6482,Doces,Batata Chips,13.18,7,Pix,Salvador,SP,Minimercado,EMP-954,92.25999999999999
+TRX-72084,2024-06-10,CUST-9274,Snacks,Coca-Cola,27.34,14,Dinheiro,Curitiba,MG,Loja de Conveniência,EMP-906,382.76
+TRX-28087,2015-07-14,CUST-7706,Laticínios,Chocolate,52.1,12,Cartão de Crédito,Fortaleza,MG,Supermercado,EMP-834,625.2
+TRX-77809,2024-02-03,CUST-6542,Frios,Leite Integral,98.21,6,Pix,São Paulo,BA,Supermercado,EMP-776,589.26
+TRX-29785,2022-10-02,CUST-9516,Frios,Leite Integral,40.8,18,Dinheiro,Recife,PE,Supermercado,EMP-946,734.4
+TRX-79178,2016-10-05,CUST-7618,Laticínios,Arroz Branco,21.31,18,Boleto,Brasília,CE,Hipermercado,EMP-931,383.58
+TRX-95033,2024-07-25,CUST-4232,Frios,Coca-Cola,4.66,11,Pix,Belo Horizonte,AM,Hipermercado,EMP-318,51.260000000000005
+TRX-77065,2013-09-10,CUST-9541,Frios,Chocolate,63.93,1,Cartão de Crédito,Manaus,DF,Hipermercado,EMP-347,63.93
+TRX-49838,2024-12-14,CUST-9278,Bebidas,Arroz Branco,6.93,12,Dinheiro,Manaus,PE,Supermercado,EMP-148,83.16
+TRX-95322,2024-02-15,CUST-5881,Carnes,Arroz Branco,1.52,11,Cartão de Débito,Brasília,DF,Minimercado,EMP-458,16.72
+TRX-47294,2016-11-26,CUST-3293,Grãos,Leite Integral,52.45,8,Cartão de Crédito,Recife,AM,Minimercado,EMP-942,419.6
+TRX-57352,2024-08-04,CUST-3401,Grãos,Leite Integral,83.02,3,Cartão de Crédito,São Paulo,BA,Minimercado,EMP-587,249.06
+TRX-68479,2015-02-12,CUST-9622,Laticínios,Filé de Frango,56.34,13,Dinheiro,Brasília,CE,Loja de Conveniência,EMP-550,732.4200000000001
+TRX-74165,2023-12-14,CUST-3668,Snacks,Filé de Frango,13.59,15,Cartão de Débito,Manaus,AM,Supermercado,EMP-811,203.85
+TRX-69694,2015-08-02,CUST-3569,Carnes,Queijo Mussarela,92.25,4,Boleto,Salvador,RJ,Supermercado,EMP-478,369.0
+TRX-47957,2021-01-17,CUST-3511,Bebidas,Queijo Mussarela,31.19,12,Dinheiro,Porto Alegre,CE,Supermercado,EMP-910,374.28000000000003
+TRX-28630,2014-10-14,CUST-1797,Frios,Queijo Mussarela,22.34,16,Cartão de Crédito,Rio de Janeiro,AM,Hipermercado,EMP-169,357.44
+TRX-64732,2012-08-19,CUST-6074,Carnes,Leite Integral,90.13,13,Pix,Brasília,MG,Minimercado,EMP-616,1171.69
+TRX-70415,2022-08-22,CUST-8357,Snacks,Chocolate,73.06,3,Boleto,Brasília,BA,Loja de Conveniência,EMP-338,219.18
+TRX-54433,2018-09-02,CUST-8259,Grãos,Queijo Mussarela,64.95,6,Cartão de Crédito,Brasília,RS,Supermercado,EMP-759,389.70000000000005
+TRX-21161,2020-04-20,CUST-9877,Carnes,Chocolate,6.23,19,Boleto,Curitiba,CE,Supermercado,EMP-223,118.37
+TRX-79711,2022-03-01,CUST-5504,Doces,Batata Chips,25.28,19,Pix,Rio de Janeiro,AM,Hipermercado,EMP-511,480.32000000000005
+TRX-15896,2021-08-28,CUST-1381,Frios,Leite Integral,18.87,1,Boleto,Recife,BA,Hipermercado,EMP-193,18.87
+TRX-23019,2013-09-06,CUST-5675,Snacks,Batata Chips,26.3,3,Cartão de Débito,Porto Alegre,BA,Minimercado,EMP-160,78.9
+TRX-52636,2021-03-01,CUST-1958,Frios,Leite Integral,10.78,5,Pix,Recife,RS,Loja de Conveniência,EMP-947,53.9
+TRX-16799,2013-04-08,CUST-4874,Laticínios,Filé de Frango,75.49,13,Cartão de Crédito,Porto Alegre,SP,Hipermercado,EMP-575,981.3699999999999
+TRX-63356,2020-02-16,CUST-1473,Laticínios,Arroz Branco,24.14,1,Dinheiro,Manaus,DF,Supermercado,EMP-352,24.14
+TRX-82706,2024-11-26,CUST-3057,Frios,Filé de Frango,41.27,3,Boleto,Curitiba,MG,Hipermercado,EMP-653,123.81
+TRX-42133,2014-09-14,CUST-8401,Bebidas,Coca-Cola,81.45,20,Dinheiro,Belo Horizonte,SP,Supermercado,EMP-593,1629.0
+TRX-88363,2016-05-27,CUST-7228,Frios,Chocolate,63.59,19,Boleto,Porto Alegre,SP,Minimercado,EMP-856,1208.21
+TRX-83804,2020-02-10,CUST-2469,Laticínios,Arroz Branco,13.17,5,Boleto,Porto Alegre,BA,Minimercado,EMP-725,65.85
+TRX-51720,2020-11-11,CUST-5282,Doces,Arroz Branco,45.82,8,Dinheiro,Recife,PR,Loja de Conveniência,EMP-713,366.56
+TRX-12080,2017-12-05,CUST-1033,Carnes,Leite Integral,1.42,1,Cartão de Débito,Salvador,AM,Loja de Conveniência,EMP-880,1.42
+TRX-80533,2018-02-26,CUST-2270,Carnes,Coca-Cola,89.36,15,Cartão de Crédito,Recife,BA,Hipermercado,EMP-496,1340.4
+TRX-11105,2014-02-15,CUST-7069,Snacks,Leite Integral,1.93,1,Dinheiro,Recife,PR,Supermercado,EMP-935,1.93
+TRX-91951,2021-05-26,CUST-4623,Snacks,Leite Integral,96.76,2,Dinheiro,Fortaleza,DF,Minimercado,EMP-107,193.52
+TRX-93681,2015-07-04,CUST-5544,Carnes,Filé de Frango,49.91,18,Cartão de Débito,Brasília,DF,Minimercado,EMP-166,898.3799999999999
+TRX-26809,2021-12-03,CUST-3087,Frios,Filé de Frango,85.69,17,Dinheiro,Curitiba,SP,Hipermercado,EMP-797,1456.73
+TRX-69497,2020-01-14,CUST-1849,Doces,Queijo Mussarela,43.82,14,Dinheiro,Rio de Janeiro,AM,Loja de Conveniência,EMP-607,613.48
+TRX-77797,2017-01-24,CUST-4678,Bebidas,Queijo Mussarela,91.92,18,Pix,Recife,SP,Loja de Conveniência,EMP-299,1654.56
+TRX-20722,2017-10-26,CUST-1415,Grãos,Batata Chips,97.83,14,Cartão de Crédito,Curitiba,PR,Minimercado,EMP-437,1369.62
+TRX-18237,2016-11-21,CUST-2584,Bebidas,Leite Integral,43.76,1,Boleto,Recife,RS,Minimercado,EMP-210,43.76
+TRX-41242,2019-06-27,CUST-1891,Doces,Queijo Mussarela,52.45,8,Cartão de Crédito,Brasília,DF,Loja de Conveniência,EMP-882,419.6
+TRX-91965,2013-08-19,CUST-3045,Bebidas,Coca-Cola,91.75,13,Dinheiro,Rio de Janeiro,MG,Supermercado,EMP-921,1192.75
+TRX-17181,2019-05-20,CUST-8075,Bebidas,Coca-Cola,68.08,18,Cartão de Crédito,Porto Alegre,BA,Loja de Conveniência,EMP-198,1225.44
+TRX-63884,2021-04-28,CUST-1173,Laticínios,Leite Integral,46.96,14,Boleto,Brasília,RJ,Hipermercado,EMP-766,657.44
+TRX-13404,2022-08-17,CUST-6377,Carnes,Batata Chips,11.69,1,Boleto,Rio de Janeiro,DF,Minimercado,EMP-686,11.69
+TRX-93540,2014-09-09,CUST-6822,Laticínios,Leite Integral,72.74,15,Cartão de Débito,Curitiba,MG,Supermercado,EMP-161,1091.1
+TRX-50850,2014-10-14,CUST-9407,Grãos,Chocolate,36.42,19,Boleto,Belo Horizonte,MG,Loja de Conveniência,EMP-416,691.98
+TRX-54944,2021-05-12,CUST-1132,Carnes,Filé de Frango,66.11,5,Cartão de Crédito,Curitiba,AM,Supermercado,EMP-532,330.55
+TRX-35612,2017-04-21,CUST-4297,Doces,Coca-Cola,34.81,16,Pix,Brasília,PE,Hipermercado,EMP-730,556.96
+TRX-64879,2016-06-06,CUST-2717,Laticínios,Chocolate,91.14,16,Cartão de Débito,São Paulo,PR,Minimercado,EMP-577,1458.24
+TRX-37936,2021-04-16,CUST-6431,Doces,Arroz Branco,38.22,13,Cartão de Débito,São Paulo,PE,Supermercado,EMP-175,496.86
+TRX-13934,2017-09-04,CUST-3333,Frios,Leite Integral,20.25,19,Dinheiro,São Paulo,SP,Minimercado,EMP-302,384.75
+TRX-32825,2016-04-09,CUST-3855,Frios,Chocolate,55.9,6,Cartão de Débito,São Paulo,MG,Hipermercado,EMP-203,335.4
+TRX-98795,2012-03-13,CUST-2818,Frios,Batata Chips,31.2,8,Dinheiro,Recife,MG,Loja de Conveniência,EMP-999,249.6
+TRX-18569,2023-02-05,CUST-3142,Doces,Batata Chips,19.98,13,Dinheiro,Recife,DF,Loja de Conveniência,EMP-751,259.74
+TRX-16054,2015-10-19,CUST-4098,Doces,Filé de Frango,30.12,5,Dinheiro,Curitiba,SP,Hipermercado,EMP-993,150.6
+TRX-76619,2014-10-16,CUST-4428,Grãos,Coca-Cola,78.68,20,Cartão de Crédito,Belo Horizonte,AM,Loja de Conveniência,EMP-869,1573.6000000000001
+TRX-76736,2022-06-16,CUST-9501,Laticínios,Batata Chips,32.86,12,Boleto,Fortaleza,CE,Loja de Conveniência,EMP-374,394.32
+TRX-62552,2021-11-26,CUST-1599,Snacks,Batata Chips,89.59,15,Cartão de Débito,Salvador,PR,Hipermercado,EMP-535,1343.8500000000001
+TRX-84890,2018-03-27,CUST-7129,Frios,Filé de Frango,9.39,3,Dinheiro,Fortaleza,AM,Hipermercado,EMP-335,28.17
+TRX-15392,2021-08-17,CUST-6511,Laticínios,Leite Integral,47.29,14,Dinheiro,Fortaleza,PE,Hipermercado,EMP-491,662.06
+TRX-33536,2012-08-08,CUST-5351,Grãos,Coca-Cola,36.55,3,Dinheiro,Manaus,AM,Supermercado,EMP-904,109.64999999999999
+TRX-39850,2016-02-04,CUST-2168,Frios,Coca-Cola,55.06,11,Cartão de Débito,Recife,RS,Hipermercado,EMP-863,605.6600000000001
+TRX-99592,2024-05-07,CUST-3258,Doces,Chocolate,71.9,18,Dinheiro,São Paulo,RS,Hipermercado,EMP-942,1294.2
+TRX-62928,2017-07-27,CUST-1194,Laticínios,Arroz Branco,51.75,5,Pix,Curitiba,PR,Minimercado,EMP-585,258.75
+TRX-77610,2015-10-26,CUST-8679,Grãos,Chocolate,46.68,3,Dinheiro,Curitiba,BA,Loja de Conveniência,EMP-314,140.04
+TRX-68978,2019-09-01,CUST-7139,Snacks,Filé de Frango,87.5,10,Cartão de Crédito,Fortaleza,PE,Hipermercado,EMP-330,875.0
+TRX-65799,2018-11-25,CUST-7608,Doces,Chocolate,69.36,10,Dinheiro,Brasília,SP,Supermercado,EMP-242,693.6
+TRX-53286,2014-10-21,CUST-7404,Laticínios,Batata Chips,94.92,3,Boleto,Salvador,PR,Loja de Conveniência,EMP-211,284.76
+TRX-84647,2017-08-21,CUST-5991,Bebidas,Batata Chips,11.33,18,Cartão de Débito,São Paulo,DF,Loja de Conveniência,EMP-127,203.94
+TRX-36083,2014-02-13,CUST-5650,Snacks,Batata Chips,29.82,17,Cartão de Crédito,Fortaleza,SP,Hipermercado,EMP-630,506.94
+TRX-32521,2012-06-28,CUST-7731,Laticínios,Batata Chips,98.97,5,Boleto,Salvador,CE,Supermercado,EMP-498,494.85
+TRX-27030,2015-04-10,CUST-8081,Doces,Arroz Branco,66.81,6,Boleto,Brasília,RS,Minimercado,EMP-614,400.86
+TRX-99762,2023-08-09,CUST-4304,Bebidas,Batata Chips,45.13,13,Boleto,Curitiba,AM,Hipermercado,EMP-682,586.69
+TRX-70319,2019-08-19,CUST-1640,Grãos,Coca-Cola,29.5,15,Dinheiro,Porto Alegre,BA,Minimercado,EMP-525,442.5
+TRX-33537,2015-10-24,CUST-8079,Laticínios,Leite Integral,91.17,6,Boleto,Rio de Janeiro,BA,Supermercado,EMP-345,547.02
+TRX-45884,2014-11-18,CUST-5782,Grãos,Coca-Cola,70.11,7,Pix,Salvador,AM,Supermercado,EMP-477,490.77
+TRX-23791,2013-09-25,CUST-6341,Laticínios,Leite Integral,17.32,7,Boleto,São Paulo,CE,Supermercado,EMP-174,121.24000000000001
+TRX-98555,2022-12-15,CUST-7244,Frios,Arroz Branco,40.53,7,Pix,São Paulo,SP,Hipermercado,EMP-217,283.71000000000004
+TRX-27888,2023-06-22,CUST-8606,Laticínios,Leite Integral,7.76,18,Cartão de Débito,Fortaleza,MG,Loja de Conveniência,EMP-940,139.68
+TRX-31150,2016-03-27,CUST-1295,Carnes,Coca-Cola,18.55,4,Boleto,Salvador,MG,Supermercado,EMP-787,74.2
+TRX-11469,2024-11-09,CUST-3514,Laticínios,Queijo Mussarela,18.62,2,Boleto,Curitiba,CE,Supermercado,EMP-956,37.24
+TRX-78534,2022-11-22,CUST-2684,Laticínios,Arroz Branco,31.52,2,Boleto,São Paulo,SP,Loja de Conveniência,EMP-885,63.04
+TRX-42728,2015-06-08,CUST-4276,Bebidas,Coca-Cola,42.75,1,Dinheiro,Curitiba,RJ,Minimercado,EMP-198,42.75
+TRX-97046,2024-03-24,CUST-3736,Bebidas,Leite Integral,51.74,11,Dinheiro,Manaus,PR,Minimercado,EMP-654,569.14
+TRX-66083,2018-02-08,CUST-4502,Bebidas,Queijo Mussarela,33.01,1,Pix,Recife,SP,Loja de Conveniência,EMP-317,33.01
+TRX-38848,2019-02-22,CUST-5562,Grãos,Filé de Frango,37.53,3,Cartão de Débito,Salvador,RS,Loja de Conveniência,EMP-204,112.59
+TRX-80278,2023-10-06,CUST-5127,Bebidas,Filé de Frango,33.11,13,Cartão de Débito,Recife,MG,Hipermercado,EMP-971,430.43
+TRX-73193,2022-02-11,CUST-1289,Carnes,Filé de Frango,45.44,17,Cartão de Débito,Manaus,DF,Supermercado,EMP-338,772.48
+TRX-90786,2012-02-10,CUST-4873,Grãos,Leite Integral,75.97,20,Cartão de Crédito,São Paulo,MG,Hipermercado,EMP-610,1519.4
+TRX-36478,2016-03-13,CUST-4348,Grãos,Coca-Cola,24.57,20,Pix,Recife,MG,Hipermercado,EMP-425,491.4
+TRX-15191,2022-09-26,CUST-7797,Grãos,Chocolate,29.56,1,Cartão de Débito,Recife,PE,Minimercado,EMP-310,29.56
+TRX-17087,2020-11-08,CUST-4644,Carnes,Chocolate,38.77,11,Cartão de Débito,Fortaleza,SP,Supermercado,EMP-990,426.47
+TRX-19173,2019-04-02,CUST-3318,Snacks,Batata Chips,10.08,19,Boleto,Curitiba,PR,Supermercado,EMP-536,191.52
+TRX-71220,2023-05-06,CUST-4236,Snacks,Leite Integral,18.47,8,Dinheiro,Porto Alegre,DF,Loja de Conveniência,EMP-750,147.76
+TRX-45633,2015-08-03,CUST-6891,Laticínios,Leite Integral,17.61,15,Pix,Manaus,DF,Loja de Conveniência,EMP-878,264.15
+TRX-73176,2014-01-25,CUST-7249,Laticínios,Chocolate,9.24,10,Boleto,Manaus,MG,Minimercado,EMP-363,92.4
+TRX-70771,2018-05-15,CUST-5640,Laticínios,Filé de Frango,61.0,3,Dinheiro,Belo Horizonte,CE,Minimercado,EMP-258,183.0
+TRX-10547,2015-01-28,CUST-9203,Grãos,Arroz Branco,38.05,13,Pix,Salvador,PE,Loja de Conveniência,EMP-601,494.65
+TRX-94023,2016-10-03,CUST-7697,Bebidas,Coca-Cola,39.1,19,Cartão de Débito,Curitiba,BA,Hipermercado,EMP-889,742.9
+TRX-55688,2024-09-23,CUST-9005,Grãos,Arroz Branco,37.45,2,Pix,Salvador,PR,Minimercado,EMP-589,74.9
+TRX-57371,2012-11-23,CUST-1462,Grãos,Arroz Branco,64.89,9,Boleto,Fortaleza,MG,Hipermercado,EMP-353,584.01
+TRX-85804,2021-11-27,CUST-3644,Bebidas,Coca-Cola,77.33,13,Pix,Brasília,RJ,Minimercado,EMP-997,1005.29
+TRX-31734,2018-07-09,CUST-5951,Carnes,Filé de Frango,66.19,13,Boleto,Porto Alegre,BA,Supermercado,EMP-211,860.47
+TRX-85053,2022-06-27,CUST-3338,Frios,Arroz Branco,21.74,13,Dinheiro,São Paulo,MG,Loja de Conveniência,EMP-101,282.62
+TRX-19154,2013-12-14,CUST-9600,Laticínios,Arroz Branco,29.55,14,Cartão de Débito,Belo Horizonte,PE,Minimercado,EMP-820,413.7
+TRX-35954,2014-08-06,CUST-9234,Bebidas,Leite Integral,57.14,7,Cartão de Débito,Curitiba,SP,Minimercado,EMP-928,399.98
+TRX-35150,2024-05-28,CUST-7697,Laticínios,Arroz Branco,91.38,4,Cartão de Débito,Rio de Janeiro,RS,Supermercado,EMP-486,365.52
+TRX-46275,2013-02-11,CUST-1486,Carnes,Batata Chips,48.31,4,Cartão de Crédito,São Paulo,RS,Supermercado,EMP-781,193.24
+TRX-15486,2021-02-07,CUST-9557,Doces,Coca-Cola,38.19,17,Dinheiro,Fortaleza,CE,Hipermercado,EMP-718,649.23
+TRX-54112,2018-06-22,CUST-6620,Frios,Chocolate,24.72,12,Pix,Salvador,DF,Supermercado,EMP-464,296.64
+TRX-23130,2017-01-15,CUST-7583,Grãos,Chocolate,88.91,5,Cartão de Crédito,Brasília,RJ,Hipermercado,EMP-816,444.54999999999995
+TRX-42576,2024-06-15,CUST-8785,Carnes,Leite Integral,66.36,1,Dinheiro,São Paulo,PE,Supermercado,EMP-926,66.36
+TRX-52667,2023-11-15,CUST-4826,Carnes,Leite Integral,40.62,20,Cartão de Crédito,Recife,BA,Loja de Conveniência,EMP-774,812.4
+TRX-23166,2023-12-13,CUST-5814,Carnes,Batata Chips,71.48,17,Boleto,Manaus,SP,Minimercado,EMP-609,1215.16
+TRX-21415,2024-05-27,CUST-9990,Doces,Leite Integral,17.64,15,Cartão de Crédito,Fortaleza,AM,Minimercado,EMP-349,264.6
+TRX-32338,2015-11-23,CUST-2465,Bebidas,Leite Integral,99.34,1,Cartão de Débito,Recife,BA,Hipermercado,EMP-325,99.34
+TRX-43767,2023-11-16,CUST-3016,Grãos,Batata Chips,92.35,16,Cartão de Crédito,Recife,PR,Supermercado,EMP-759,1477.6
+TRX-59415,2017-12-24,CUST-7252,Grãos,Arroz Branco,78.72,14,Cartão de Débito,Curitiba,RS,Supermercado,EMP-397,1102.08
+TRX-24599,2013-02-11,CUST-4082,Grãos,Coca-Cola,57.71,5,Dinheiro,Salvador,DF,Supermercado,EMP-418,288.55
+TRX-87340,2012-09-07,CUST-7359,Laticínios,Queijo Mussarela,77.36,5,Boleto,Brasília,DF,Minimercado,EMP-209,386.8
+TRX-11204,2018-09-28,CUST-8546,Frios,Batata Chips,81.8,10,Cartão de Débito,Fortaleza,CE,Minimercado,EMP-715,818.0
+TRX-29119,2016-12-22,CUST-1562,Carnes,Queijo Mussarela,31.58,4,Dinheiro,Brasília,CE,Minimercado,EMP-606,126.32
+TRX-59375,2016-01-26,CUST-6458,Snacks,Chocolate,71.96,8,Cartão de Crédito,Belo Horizonte,CE,Loja de Conveniência,EMP-406,575.68
+TRX-30865,2022-01-18,CUST-7427,Frios,Leite Integral,68.11,12,Pix,Salvador,RJ,Hipermercado,EMP-389,817.3199999999999
+TRX-35571,2023-12-28,CUST-9978,Laticínios,Coca-Cola,13.96,19,Cartão de Crédito,Porto Alegre,CE,Minimercado,EMP-691,265.24
+TRX-67918,2014-12-16,CUST-5769,Snacks,Batata Chips,22.6,7,Cartão de Crédito,Recife,DF,Supermercado,EMP-794,158.20000000000002
+TRX-29346,2024-07-14,CUST-3756,Bebidas,Coca-Cola,36.2,16,Cartão de Débito,São Paulo,RJ,Hipermercado,EMP-707,579.2
+TRX-29473,2018-11-24,CUST-7619,Snacks,Coca-Cola,12.76,13,Pix,Porto Alegre,DF,Minimercado,EMP-768,165.88
+TRX-59200,2023-12-26,CUST-2468,Doces,Leite Integral,86.62,13,Dinheiro,Fortaleza,PE,Supermercado,EMP-222,1126.06
+TRX-20831,2013-02-16,CUST-9351,Snacks,Coca-Cola,59.1,19,Pix,Porto Alegre,RJ,Minimercado,EMP-493,1122.9
+TRX-94488,2019-12-14,CUST-5888,Carnes,Batata Chips,10.84,3,Boleto,Belo Horizonte,BA,Supermercado,EMP-503,32.519999999999996
+TRX-80309,2020-09-16,CUST-2047,Carnes,Chocolate,58.89,4,Cartão de Débito,Rio de Janeiro,MG,Minimercado,EMP-105,235.56
+TRX-68619,2020-06-04,CUST-1641,Snacks,Filé de Frango,21.42,6,Cartão de Crédito,Manaus,RS,Supermercado,EMP-186,128.52
+TRX-76341,2013-05-12,CUST-9919,Snacks,Leite Integral,97.73,1,Cartão de Débito,Porto Alegre,SP,Hipermercado,EMP-774,97.73
+TRX-68316,2020-03-19,CUST-9035,Grãos,Queijo Mussarela,52.74,12,Boleto,Manaus,AM,Minimercado,EMP-804,632.88
+TRX-96850,2013-01-08,CUST-1601,Snacks,Batata Chips,30.67,7,Cartão de Débito,Brasília,AM,Minimercado,EMP-705,214.69
+TRX-46358,2017-03-24,CUST-7914,Bebidas,Filé de Frango,26.24,13,Cartão de Débito,Salvador,CE,Supermercado,EMP-360,341.12
+TRX-65750,2022-12-05,CUST-9780,Snacks,Coca-Cola,63.33,9,Cartão de Débito,Recife,DF,Minimercado,EMP-529,569.97
+TRX-51465,2014-07-13,CUST-1424,Carnes,Batata Chips,8.67,4,Boleto,Rio de Janeiro,AM,Loja de Conveniência,EMP-167,34.68
+TRX-93909,2017-02-12,CUST-6464,Doces,Queijo Mussarela,15.49,8,Dinheiro,São Paulo,RJ,Loja de Conveniência,EMP-327,123.92
+TRX-23762,2018-02-06,CUST-9625,Grãos,Queijo Mussarela,59.29,16,Cartão de Crédito,Manaus,PE,Hipermercado,EMP-664,948.64
+TRX-89621,2016-02-02,CUST-3797,Frios,Chocolate,39.57,12,Boleto,Manaus,DF,Loja de Conveniência,EMP-588,474.84000000000003
+TRX-26721,2021-05-01,CUST-9414,Grãos,Batata Chips,66.1,5,Pix,Brasília,RS,Supermercado,EMP-842,330.5
+TRX-58516,2022-12-25,CUST-5081,Grãos,Filé de Frango,42.41,15,Cartão de Débito,Fortaleza,PE,Loja de Conveniência,EMP-614,636.15
+TRX-46152,2016-07-17,CUST-4748,Frios,Arroz Branco,85.93,10,Pix,Recife,RJ,Supermercado,EMP-178,859.3000000000001
+TRX-41462,2023-02-06,CUST-1940,Bebidas,Arroz Branco,29.3,16,Cartão de Crédito,Salvador,AM,Minimercado,EMP-591,468.8
+TRX-77503,2019-11-22,CUST-9722,Grãos,Coca-Cola,41.14,20,Cartão de Débito,São Paulo,BA,Hipermercado,EMP-350,822.8
+TRX-96661,2023-09-22,CUST-1693,Carnes,Leite Integral,96.5,17,Cartão de Débito,Belo Horizonte,RJ,Hipermercado,EMP-959,1640.5
+TRX-77329,2014-06-02,CUST-7925,Laticínios,Leite Integral,17.88,4,Dinheiro,Curitiba,AM,Supermercado,EMP-397,71.52
+TRX-73324,2016-05-09,CUST-4490,Bebidas,Arroz Branco,63.49,13,Cartão de Débito,Porto Alegre,AM,Supermercado,EMP-574,825.37
+TRX-73998,2021-01-12,CUST-1096,Carnes,Leite Integral,33.53,12,Cartão de Crédito,São Paulo,PE,Minimercado,EMP-511,402.36
+TRX-11161,2017-02-14,CUST-9061,Snacks,Coca-Cola,53.38,5,Pix,Rio de Janeiro,CE,Supermercado,EMP-259,266.90000000000003
+TRX-96066,2024-05-08,CUST-8711,Laticínios,Queijo Mussarela,30.63,14,Cartão de Débito,Manaus,RS,Supermercado,EMP-549,428.82
+TRX-67587,2022-03-05,CUST-6795,Grãos,Leite Integral,1.58,7,Cartão de Crédito,Curitiba,RS,Supermercado,EMP-236,11.06
+TRX-65188,2018-12-11,CUST-1517,Snacks,Arroz Branco,20.7,16,Dinheiro,Rio de Janeiro,BA,Loja de Conveniência,EMP-663,331.2
+TRX-99356,2019-12-05,CUST-6322,Doces,Chocolate,78.25,13,Boleto,Salvador,MG,Supermercado,EMP-210,1017.25
+TRX-12772,2024-03-05,CUST-6638,Carnes,Coca-Cola,76.97,8,Cartão de Crédito,Recife,BA,Supermercado,EMP-544,615.76
+TRX-47940,2019-05-16,CUST-2353,Doces,Leite Integral,25.53,5,Boleto,Belo Horizonte,PR,Hipermercado,EMP-885,127.65
+TRX-44541,2013-12-08,CUST-8031,Snacks,Leite Integral,70.94,4,Boleto,Brasília,MG,Minimercado,EMP-975,283.76
+TRX-92432,2021-11-05,CUST-4758,Bebidas,Batata Chips,40.73,9,Cartão de Débito,Belo Horizonte,BA,Supermercado,EMP-731,366.57
+TRX-21919,2015-01-13,CUST-7673,Carnes,Queijo Mussarela,70.32,8,Cartão de Débito,Recife,BA,Loja de Conveniência,EMP-162,562.56
+TRX-65977,2020-11-02,CUST-5985,Bebidas,Queijo Mussarela,36.99,12,Pix,Curitiba,PE,Supermercado,EMP-286,443.88
+TRX-10070,2012-01-22,CUST-6269,Snacks,Queijo Mussarela,47.73,20,Cartão de Crédito,Salvador,MG,Hipermercado,EMP-603,954.5999999999999
+TRX-53815,2017-05-04,CUST-2587,Grãos,Coca-Cola,68.61,5,Dinheiro,Recife,PE,Hipermercado,EMP-343,343.05
+TRX-46168,2022-04-19,CUST-7292,Bebidas,Coca-Cola,13.92,20,Cartão de Crédito,São Paulo,DF,Minimercado,EMP-297,278.4
+TRX-68427,2023-02-03,CUST-9955,Carnes,Queijo Mussarela,30.85,16,Cartão de Débito,Manaus,MG,Supermercado,EMP-230,493.6
+TRX-64815,2015-09-23,CUST-5137,Doces,Chocolate,84.76,18,Dinheiro,Recife,CE,Supermercado,EMP-546,1525.68
+TRX-73284,2013-07-17,CUST-9255,Doces,Coca-Cola,17.53,9,Cartão de Débito,Porto Alegre,SP,Supermercado,EMP-913,157.77
+TRX-34928,2023-12-27,CUST-7512,Laticínios,Arroz Branco,53.71,17,Cartão de Crédito,Belo Horizonte,CE,Loja de Conveniência,EMP-675,913.07
+TRX-61150,2024-07-20,CUST-5448,Snacks,Batata Chips,1.36,19,Cartão de Débito,Brasília,SP,Loja de Conveniência,EMP-615,25.840000000000003
+TRX-78822,2023-05-10,CUST-4609,Frios,Arroz Branco,27.58,4,Cartão de Débito,Curitiba,SP,Minimercado,EMP-398,110.32
+TRX-93835,2012-03-09,CUST-3178,Frios,Chocolate,79.27,8,Cartão de Débito,Manaus,RJ,Supermercado,EMP-764,634.16
+TRX-92927,2017-10-12,CUST-6317,Bebidas,Arroz Branco,88.51,9,Cartão de Débito,Salvador,DF,Hipermercado,EMP-432,796.59
+TRX-92045,2012-01-27,CUST-6824,Snacks,Arroz Branco,96.56,6,Dinheiro,São Paulo,AM,Supermercado,EMP-839,579.36
+TRX-60067,2023-11-09,CUST-4377,Doces,Leite Integral,22.84,9,Cartão de Débito,Brasília,BA,Minimercado,EMP-556,205.56
+TRX-66872,2015-06-05,CUST-8848,Bebidas,Leite Integral,18.97,6,Cartão de Débito,Curitiba,DF,Loja de Conveniência,EMP-846,113.82
+TRX-94877,2014-05-01,CUST-6081,Snacks,Batata Chips,81.93,20,Cartão de Débito,Rio de Janeiro,MG,Supermercado,EMP-536,1638.6000000000001
+TRX-69640,2015-11-13,CUST-2642,Grãos,Filé de Frango,14.59,1,Boleto,Rio de Janeiro,BA,Loja de Conveniência,EMP-121,14.59
+TRX-11776,2013-11-02,CUST-3165,Snacks,Chocolate,9.28,5,Boleto,São Paulo,SP,Supermercado,EMP-655,46.4
+TRX-54353,2023-12-03,CUST-4314,Snacks,Leite Integral,76.21,15,Cartão de Débito,Porto Alegre,PE,Loja de Conveniência,EMP-258,1143.1499999999999
+TRX-17323,2015-09-23,CUST-5382,Grãos,Filé de Frango,13.18,2,Cartão de Crédito,Manaus,RS,Supermercado,EMP-623,26.36
+TRX-28590,2018-01-08,CUST-1393,Snacks,Leite Integral,39.15,12,Dinheiro,Curitiba,BA,Supermercado,EMP-603,469.79999999999995
+TRX-24435,2014-04-04,CUST-5617,Frios,Coca-Cola,61.95,4,Dinheiro,Rio de Janeiro,SP,Minimercado,EMP-282,247.8
+TRX-79531,2018-06-20,CUST-3971,Grãos,Leite Integral,15.87,10,Boleto,Porto Alegre,PE,Supermercado,EMP-377,158.7
+TRX-96734,2019-06-09,CUST-2251,Doces,Coca-Cola,86.31,5,Cartão de Débito,Recife,MG,Loja de Conveniência,EMP-557,431.55
+TRX-72709,2023-02-04,CUST-8003,Grãos,Queijo Mussarela,15.32,11,Cartão de Débito,Belo Horizonte,BA,Hipermercado,EMP-426,168.52
+TRX-65552,2019-08-23,CUST-7782,Carnes,Chocolate,64.02,5,Cartão de Débito,Salvador,BA,Loja de Conveniência,EMP-651,320.09999999999997
+TRX-74566,2020-09-18,CUST-4770,Laticínios,Coca-Cola,58.52,14,Boleto,Brasília,PR,Supermercado,EMP-340,819.2800000000001
+TRX-10375,2017-04-28,CUST-1281,Frios,Filé de Frango,47.92,5,Cartão de Crédito,São Paulo,PE,Hipermercado,EMP-969,239.60000000000002
+TRX-28264,2024-05-15,CUST-3361,Doces,Chocolate,55.6,14,Cartão de Débito,Curitiba,PR,Supermercado,EMP-864,778.4
+TRX-25366,2014-12-23,CUST-3344,Laticínios,Arroz Branco,3.61,14,Dinheiro,São Paulo,RJ,Supermercado,EMP-588,50.54
+TRX-30732,2021-01-05,CUST-6984,Snacks,Coca-Cola,25.26,1,Boleto,Salvador,MG,Minimercado,EMP-581,25.26
+TRX-28364,2023-12-17,CUST-5907,Laticínios,Leite Integral,72.53,15,Cartão de Crédito,Porto Alegre,RJ,Minimercado,EMP-161,1087.95
+TRX-14209,2022-10-25,CUST-3843,Carnes,Batata Chips,2.08,14,Pix,Manaus,RS,Hipermercado,EMP-826,29.12
+TRX-65531,2015-03-09,CUST-2506,Carnes,Leite Integral,97.81,5,Cartão de Débito,Salvador,DF,Supermercado,EMP-324,489.05
+TRX-34077,2018-12-18,CUST-2264,Doces,Arroz Branco,47.38,11,Pix,Salvador,MG,Supermercado,EMP-922,521.1800000000001
+TRX-94757,2017-07-07,CUST-5422,Bebidas,Coca-Cola,8.7,20,Dinheiro,São Paulo,PR,Hipermercado,EMP-266,174.0
+TRX-23954,2020-02-07,CUST-1179,Doces,Queijo Mussarela,19.59,7,Cartão de Crédito,Curitiba,RS,Supermercado,EMP-683,137.13
+TRX-15881,2021-10-26,CUST-8926,Bebidas,Coca-Cola,32.14,10,Cartão de Crédito,Recife,RS,Loja de Conveniência,EMP-612,321.4
+TRX-51218,2015-07-24,CUST-6830,Snacks,Arroz Branco,67.79,11,Pix,Manaus,RJ,Minimercado,EMP-124,745.69
+TRX-60084,2021-08-19,CUST-1612,Frios,Batata Chips,16.0,15,Cartão de Crédito,Rio de Janeiro,PR,Minimercado,EMP-926,240.0
+TRX-95749,2022-03-25,CUST-3638,Carnes,Filé de Frango,99.24,20,Boleto,Recife,CE,Minimercado,EMP-447,1984.8
+TRX-57227,2016-10-28,CUST-8059,Bebidas,Arroz Branco,77.64,13,Cartão de Débito,Curitiba,DF,Supermercado,EMP-256,1009.32
+TRX-92285,2021-08-04,CUST-1244,Snacks,Chocolate,87.18,18,Cartão de Crédito,Fortaleza,RJ,Loja de Conveniência,EMP-421,1569.2400000000002
+TRX-48745,2014-03-03,CUST-5589,Carnes,Queijo Mussarela,35.98,3,Cartão de Débito,Fortaleza,RS,Loja de Conveniência,EMP-362,107.94
+TRX-67939,2024-11-05,CUST-3031,Carnes,Leite Integral,4.92,10,Pix,Salvador,DF,Minimercado,EMP-551,49.2
+TRX-77171,2017-10-11,CUST-7122,Bebidas,Arroz Branco,41.91,15,Dinheiro,São Paulo,DF,Supermercado,EMP-858,628.65
+TRX-42088,2024-12-27,CUST-1130,Snacks,Chocolate,11.42,13,Cartão de Débito,Brasília,BA,Supermercado,EMP-328,148.46
+TRX-70591,2018-11-03,CUST-6716,Laticínios,Leite Integral,64.61,15,Cartão de Crédito,Rio de Janeiro,MG,Supermercado,EMP-506,969.15
+TRX-66769,2024-04-13,CUST-6385,Bebidas,Queijo Mussarela,34.9,20,Pix,Curitiba,CE,Supermercado,EMP-385,698.0
+TRX-15017,2019-09-05,CUST-8699,Snacks,Arroz Branco,22.13,19,Cartão de Crédito,Brasília,BA,Supermercado,EMP-927,420.46999999999997
+TRX-66375,2017-08-07,CUST-1886,Snacks,Chocolate,3.27,14,Dinheiro,Porto Alegre,MG,Supermercado,EMP-245,45.78
+TRX-45901,2013-07-03,CUST-5887,Doces,Arroz Branco,45.69,14,Boleto,Curitiba,RS,Minimercado,EMP-950,639.66
+TRX-22116,2012-07-11,CUST-5864,Snacks,Batata Chips,35.58,14,Pix,Fortaleza,AM,Minimercado,EMP-813,498.12
+TRX-56490,2018-12-19,CUST-7375,Doces,Coca-Cola,56.53,20,Cartão de Débito,Rio de Janeiro,DF,Minimercado,EMP-431,1130.6
+TRX-51486,2022-01-05,CUST-8514,Snacks,Leite Integral,86.57,4,Pix,Porto Alegre,AM,Supermercado,EMP-561,346.28
+TRX-93138,2014-08-21,CUST-2596,Bebidas,Batata Chips,74.83,7,Pix,Manaus,MG,Loja de Conveniência,EMP-321,523.81
+TRX-37494,2017-04-22,CUST-1235,Frios,Chocolate,37.02,10,Dinheiro,Manaus,RJ,Loja de Conveniência,EMP-764,370.20000000000005
+TRX-64270,2019-07-12,CUST-6770,Doces,Filé de Frango,43.16,11,Cartão de Crédito,Belo Horizonte,CE,Loja de Conveniência,EMP-482,474.76
+TRX-82450,2014-10-06,CUST-9892,Laticínios,Leite Integral,29.22,14,Dinheiro,Brasília,RJ,Supermercado,EMP-925,409.08
+TRX-21749,2013-11-01,CUST-7738,Bebidas,Leite Integral,75.24,20,Boleto,Rio de Janeiro,CE,Supermercado,EMP-783,1504.8
+TRX-65134,2016-04-08,CUST-8448,Carnes,Leite Integral,12.34,16,Cartão de Crédito,Recife,CE,Loja de Conveniência,EMP-940,197.44
+TRX-61879,2022-01-12,CUST-4668,Carnes,Queijo Mussarela,27.49,9,Dinheiro,Salvador,PR,Supermercado,EMP-524,247.41
+TRX-12035,2012-01-05,CUST-7134,Doces,Chocolate,52.38,20,Dinheiro,Recife,MG,Loja de Conveniência,EMP-347,1047.6000000000001
+TRX-61296,2020-04-20,CUST-7444,Doces,Coca-Cola,80.33,19,Pix,Belo Horizonte,BA,Minimercado,EMP-512,1526.27
+TRX-77800,2017-03-14,CUST-4784,Bebidas,Arroz Branco,80.32,17,Cartão de Crédito,Brasília,BA,Hipermercado,EMP-957,1365.4399999999998
+TRX-30847,2020-06-07,CUST-2527,Bebidas,Coca-Cola,44.3,19,Cartão de Débito,São Paulo,DF,Supermercado,EMP-685,841.6999999999999
+TRX-13314,2018-12-24,CUST-3138,Laticínios,Arroz Branco,63.52,12,Cartão de Débito,Curitiba,PR,Hipermercado,EMP-298,762.24
+TRX-42145,2020-12-25,CUST-7194,Doces,Queijo Mussarela,66.27,9,Cartão de Crédito,Belo Horizonte,SP,Supermercado,EMP-213,596.43
+TRX-88105,2019-02-04,CUST-3323,Frios,Queijo Mussarela,89.57,3,Cartão de Crédito,Fortaleza,PE,Minimercado,EMP-500,268.71
+TRX-74361,2013-01-14,CUST-2205,Laticínios,Arroz Branco,8.55,14,Pix,Recife,CE,Minimercado,EMP-284,119.70000000000002
+TRX-11329,2016-03-22,CUST-1515,Bebidas,Queijo Mussarela,99.38,16,Boleto,Brasília,AM,Supermercado,EMP-262,1590.08
+TRX-43357,2020-02-07,CUST-1484,Carnes,Coca-Cola,52.28,5,Cartão de Débito,Recife,RJ,Minimercado,EMP-130,261.4
+TRX-28161,2017-04-03,CUST-3073,Frios,Queijo Mussarela,48.68,3,Dinheiro,Manaus,RS,Loja de Conveniência,EMP-863,146.04
+TRX-74985,2024-07-17,CUST-7552,Snacks,Queijo Mussarela,18.12,9,Pix,Rio de Janeiro,DF,Hipermercado,EMP-269,163.08
+TRX-36978,2024-12-16,CUST-8101,Laticínios,Leite Integral,60.04,9,Dinheiro,Brasília,RJ,Loja de Conveniência,EMP-539,540.36
+TRX-84336,2015-06-12,CUST-2052,Laticínios,Batata Chips,89.06,17,Dinheiro,Brasília,BA,Hipermercado,EMP-718,1514.02
+TRX-79533,2022-06-13,CUST-1490,Bebidas,Batata Chips,81.1,14,Cartão de Débito,Recife,PR,Supermercado,EMP-320,1135.3999999999999
+TRX-58714,2022-06-05,CUST-6151,Bebidas,Coca-Cola,32.54,1,Dinheiro,Curitiba,CE,Hipermercado,EMP-338,32.54
+TRX-18681,2020-07-10,CUST-4476,Carnes,Batata Chips,11.19,9,Boleto,Rio de Janeiro,DF,Loja de Conveniência,EMP-798,100.71
+TRX-67043,2024-06-27,CUST-6244,Snacks,Batata Chips,5.92,16,Pix,São Paulo,RS,Loja de Conveniência,EMP-222,94.72
+TRX-69347,2013-03-20,CUST-6355,Carnes,Leite Integral,24.41,1,Dinheiro,São Paulo,DF,Supermercado,EMP-572,24.41
+TRX-27178,2016-07-02,CUST-9740,Carnes,Coca-Cola,34.4,1,Cartão de Crédito,Fortaleza,RJ,Loja de Conveniência,EMP-840,34.4
+TRX-46002,2016-06-25,CUST-6665,Laticínios,Coca-Cola,56.09,11,Pix,Brasília,SP,Loja de Conveniência,EMP-405,616.99
+TRX-69582,2023-08-28,CUST-2989,Doces,Queijo Mussarela,93.83,4,Cartão de Crédito,Curitiba,SP,Supermercado,EMP-242,375.32
+TRX-52317,2013-12-24,CUST-8138,Snacks,Batata Chips,9.71,12,Boleto,São Paulo,SP,Hipermercado,EMP-903,116.52000000000001
+TRX-24523,2012-01-10,CUST-2229,Frios,Queijo Mussarela,69.1,13,Dinheiro,Belo Horizonte,MG,Loja de Conveniência,EMP-222,898.3
+TRX-51855,2014-03-25,CUST-7771,Grãos,Leite Integral,67.16,17,Boleto,Curitiba,DF,Loja de Conveniência,EMP-777,1141.72
+TRX-46771,2019-06-25,CUST-8908,Snacks,Coca-Cola,27.12,10,Cartão de Crédito,Recife,AM,Minimercado,EMP-775,271.2
+TRX-36986,2022-12-03,CUST-2231,Laticínios,Coca-Cola,22.04,7,Pix,Salvador,PR,Loja de Conveniência,EMP-207,154.28
+TRX-37349,2017-10-25,CUST-9644,Carnes,Chocolate,32.02,10,Pix,Belo Horizonte,AM,Supermercado,EMP-233,320.20000000000005
+TRX-57663,2015-07-15,CUST-9412,Snacks,Chocolate,40.62,3,Dinheiro,Salvador,MG,Hipermercado,EMP-990,121.85999999999999
+TRX-94984,2021-02-05,CUST-8552,Bebidas,Arroz Branco,11.91,1,Pix,Belo Horizonte,RS,Supermercado,EMP-587,11.91
+TRX-79584,2022-08-12,CUST-5351,Bebidas,Filé de Frango,9.32,14,Cartão de Débito,Belo Horizonte,BA,Loja de Conveniência,EMP-620,130.48000000000002
+TRX-16967,2017-08-09,CUST-7058,Bebidas,Coca-Cola,65.21,14,Cartão de Débito,Porto Alegre,PR,Loja de Conveniência,EMP-280,912.9399999999999
+TRX-46166,2021-09-20,CUST-9087,Carnes,Leite Integral,11.81,2,Cartão de Débito,Rio de Janeiro,PR,Supermercado,EMP-154,23.62
+TRX-85396,2012-05-08,CUST-2078,Carnes,Coca-Cola,28.27,20,Pix,Salvador,BA,Supermercado,EMP-325,565.4
+TRX-45162,2023-08-07,CUST-3802,Doces,Batata Chips,35.42,10,Boleto,Porto Alegre,SP,Supermercado,EMP-289,354.20000000000005
+TRX-91542,2020-08-24,CUST-6002,Doces,Arroz Branco,24.62,11,Cartão de Crédito,Belo Horizonte,MG,Hipermercado,EMP-566,270.82
+TRX-11669,2014-11-16,CUST-8011,Frios,Coca-Cola,18.57,9,Cartão de Crédito,Belo Horizonte,SP,Hipermercado,EMP-585,167.13
+TRX-10131,2021-08-28,CUST-5055,Laticínios,Coca-Cola,5.47,1,Boleto,Porto Alegre,PR,Minimercado,EMP-873,5.47
+TRX-22308,2014-02-10,CUST-6499,Laticínios,Leite Integral,73.75,18,Dinheiro,Fortaleza,RS,Hipermercado,EMP-569,1327.5
+TRX-56219,2012-05-23,CUST-6467,Carnes,Chocolate,66.73,20,Pix,Rio de Janeiro,RS,Supermercado,EMP-251,1334.6000000000001
+TRX-38869,2018-11-05,CUST-6852,Laticínios,Coca-Cola,25.19,14,Dinheiro,Curitiba,RJ,Minimercado,EMP-486,352.66
+TRX-24146,2022-05-21,CUST-9927,Laticínios,Filé de Frango,18.32,12,Dinheiro,Salvador,DF,Loja de Conveniência,EMP-382,219.84
+TRX-34978,2016-01-19,CUST-9520,Grãos,Queijo Mussarela,83.58,4,Pix,Fortaleza,DF,Hipermercado,EMP-395,334.32
+TRX-11092,2013-08-22,CUST-3410,Laticínios,Arroz Branco,15.87,10,Boleto,Manaus,MG,Hipermercado,EMP-598,158.7
+TRX-18469,2016-05-01,CUST-8436,Bebidas,Batata Chips,29.02,19,Cartão de Crédito,São Paulo,CE,Hipermercado,EMP-105,551.38
+TRX-56170,2018-11-27,CUST-1010,Bebidas,Queijo Mussarela,14.63,10,Boleto,Manaus,MG,Supermercado,EMP-830,146.3
+TRX-28696,2016-12-07,CUST-8078,Carnes,Coca-Cola,29.79,2,Pix,Recife,PR,Loja de Conveniência,EMP-532,59.58
+TRX-22863,2018-05-10,CUST-6091,Snacks,Filé de Frango,44.15,11,Boleto,Belo Horizonte,PR,Hipermercado,EMP-238,485.65
+TRX-82651,2018-04-10,CUST-5997,Bebidas,Queijo Mussarela,57.1,15,Boleto,Belo Horizonte,BA,Loja de Conveniência,EMP-198,856.5
+TRX-79018,2014-08-23,CUST-6132,Carnes,Arroz Branco,71.55,15,Dinheiro,Salvador,CE,Loja de Conveniência,EMP-520,1073.25
+TRX-13627,2019-09-01,CUST-7896,Bebidas,Chocolate,14.92,10,Cartão de Débito,Brasília,AM,Hipermercado,EMP-230,149.2
+TRX-81207,2021-10-10,CUST-1877,Doces,Chocolate,39.87,13,Cartão de Crédito,Fortaleza,AM,Loja de Conveniência,EMP-959,518.31
+TRX-21096,2012-01-09,CUST-2753,Frios,Filé de Frango,10.64,10,Boleto,Fortaleza,PE,Supermercado,EMP-224,106.4
+TRX-86626,2023-11-17,CUST-1868,Grãos,Batata Chips,52.11,18,Pix,Belo Horizonte,PR,Minimercado,EMP-408,937.98
+TRX-50749,2022-12-01,CUST-8945,Carnes,Arroz Branco,20.87,3,Cartão de Crédito,Belo Horizonte,DF,Supermercado,EMP-632,62.61
+TRX-42401,2013-04-04,CUST-8761,Bebidas,Chocolate,51.07,13,Cartão de Crédito,Rio de Janeiro,RS,Loja de Conveniência,EMP-595,663.91
+TRX-40792,2014-09-09,CUST-8194,Doces,Arroz Branco,62.1,14,Cartão de Débito,São Paulo,MG,Minimercado,EMP-938,869.4
+TRX-96175,2023-04-06,CUST-9380,Grãos,Arroz Branco,55.12,16,Pix,Porto Alegre,RS,Supermercado,EMP-702,881.92
+TRX-58147,2019-11-09,CUST-7409,Laticínios,Arroz Branco,80.19,15,Pix,Salvador,MG,Supermercado,EMP-390,1202.85
+TRX-25745,2019-10-13,CUST-1180,Carnes,Queijo Mussarela,4.37,20,Pix,São Paulo,PE,Minimercado,EMP-579,87.4
+TRX-70076,2023-05-01,CUST-3593,Frios,Filé de Frango,85.73,17,Cartão de Débito,Recife,AM,Loja de Conveniência,EMP-625,1457.41
+TRX-32871,2013-11-05,CUST-6764,Grãos,Arroz Branco,56.75,15,Cartão de Débito,Porto Alegre,RS,Loja de Conveniência,EMP-169,851.25
+TRX-73405,2022-07-16,CUST-3955,Carnes,Arroz Branco,92.81,17,Dinheiro,Belo Horizonte,PE,Hipermercado,EMP-698,1577.77
+TRX-62923,2021-02-02,CUST-1483,Doces,Arroz Branco,16.76,4,Cartão de Crédito,Fortaleza,CE,Hipermercado,EMP-878,67.04
+TRX-41013,2015-02-06,CUST-7292,Doces,Leite Integral,92.32,2,Boleto,Porto Alegre,RJ,Supermercado,EMP-967,184.64
+TRX-19552,2023-08-25,CUST-7132,Carnes,Arroz Branco,84.23,6,Dinheiro,Rio de Janeiro,CE,Loja de Conveniência,EMP-236,505.38
+TRX-85206,2022-09-07,CUST-4206,Frios,Leite Integral,44.31,10,Cartão de Débito,Curitiba,MG,Loja de Conveniência,EMP-933,443.1
+TRX-35204,2020-02-19,CUST-1397,Grãos,Arroz Branco,10.52,2,Cartão de Débito,São Paulo,PE,Loja de Conveniência,EMP-681,21.04
+TRX-19432,2020-06-06,CUST-9653,Laticínios,Batata Chips,83.41,19,Pix,Manaus,PE,Hipermercado,EMP-733,1584.79
+TRX-28071,2020-02-15,CUST-8004,Grãos,Leite Integral,87.52,19,Cartão de Crédito,Belo Horizonte,AM,Hipermercado,EMP-203,1662.8799999999999
+TRX-75367,2013-04-02,CUST-9856,Frios,Coca-Cola,23.18,10,Dinheiro,Salvador,PE,Supermercado,EMP-993,231.8
+TRX-47757,2014-02-18,CUST-4955,Doces,Filé de Frango,93.25,17,Dinheiro,Salvador,DF,Supermercado,EMP-659,1585.25
+TRX-24532,2023-10-16,CUST-5309,Grãos,Coca-Cola,4.2,14,Dinheiro,Curitiba,PE,Supermercado,EMP-242,58.800000000000004
+TRX-81707,2015-12-11,CUST-2021,Snacks,Leite Integral,8.22,19,Boleto,São Paulo,PE,Supermercado,EMP-526,156.18
+TRX-90272,2021-02-18,CUST-8844,Snacks,Queijo Mussarela,72.61,4,Cartão de Crédito,Fortaleza,AM,Minimercado,EMP-765,290.44
+TRX-66559,2017-08-10,CUST-4731,Bebidas,Coca-Cola,3.61,7,Boleto,Brasília,BA,Supermercado,EMP-665,25.27
+TRX-16834,2019-07-25,CUST-7180,Grãos,Batata Chips,43.54,14,Boleto,Belo Horizonte,RJ,Loja de Conveniência,EMP-220,609.56
+TRX-58196,2021-06-07,CUST-6621,Laticínios,Coca-Cola,24.58,3,Boleto,São Paulo,PR,Loja de Conveniência,EMP-865,73.74
+TRX-80283,2024-10-02,CUST-1244,Doces,Arroz Branco,25.74,2,Cartão de Crédito,São Paulo,MG,Loja de Conveniência,EMP-284,51.48
+TRX-15730,2016-06-12,CUST-5001,Frios,Batata Chips,61.01,16,Cartão de Crédito,Rio de Janeiro,RJ,Hipermercado,EMP-656,976.16
+TRX-74871,2015-12-24,CUST-6848,Doces,Batata Chips,44.91,10,Dinheiro,Manaus,RS,Minimercado,EMP-639,449.09999999999997
+TRX-51793,2016-12-18,CUST-9248,Bebidas,Coca-Cola,35.32,14,Boleto,Fortaleza,RS,Supermercado,EMP-308,494.48
+TRX-78287,2014-04-10,CUST-4453,Bebidas,Queijo Mussarela,72.77,5,Cartão de Crédito,Curitiba,CE,Loja de Conveniência,EMP-216,363.84999999999997
+TRX-75392,2012-01-09,CUST-5554,Carnes,Leite Integral,30.74,3,Cartão de Crédito,Porto Alegre,DF,Loja de Conveniência,EMP-607,92.22
+TRX-60146,2012-07-15,CUST-1727,Snacks,Batata Chips,38.55,14,Boleto,São Paulo,RS,Supermercado,EMP-654,539.6999999999999
+TRX-55587,2024-01-20,CUST-6508,Doces,Queijo Mussarela,81.21,19,Cartão de Débito,São Paulo,PE,Loja de Conveniência,EMP-986,1542.9899999999998
+TRX-17486,2018-02-18,CUST-7358,Grãos,Arroz Branco,29.45,18,Pix,Salvador,DF,Hipermercado,EMP-266,530.1
+TRX-71254,2018-12-08,CUST-3160,Bebidas,Queijo Mussarela,80.16,9,Cartão de Crédito,Curitiba,AM,Hipermercado,EMP-445,721.4399999999999
+TRX-61721,2021-01-20,CUST-5493,Frios,Queijo Mussarela,66.26,20,Cartão de Crédito,Rio de Janeiro,RS,Hipermercado,EMP-956,1325.2
+TRX-33433,2016-08-15,CUST-1282,Laticínios,Coca-Cola,47.18,12,Pix,Manaus,PR,Loja de Conveniência,EMP-159,566.16
+TRX-20426,2021-05-20,CUST-6145,Bebidas,Leite Integral,18.8,9,Dinheiro,Fortaleza,MG,Minimercado,EMP-745,169.20000000000002
+TRX-29254,2014-10-21,CUST-1812,Snacks,Coca-Cola,65.81,6,Boleto,Fortaleza,DF,Hipermercado,EMP-142,394.86
+TRX-39878,2020-01-23,CUST-5244,Frios,Coca-Cola,68.16,12,Boleto,São Paulo,DF,Minimercado,EMP-458,817.92
+TRX-20155,2013-09-15,CUST-2854,Carnes,Coca-Cola,24.46,11,Boleto,Recife,BA,Supermercado,EMP-757,269.06
+TRX-47104,2018-03-01,CUST-6350,Carnes,Chocolate,36.67,14,Dinheiro,Fortaleza,RS,Supermercado,EMP-264,513.38
+TRX-15847,2017-05-05,CUST-1418,Bebidas,Filé de Frango,21.94,11,Boleto,Manaus,DF,Hipermercado,EMP-320,241.34
+TRX-86373,2018-01-22,CUST-3458,Laticínios,Chocolate,99.78,3,Cartão de Crédito,Curitiba,DF,Loja de Conveniência,EMP-651,299.34000000000003
+TRX-25891,2023-09-26,CUST-1842,Carnes,Leite Integral,66.26,17,Pix,Recife,RS,Minimercado,EMP-956,1126.42
+TRX-48412,2021-04-11,CUST-4982,Doces,Chocolate,97.77,8,Pix,Recife,RJ,Minimercado,EMP-555,782.16
+TRX-63729,2023-06-03,CUST-6766,Carnes,Filé de Frango,8.57,12,Pix,Brasília,PR,Loja de Conveniência,EMP-905,102.84
+TRX-40115,2018-10-27,CUST-3052,Carnes,Batata Chips,77.87,14,Boleto,Belo Horizonte,DF,Hipermercado,EMP-914,1090.18
+TRX-54770,2016-06-04,CUST-2335,Laticínios,Leite Integral,51.0,5,Boleto,Fortaleza,PR,Minimercado,EMP-997,255.0
+TRX-12033,2019-03-04,CUST-7858,Frios,Chocolate,55.9,16,Cartão de Crédito,Belo Horizonte,SP,Loja de Conveniência,EMP-124,894.4
+TRX-31880,2023-02-05,CUST-9436,Doces,Filé de Frango,91.94,14,Dinheiro,Belo Horizonte,BA,Minimercado,EMP-829,1287.1599999999999
+TRX-25601,2016-06-27,CUST-6515,Carnes,Filé de Frango,62.05,2,Cartão de Crédito,Recife,CE,Loja de Conveniência,EMP-745,124.1
+TRX-67106,2019-05-25,CUST-8816,Grãos,Batata Chips,73.61,19,Boleto,Rio de Janeiro,MG,Supermercado,EMP-707,1398.59
+TRX-58480,2021-11-21,CUST-8430,Laticínios,Queijo Mussarela,44.42,17,Boleto,Porto Alegre,RJ,Minimercado,EMP-404,755.14
+TRX-54710,2019-01-19,CUST-9481,Carnes,Filé de Frango,51.31,14,Dinheiro,Recife,BA,Hipermercado,EMP-875,718.34
+TRX-28769,2014-01-27,CUST-4451,Laticínios,Filé de Frango,28.55,20,Dinheiro,Rio de Janeiro,PE,Hipermercado,EMP-269,571.0
+TRX-47728,2013-05-16,CUST-8191,Snacks,Batata Chips,29.56,9,Boleto,Rio de Janeiro,PR,Hipermercado,EMP-244,266.03999999999996
