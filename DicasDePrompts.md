@@ -1,4 +1,5 @@
 # Dicas de Prompts 💻>
+Costumo dizer de Engenharia de Prompt é a arte de falar com os Modelos de Linguagens (as LLMs). Ao dominar essas técnicas, você poderá criar prompts mais eficazes, obtendo resultados mais precisos e relevantes para suas necessidades.
 
 ![](https://blogdozouza.wordpress.com/wp-content/uploads/2024/11/contexto.png)
 
@@ -12,7 +13,9 @@ Gere instruções claras e seja específico, forneça mais detalhes (ela (IA) n�
 
 *Comece sua pergunta com um verbo de ação, como “gerar”, “dar”, “escrever” ou “analisar”.
 
-**Por exemplo:** Escreva um resumo do relatório de vendas trimestrais. Um exemplo se encontra abaixo...
+**Por exemplo:** 
+- Escreva um resumo do relatório de vendas trimestrais. Um exemplo se encontra abaixo...
+- Crie um plano de aula interativo sobre o ciclo da água para alunos do 5º ano, incluindo um quiz e uma simulação online.
 
 ## Formato
 Visualize como você deseja que a resposta seja formatada. Pode ser uma lista, um e-mail, um resumo ou qualquer formato que você precise. Ou ainda, o tamanho da mensagem de retorno...
