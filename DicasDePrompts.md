@@ -59,7 +59,107 @@ O tom da resposta é importante. Você pode pedir um tom formal, casual, entusi�
 
 # Estilos de Prompts 💻>
 
-escrever...
+## Prompting com Restrições
+Impeça a IA de seguir caminhos óbvios, incentivando-a a encontrar soluções criativas.
+
+```
+Crie um quiz sobre a mitologia grega, com perguntas de múltipla escolha e sem utilizar a palavra ‘deus’. Inclua pelo menos cinco mitos diferentes.
+````
+
+## Prompting com Múltiplos Formatos
+Solicite diferentes formatos de saída para estimular a IA a gerar conteúdo diversificado e completo.
+```
+Crie um material didático sobre o sistema solar, incluindo um texto explicativo, um infográfico e uma apresentação em slides. Utilize linguagem clara e objetiva, adequada para alunos do 6º ano.
+```
+
+## Prompting com Feedback Iterativo
+Refinar o prompt com base no feedback da IA permite obter resultados cada vez mais precisos.
+
+```
+Crie um plano de aula sobre a célula. Após a primeira resposta, me diga quais partes da célula você abordou. Em seguida, peça para você incluir informações sobre a organela responsável pela produção de energia.
+```
+
+## Prompting com Hierarquia
+Organize a informação de forma hierárquica para facilitar a compreensão e a visualização.
+
+```
+Crie um mapa mental sobre a evolução dos computadores, começando com os primeiros computadores eletrônicos e terminando nos computadores modernos. Utilize no máximo três níveis de hierarquia.
+```
+
+## Prompting com Analogias
+Utilizar analogias facilita a compreensão de conceitos complexos.
+
+```
+Explique o conceito de fração utilizando a analogia de uma pizza. Crie um exemplo prático para ilustrar o conceito.
+```
+
+## Prompting com Metáforas
+As metáforas ajudam a criar conexões entre ideias aparentemente distintas.
+```
+A mente humana é como um computador. Crie uma metáfora para explicar como a memória funciona.
+```
+
+## Prompting com Storytelling
+As histórias são uma forma eficaz de transmitir informações e engajar o público.
+```
+Crie uma história para explicar o ciclo da água, utilizando personagens animais e elementos da natureza.
+```
+
+## Prompting com Restrições de Tamanho
+Limitar o tamanho da resposta força a IA a sintetizar a informação de forma concisa e objetiva.
+```
+Crie um resumo de cinco frases sobre a Primeira Guerra Mundial, destacando as principais causas e consequências.
+```
+
+## Prompting com Múltiplos Perspectivas
+Estimular a IA a considerar diferentes pontos de vista enriquece a discussão e promove o pensamento crítico.
+```
+Apresente três diferentes perspectivas sobre a Revolução Francesa: a dos nobres, a do clero e a do terceiro estado.
+```
+
+## Prompting com Geradores de Imagens
+Combinar a geração de texto com a geração de imagens permite criar materiais visuais mais atraentes e informativos. (usem o claude.ai para o exemplo abaixo)
+```
+Crie um infográfico sobre o sistema solar, utilizando o modelo de geração de imagens Stable Diffusion. Inclua informações sobre os planetas, o sol e a lua.
+```
+
+## Prompting com Dados Estruturados
+Ao fornecer dados estruturados, você auxilia a IA a gerar respostas mais precisas e relevantes.
+```
+Utilizando a tabela periódica dos elementos como base, crie um exercício interativo para alunos do ensino médio identificarem os metais alcalinos e os gases nobres.
+```
+
+## Prompting com Emojis
+Os emojis podem ser utilizados para adicionar um toque de criatividade e tornar os conteúdos mais engajadores.
+```
+Crie uma história curta sobre a importância da água para a vida na Terra, utilizando emojis para representar diferentes elementos ( ☀️ ).
+```
+
+## Prompting com Código
+Ao fornecer exemplos de código, você pode guiar a IA a gerar soluções programáticas mais complexas.
+```
+Gere um código Python para criar um gráfico de barras que compare as populações dos cinco países mais populosos do mundo.
+```
+
+## Prompting com Referências
+Ao fornecer referências, você garante a precisão e a confiabilidade das informações geradas pela IA.
+```
+Crie um plano de aula sobre a teoria da evolução de Darwin, citando como referência o livro ‘A Origem das Espécies’
+```
+
+## Prompting com Estilo Específico
+Ao definir um estilo específico, você pode obter resultados mais criativos e originais.
+```
+Escreva um poema sobre a natureza, utilizando a métrica e a rima características dos sonetos.
+```
+
+## Prompting com Múltiplos Modelos em Cadeia
+Combinar diferentes modelos de IA permite criar conteúdos mais ricos e complexos.
+
+```
+Primeiro, utilize um modelo de linguagem para gerar um resumo sobre a Revolução Industrial. Em seguida, utilize um modelo de geração de imagens para criar uma ilustração que represente esse resumo.
+```
+
 
 # Técnicas de Prompts 💻>
 - [Prompts abaixo no ChatGPT](https://chatgpt.com/share/6749cb1d-0e1c-800a-ad5b-2ae7c7cb366e)
@@ -399,7 +499,12 @@ Enriquece seus prompts com informações/documentos da sua empresa...
 ![](https://blogdozouza.wordpress.com/wp-content/uploads/2024/11/screenshot_27.png)
 
 ---
-   
+
+# Conclusão
+Ao dominar essas dicas, estilos e técnicas, você estará apto a criar prompts mais eficazes e a explorar todo o potencial da inteligência artificial no campo do design instrucional. Lembre-se que a engenharia de prompt é uma habilidade que se desenvolve com a prática. Quanto mais você experimentar, melhores serão os seus resultados.
+
+Lembre-se: A escolha ideal dependerá do contexto, do público-alvo e dos objetivos do seu design instrucional. Experimente diferentes abordagens para encontrar a que melhor se adapta às suas necessidades.
+
 # Mais informações
 - [Engenharia de Prompts](https://medium.com/blog-do-zouza/genai-o-que-%C3%A9-engenharia-de-prompt-6d416afe1323)
 - [Dicas de Prompt - OpenAI](https://platform.openai.com/docs/guides/prompt-engineering)
