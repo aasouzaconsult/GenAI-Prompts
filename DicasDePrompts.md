@@ -1,12 +1,23 @@
 # Dicas de Prompts 💻>
 Costumo dizer de Engenharia de Prompt é a arte de falar com os Modelos de Linguagens (as LLMs). Ao dominar essas técnicas, você poderá criar prompts mais eficazes, obtendo resultados mais precisos e relevantes para suas necessidades.
 
+## Refinamento iterativo
+A engenharia de prompt é um processo iterativo. Ao refinar seus prompts, você obterá resultados cada vez melhores.
+- **Exemplo:** Se a resposta inicial não atender às suas expectativas, refine o prompt adicionando mais detalhes ou reformulando a pergunta.
+
+## Explore Diferentes Modelos de IA:
+Cada modelo de IA possui suas próprias características e pode gerar resultados diferentes para o mesmo prompt.
+- **Exemplo:** Experimente diferentes modelos de IA para encontrar aquele que melhor se adapta às suas necessidades.
+- **Ferramenta:** [ChatPlayGround](https://web.chatplayground.ai/)
+
 ![](https://blogdozouza.wordpress.com/wp-content/uploads/2024/11/contexto.png)
 
-## Persona
-Pense em quem você quer que a IA seja ao responder. Pode ser um especialista, um recrutador, um escritor, um profissional de dados ou até mesmo um personagem fictício. 
+## Persona (Prompting com Role Playing)
+Pense em quem você quer que a IA seja ao responder. Pode ser um especialista, um recrutador, um escritor, um profissional de dados ou até mesmo um personagem fictício. Atribua um papel à IA para que ela possa gerar respostas mais personalizadas e contextualmente relevantes.
 
-**Por exemplo**: Você é um especialista em análise de dados e trabalha no setor financeiro de bigtechs...
+**Por exemplo**: 
+- Você é um especialista em análise de dados e trabalha no setor financeiro de bigtechs...
+- Você é um professor de história do ensino fundamental. Crie uma atividade para ensinar sobre a Segunda Guerra Mundial, utilizando uma linha do tempo interativa e jogos de simulação.
 
 ## Clear Instructions
 Gere instruções claras e seja específico, forneça mais detalhes (ela (IA) não sabe o que você tá precisando). Seja claro sobre qual é o seu objetivo final. 
@@ -20,17 +31,23 @@ Gere instruções claras e seja específico, forneça mais detalhes (ela (IA) n�
 ## Formato
 Visualize como você deseja que a resposta seja formatada. Pode ser uma lista, um e-mail, um resumo ou qualquer formato que você precise. Ou ainda, o tamanho da mensagem de retorno...
 
-**Por exemplo**: Forneça as informações em formato de lista com marcadores.
+**Por exemplo**: 
+- Forneça as informações em formato de lista com marcadores.
+- Gere um quiz de 10 perguntas sobre a Guerra Civil Americana no formato Google Forms, com opções de múltipla escolha e feedback personalizado para cada resposta.
 
 ## Contexto (Limit the scope)
 O contexto é fundamental para restringir as possibilidades. Forneça informações sobre o histórico do usuário, o que define o sucesso e o ambiente em que estão. 
 
-**Por exemplo:** Você é um analista de dados e tem um cliente que deseja minimizar custos.
+**Por exemplo:** 
+- Você é um analista de dados e tem um cliente que deseja minimizar custos.
+- Considerando a teoria de aprendizagem construtivista de Piaget, desenvolva uma atividade prática para ensinar o conceito de frações a alunos do 3º ano, utilizando materiais do cotidiano.
 
 ## Exemplos (*Few-Shot Prompts*)
 Incluir exemplos na sua pergunta é uma prática recomendada. Exemplos tornam mais fácil para a IA entender o que você deseja.
 
-**Por exemplo:** Dê um KPI relacionado ao setor financeiro referente a margem bruta por semana e que seja rápido de implementar...
+**Por exemplo:** 
+- Dê um KPI relacionado ao setor financeiro referente a margem bruta por semana e que seja rápido de implementar...
+- Crie um roteiro para um vídeo explicativo sobre a Revolução Francesa, similar ao estilo do canal History Channel, com destaque para as principais causas e consequências do evento.
 
 ## Tom
 O tom da resposta é importante. Você pode pedir um tom formal, casual, entusiástico ou até pessimista. 
@@ -40,9 +57,14 @@ O tom da resposta é importante. Você pode pedir um tom formal, casual, entusi�
 - [exemplo no chatgpt - dicas](https://chatgpt.com/share/6749baa0-8270-800a-89e0-61c59bfe656e)
 - [mais dicas](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/DicasDePrompts_mais.md)
 
+# Estilos de Prompts 💻>
+
+escrever...
+
 # Técnicas de Prompts 💻>
 - [Prompts abaixo no ChatGPT](https://chatgpt.com/share/6749cb1d-0e1c-800a-ad5b-2ae7c7cb366e)
 - [Mais informações e detalhes](https://www.promptingguide.ai/techniques)
+
 
 ## Zero-Shot Prompts
 Quando não é necessário nenhum exemplo, o próprio modelo já pode lhe dar respostas corretas.
@@ -67,6 +89,10 @@ What restaurant should I take Alex to in Dubai this weekend?
 ```
 *O prompt acima, provavelmente irá lhe retornar um resultado mais assertivo.*
 
+**Outro exemplo:**
+- Crie um plano de aula sobre a célula, similar ao exemplo abaixo: Exemplo: Plano de aula sobre a célula: Introdução (10 minutos), Atividade prática (30 minutos), Discussão em grupo (20 minutos), Conclusão (10 minutos).
+
+
 ## Chain-of-Thought (CoT) Prompting
 Introduzido em Wei et al. (2022), a solicitação de cadeia de pensamento ([CoT](https://www.promptingguide.ai/techniques/cot)) permite recursos de raciocínio complexos por meio de etapas intermediárias de raciocínio. Você pode combiná-lo com solicitações rápidas para obter melhores resultados em tarefas mais complexas que exigem raciocínio antes de responder. [artigo](https://arxiv.org/abs/2201.11903)
 
@@ -88,6 +114,9 @@ A:
 ```
 Result: Adding all the odd numbers (15, 5, 13, 7, 1) gives 41. The answer is False.
 
+**Outros exemplos:**
+- Para ensinar o conceito de fração, podemos utilizar pizzas como exemplo. Dividimos a pizza em partes iguais e explicamos que cada parte representa uma fração. Em seguida, podemos pedir aos alunos que representem diferentes frações utilizando desenhos.
+- Para ensinar o conceito de fotosíntese, podemos começar explicando que as plantas utilizam a luz solar, a água e o dióxido de carbono para produzir glicose e oxigênio. Em seguida, podemos fazer uma analogia com uma fábrica, onde a luz solar seria a energia, a água e o dióxido de carbono seriam as matérias-primas, e a glicose e o oxigênio seriam os produtos finais.
 
 ## Self-Consistency
 Talvez uma das técnicas mais avançadas disponíveis para *engenharia de prompt* seja a autoconsistência. Proposto por [Wang et al. (2022) - artigo](https://arxiv.org/abs/2203.11171), a autoconsistência visa "substituir a decodificação ingênua e gananciosa usada na estimulação da cadeia de pensamento". A ideia é provar múltiplos e diversos caminhos de raciocínio por meio de CoT de poucas tentativas e usar as gerações para selecionar a resposta mais consistente. Isso ajuda a aumentar o desempenho das solicitações do CoT em tarefas que envolvem raciocínio aritmético e de bom senso.
@@ -151,17 +180,18 @@ Exemplo de Respostas:
 No final, eu escolherei a resposta mais comum entre as abordagens.
 ```
 
-## Generate Knowledge Prompting
-No veu ver, é dar contexto - [More informattion](https://www.promptingguide.ai/techniques/knowledge)
-
-## Prompt Chaining (Encadeamento de prompt)
-Usar o resultado de um prompt para entrada em outro
-
 ## Tree of Thoughts (ToT)
 Para tarefas complexas que exigem exploração ou visão estratégica, as técnicas de solicitação tradicionais ou simples são insuficientes. Yao e outros. (2023) e Longo (2023)propôs recentemente a Árvore de Pensamentos (ToT), uma estrutura que generaliza a sugestão de cadeia de pensamentos e incentiva a exploração de pensamentos que servem como etapas intermediárias para a resolução geral de problemas com modelos de linguagem.
 
 ToT mantém uma árvore de pensamentos, onde os pensamentos representam sequências de linguagem coerentes que servem como etapas intermediárias para a resolução de um problema. Esta abordagem permite que um LM autoavalie o progresso que os pensamentos intermediários fazem para resolver um problema através de um processo de raciocínio deliberado. A capacidade do LM de gerar e avaliar pensamentos é então combinada com algoritmos de busca (por exemplo, busca em largura e busca em profundidade) para permitir a exploração sistemática de pensamentos com antecipação e retrocesso. [artigo](https://arxiv.org/abs/2305.10601)
 
+Estimule a IA a explorar diferentes caminhos e ramificações do pensamento, gerando respostas mais completas e abrangentes.
+
+```
+Crie um plano de aula sobre a Revolução Industrial, considerando as seguintes etapas: causas, principais invenções, impactos sociais e econômicos. Para cada etapa, liste pelo menos três pontos importantes.
+```
+
+**Outro exemplo mais complexo:**
 ```
 Imagine que três especialistas diferentes estejam respondendo a essa pergunta.
 Todos os especialistas anotarão uma etapa de seu pensamento,
@@ -195,6 +225,13 @@ Onde está a bola? "
 Narre o pensamento dos especialistas!
 ```
 * [Gemini](https://g.co/gemini/share/334eb85f6e7d) | [ChatGPT](https://chatgpt.com/share/67293253-eb04-800a-b6e7-f80ddd830158)
+
+
+## Generate Knowledge Prompting
+No veu ver, é dar contexto - [More informattion](https://www.promptingguide.ai/techniques/knowledge)
+
+## Prompt Chaining (Encadeamento de prompt)
+Usar o resultado de um prompt para entrada em outro
 
 ## Directional Stimulus Prompting
 - [artigo](https://arxiv.org/abs/2302.11520)
