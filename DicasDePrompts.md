@@ -1,5 +1,5 @@
 # Dicas de Prompts 💻>
-Costumo dizer de Engenharia de Prompt é a arte de falar com os Modelos de Linguagens (as LLMs). Ao dominar essas técnicas, você poderá criar prompts mais eficazes, obtendo resultados mais precisos e relevantes para suas necessidades.
+Costumo dizer de [Engenharia de Prompt](https://medium.com/blog-do-zouza/genai-o-que-%C3%A9-engenharia-de-prompt-6d416afe1323) é a arte de falar com os Modelos de Linguagens (as LLMs). Ao dominar essas técnicas, você poderá criar prompts mais eficazes, obtendo resultados mais precisos e relevantes para suas necessidades.
 
 ## Refinamento iterativo
 A engenharia de prompt é um processo iterativo. Ao refinar seus prompts, você obterá resultados cada vez melhores.
@@ -122,6 +122,7 @@ Combinar a geração de texto com a geração de imagens permite criar materiais
 ```
 Crie um infográfico sobre o sistema solar, utilizando o modelo de geração de imagens Stable Diffusion. Inclua informações sobre os planetas, o sol e a lua.
 ```
+- [Exemplos de prompts de geração de imagem.](https://github.com/aasouzaconsult/GenAI-Prompts/tree/main/Leonardo%20AI)
 
 ## Prompting com Dados Estruturados
 Ao fornecer dados estruturados, você auxilia a IA a gerar respostas mais precisas e relevantes.
