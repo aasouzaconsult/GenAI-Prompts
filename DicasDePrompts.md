@@ -163,7 +163,7 @@ Implemente um algoritmo de ordenação por bolha (Bubble Sort) em Python, Java e
 ```
 Outro exemplo
 ```python
-O código abaixo ordena uma lista em Python usando o método Bubble Sort. Otimize-o para reduzir a complexidade computacional e substitua-o por um algoritmo mais eficiente."
+O código abaixo ordena uma lista em Python usando o método Bubble Sort. Otimize-o para reduzir a complexidade computacional e substitua-o por um algoritmo mais eficiente.
 
   def bubble_sort(arr):
       n = len(arr)
