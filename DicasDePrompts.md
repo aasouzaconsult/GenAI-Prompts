@@ -230,6 +230,8 @@ What restaurant should I take Alex to in Dubai this weekend?
 ## Chain-of-Thought (CoT) Prompting
 Introduzido em Wei et al. (2022), a solicitação de cadeia de pensamento ([CoT](https://www.promptingguide.ai/techniques/cot)) permite recursos de raciocínio complexos por meio de etapas intermediárias de raciocínio. Você pode combiná-lo com solicitações rápidas para obter melhores resultados em tarefas mais complexas que exigem raciocínio antes de responder. [artigo](https://arxiv.org/abs/2201.11903)
 
+Essa é a técnica utilizada nas LLM´s que "pensam"! *(Exemplo: ChatGPT o1 e o3-mini, DeepSeek)*
+
 ```
 Os números ímpares neste grupo somam um número par: 4, 8, 9, 15, 12, 2, 1.
 R: Somando todos os números ímpares (9, 15, 1) dá 25. A resposta é falsa.
