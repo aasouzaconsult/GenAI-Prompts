@@ -157,6 +157,23 @@ Ao fornecer exemplos de código, você pode guiar a IA a gerar soluções progra
 ```
 Gere um código Python para criar um gráfico de barras que compare as populações dos cinco países mais populosos do mundo.
 ```
+Mais um exemplo
+```
+Implemente um algoritmo de ordenação por bolha (Bubble Sort) em Python, Java e C++. O código deve ser eficiente e incluir comentários explicando cada passo.
+```
+Outro exemplo
+```python
+O código abaixo ordena uma lista em Python usando o método Bubble Sort. Otimize-o para reduzir a complexidade computacional e substitua-o por um algoritmo mais eficiente."
+
+  def bubble_sort(arr):
+      n = len(arr)
+      for i in range(n):
+          for j in range(0, n-i-1):
+              if arr[j] > arr[j+1]:
+                  arr[j], arr[j+1] = arr[j+1], arr[j]
+      return arr
+
+```
 
 ## Prompting com Referências
 Ao fornecer referências, você garante a precisão e a confiabilidade das informações geradas pela IA.
