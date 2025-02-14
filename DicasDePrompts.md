@@ -63,11 +63,18 @@ O tom da resposta é importante. Você pode pedir um tom formal, casual, entusi�
 Impeça a IA de seguir caminhos óbvios, incentivando-a a encontrar soluções criativas.
 
 ```
-Crie um quiz sobre a mitologia grega, com perguntas de múltipla escolha e sem utilizar a palavra ‘deus’. Inclua pelo menos cinco mitos diferentes.
+Explique o conceito de inovação sem usar as palavras 'criatividade', 'tecnologia' ou 'novidade'. Utilize uma analogia incomum para tornar o conceito mais claro.
 ````
 
 ## Prompting com Múltiplos Formatos
 Solicite diferentes formatos de saída para estimular a IA a gerar conteúdo diversificado e completo.
+```
+Explique o conceito de redes neurais artificiais de três formas diferentes:
+1️⃣ Em um parágrafo técnico para especialistas.
+2️⃣ Como uma metáfora acessível para iniciantes.
+3️⃣ No formato de um pequeno diálogo entre um professor e um aluno.
+```
+ou
 ```
 Crie um material didático sobre o sistema solar, incluindo um texto explicativo, um infográfico e uma apresentação em slides. Utilize linguagem clara e objetiva, adequada para alunos do 6º ano.
 ```
@@ -75,6 +82,15 @@ Crie um material didático sobre o sistema solar, incluindo um texto explicativo
 ## Prompting com Feedback Iterativo
 Refinar o prompt com base no feedback da IA permite obter resultados cada vez mais precisos.
 
+```
+Explique o que é aprendizado de máquina para alguém que nunca ouviu falar sobre o assunto.
+>> resposta: Reescreva a explicação de aprendizado de máquina, tornando-a mais acessível e utilizando um exemplo do cotidiano.
+
+Reescreva a explicação de aprendizado de máquina, tornando-a mais acessível e utilizando um exemplo do cotidiano.
+>> resposta: Imagine que você ensina um amigo a reconhecer frutas. Você mostra várias maçãs e diz ‘isso é uma maçã’. Com o tempo, ele aprende a identificar maçãs sozinho. O aprendizado de máquina funciona de maneira semelhante, mas com computadores analisando grandes volumes de dados para identificar padrões.
+```
+
+outro exemplo:
 ```
 Crie um plano de aula sobre a célula. Após a primeira resposta, me diga quais partes da célula você abordou. Em seguida, peça para você incluir informações sobre a organela responsável pela produção de energia.
 ```
