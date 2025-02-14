@@ -127,7 +127,7 @@ Limitar o tamanho da resposta força a IA a sintetizar a informação de forma c
 Crie um resumo de cinco frases sobre a Primeira Guerra Mundial, destacando as principais causas e consequências.
 ```
 
-## Prompting com Múltiplos Perspectivas
+## Prompting com Múltiplas Perspectivas
 Estimular a IA a considerar diferentes pontos de vista enriquece a discussão e promove o pensamento crítico.
 ```
 Apresente três diferentes perspectivas sobre a Revolução Francesa: a dos nobres, a do clero e a do terceiro estado.
