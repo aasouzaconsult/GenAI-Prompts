@@ -138,6 +138,11 @@ Combinar a geração de texto com a geração de imagens permite criar materiais
 ```
 Crie um infográfico sobre o sistema solar, utilizando o modelo de geração de imagens Stable Diffusion. Inclua informações sobre os planetas, o sol e a lua.
 ```
+Outro exemplo:
+```
+Gere uma imagem de uma cena realista de uma oficina medieval de ferreiro, com um jovem aprendiz, Théo, martelando uma espada incandescente sobre uma bigorna. O fogo da forja ilumina seu rosto concentrado, com faíscas voando ao redor. Texturas detalhadas do metal, ferramentas e paredes de pedra. Pergaminhos com anotações sobre técnicas de forja estão visíveis nas proximidades, mostrando padrões e observações. A atmosfera é quente e intensa, capturando a essência do artesanato e do aprendizado por meio da experiência.
+```
+
 - [Exemplos de prompts de geração de imagem.](https://github.com/aasouzaconsult/GenAI-Prompts/tree/main/Leonardo%20AI)
 
 ## Prompting com Dados Estruturados
