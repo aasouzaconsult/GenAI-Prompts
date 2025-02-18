@@ -28,6 +28,8 @@ Neste repositório, exploramos diferentes aplicações e técnicas de Inteligên
 - [Com auxílio do ChatGPT, mãe descobre síndrome rara do filho](https://exame.com/inteligencia-artificial/com-auxilio-do-chatgpt-mae-descobre-sindrome-rara-do-filho/)
   - Família consultou 17 médicos ao longo de três anos, mas só descobriu o nome da doença rara com a avaliação da IA generativa
 - [AzulGPT](https://news.microsoft.com/pt-br/azul-lanca-ferramenta-de-inteligencia-artificial-propria-em-colaboracao-com-microsoft-e-avanade/)
+- Na Medicina
+  - Diagnóstico médico - [Podcast](https://www.youtube.com/watch?v=roaWImBUumA)
 - [Jurídico AI](https://juridico.ai/)
 - [Na Arquitetura](https://www.unite.ai/pt/Projetos-de-IA-generativa-redefinindo-o-futuro-da-arquitetura)
 - [No Recursos Humanos](https://rhpravoce.com.br/colab/o-uso-da-ia-generativa-na-area-de-recursos-humanos/)
