@@ -49,7 +49,7 @@ Neste repositório, exploramos diferentes aplicações e técnicas de Inteligên
 - [Trabalho e trabalhadores (A reinvenção na era da IA generativa)](https://www.accenture.com/br-pt/insights/consulting/gen-ai-talent)
   
 ### Ferramentas
-- [Tools de IA](https://wistful-trust-3c0.notion.site/Ferramentas-usando-GenAI-dfc787c0e6384957b7a9d19ba56c3026?pvs=4)
+- [Tools de IA](https://wistful-trust-3c0.notion.site/Ferramentas-GenAI-18a451ab3bff8001aeafcf6f3eecbf47?pvs=74)
 
 ### Engenharia de Prompt / Prompts
 - [Engenharia de Prompt](https://medium.com/blog-do-zouza/genai-o-que-%C3%A9-engenharia-de-prompt-6d416afe1323)
