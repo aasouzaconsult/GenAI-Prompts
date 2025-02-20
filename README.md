@@ -10,6 +10,9 @@ Neste repositório, exploramos diferentes aplicações e técnicas de Inteligên
 
 ## Conteúdo
 
+### Linha do tempo da IA
+[Linha do tempo](https://medium.com/blog-do-zouza/a-evolu%C3%A7%C3%A3o-da-intelig%C3%AAncia-artificial-uma-linha-do-tempo-com-deep-learning-5c416f7303fa)
+
 ### Arquitetura Transformer
 [Arquitetura](https://github.com/aasouzaconsult/GenAI-Prompts/blob/main/arquitetura_transformer.md)
 
